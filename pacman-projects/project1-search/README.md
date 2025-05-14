@@ -16,10 +16,10 @@ This assignment implements fundamental graph search algorithms to navigate Pacma
 ```bash
 # Solve tinyMaze with DFS
 python pacman.py -l tinyMaze -p SearchAgent -a fn=depthFirstSearch
-```
 
 # Solve mediumMaze with UCS
 python pacman.py -l mediumMaze -p SearchAgent -a fn=uniformCostSearch
 
 # Solve bigMaze with A* and the Manhattan heuristic
 python pacman.py -l bigMaze -p SearchAgent -a fn=aStarSearch,heuristic=manhattanHeuristic
+```
