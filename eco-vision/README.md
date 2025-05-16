@@ -5,5 +5,5 @@ A curated collection of computer-vision pipelines solving real-world conservatio
 | Project Folder                | Focus Area                                       |
 | ----------------------------- | ------------------------------------------------ |
 | `wildlife-classifier`         | Multi-species classification on camera-trap data |
-| `empty-vs-filled-detector`    | Automatic blank-frame detection & filtering      |
+| `megadetector`    | Automatic blank-frame detection & filtering      |
 | `invasive-spread-predictor`   | Classification and Spatio-temporal modeling of invasive insect species     |
