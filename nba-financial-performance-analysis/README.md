@@ -30,6 +30,5 @@ Investigate whether an NBA franchises’ financial decision making (salary‐cap
 - All regressors yielded similar RMSE (~1.70)  
 - Playoff classifiers failed to discriminate (AUC ≈ 0.49)  
 - Financial “savvy” alone is a weak predictor of team success
-- 
 
-![R Markdown File](https://shankar-veludandi.github.io/ITWS_6600/DataAnalytics_A4_Shankar_Veludandi.html)
+[R Markdown File](https://shankar-veludandi.github.io/ITWS_6600/DataAnalytics_A4_Shankar_Veludandi.html)
