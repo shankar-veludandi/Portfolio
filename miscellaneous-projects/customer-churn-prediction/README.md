@@ -27,8 +27,7 @@ A from-scratch logistic‐regression pipeline tackling binary churn prediction o
      - Dropped multi-collinear columns via VIF (>10).  
      - Hierarchical clustering & heatmap revealed natural feature groupings.
 
-   ![](dendrogram.png)  
-   ![](correlation_heatmap.png)  
+     
 
 3. **Model Implementation**  
    – Built `LogisticRegressionScratch` supporting **batch**, **stochastic**, and **mini-batch** gradient descent.  
@@ -64,5 +63,4 @@ RMSProp yields the highest F1 (59.50%), while Momentum converges more smoothly t
 - **Best F1:** 59.89%  
 - **Best (learning_rate, βₘ):** (0.001, 0.95)  
 
-![](optimizer_cost_curves.png)  
-![](hyperparam_results.png)  
+
