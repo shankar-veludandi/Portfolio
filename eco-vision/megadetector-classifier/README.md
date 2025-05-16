@@ -30,7 +30,7 @@ Characterize the Karoo camera‐trap dataset before modeling.
   - antidorcas marsupialis: 78  
 - **Class imbalance & blank‐frame prevalence** were identified as primary challenges.  
 
-![](notebooks/figures/species_distribution.png)
+![](species_distribution.png)
 
 ---
 
