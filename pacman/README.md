@@ -6,10 +6,10 @@ inference, and classification algorithms.
 
 | Project                            | Description                                           |
 | ---------------------------------- | ----------------------------------------------------- |
-| [project1-search](project1-search) | Graph search: DFS, BFS, UCS, A* on maze problems      |
-| [project2-multiagent](project2-multiagent) | Minimax, α-β, Expectimax & reflex agents          |
-| [project3-reinforcement](project3-reinforcement) | Value Iteration & Q-Learning agents            |
-| [project4-ghostbusters](project4-ghostbusters) | Particle filters & exact inference for ghosts   |
-| [project5-classification](project5-classification) | Naive Bayes, Perceptron, & MIRA classifiers    |
+| [1-search](search) | Graph search: DFS, BFS, UCS, A* on maze problems      |
+| [2-multiagent](multiagent) | Minimax, α-β, Expectimax & reflex agents          |
+| [3-reinforcement](reinforcement) | Value Iteration & Q-Learning agents            |
+| [4-ghostbusters](ghostbusters) | Particle filters & exact inference for ghosts   |
+| [5-classification](classification) | Naive Bayes, Perceptron, & MIRA classifiers    |
 
 Click into each folder for usage examples and code explanations.
