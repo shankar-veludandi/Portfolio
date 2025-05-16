@@ -1,0 +1,1001 @@
+capture_id,capture_date_local,capture_time_local,subject_id,subject_id,image_basename,image_rank_in_capture,subject_id,subject_id,question__species,kingdom,phylum,class,order,family,genus,species,common_name
+KAR_S1#A02#1#13,2017-10-07,14:20:50,28794796,28794796,KAR_S1_A02_R1_IMAG0033.JPG,1,28794796,28794796,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#13,2017-10-07,14:20:50,28794796,28794796,KAR_S1_A02_R1_IMAG0034.JPG,2,28794796,28794796,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#13,2017-10-07,14:20:50,28794796,28794796,KAR_S1_A02_R1_IMAG0035.JPG,3,28794796,28794796,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#16,2017-10-09,07:06:00,28794799,28794799,KAR_S1_A02_R1_IMAG0038.JPG,1,28794799,28794799,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#16,2017-10-09,07:06:00,28794799,28794799,KAR_S1_A02_R1_IMAG0039.JPG,2,28794799,28794799,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#16,2017-10-09,07:06:00,28794799,28794799,KAR_S1_A02_R1_IMAG0040.JPG,3,28794799,28794799,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#17,2017-10-10,07:42:44,28794800,28794800,KAR_S1_A02_R1_IMAG0041.JPG,1,28794800,28794800,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#17,2017-10-10,07:42:44,28794800,28794800,KAR_S1_A02_R1_IMAG0042.JPG,2,28794800,28794800,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#17,2017-10-10,07:42:44,28794800,28794800,KAR_S1_A02_R1_IMAG0043.JPG,3,28794800,28794800,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#18,2017-10-10,07:44:18,28794801,28794801,KAR_S1_A02_R1_IMAG0044.JPG,1,28794801,28794801,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#18,2017-10-10,07:44:18,28794801,28794801,KAR_S1_A02_R1_IMAG0045.JPG,2,28794801,28794801,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#18,2017-10-10,07:44:18,28794801,28794801,KAR_S1_A02_R1_IMAG0046.JPG,3,28794801,28794801,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#19,2017-10-10,08:39:29,28794802,28794802,KAR_S1_A02_R1_IMAG0047.JPG,1,28794802,28794802,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#19,2017-10-10,08:39:29,28794802,28794802,KAR_S1_A02_R1_IMAG0048.JPG,2,28794802,28794802,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#19,2017-10-10,08:39:29,28794802,28794802,KAR_S1_A02_R1_IMAG0049.JPG,3,28794802,28794802,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#20,2017-10-10,10:24:09,28794803,28794803,KAR_S1_A02_R1_IMAG0050.JPG,1,28794803,28794803,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#20,2017-10-10,10:24:09,28794803,28794803,KAR_S1_A02_R1_IMAG0051.JPG,2,28794803,28794803,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#20,2017-10-10,10:24:09,28794803,28794803,KAR_S1_A02_R1_IMAG0052.JPG,3,28794803,28794803,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#21,2017-10-10,10:35:23,28794804,28794804,KAR_S1_A02_R1_IMAG0053.JPG,1,28794804,28794804,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#21,2017-10-10,10:35:23,28794804,28794804,KAR_S1_A02_R1_IMAG0054.JPG,2,28794804,28794804,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#21,2017-10-10,10:35:23,28794804,28794804,KAR_S1_A02_R1_IMAG0055.JPG,3,28794804,28794804,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#22,2017-10-10,11:38:35,28794805,28794805,KAR_S1_A02_R1_IMAG0056.JPG,1,28794805,28794805,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#22,2017-10-10,11:38:35,28794805,28794805,KAR_S1_A02_R1_IMAG0057.JPG,2,28794805,28794805,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#22,2017-10-10,11:38:35,28794805,28794805,KAR_S1_A02_R1_IMAG0058.JPG,3,28794805,28794805,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#23,2017-10-13,08:55:23,28794806,28794806,KAR_S1_A02_R1_IMAG0059.JPG,1,28794806,28794806,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#23,2017-10-13,08:55:23,28794806,28794806,KAR_S1_A02_R1_IMAG0060.JPG,2,28794806,28794806,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#23,2017-10-13,08:55:23,28794806,28794806,KAR_S1_A02_R1_IMAG0061.JPG,3,28794806,28794806,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#24,2017-10-13,14:27:26,28794807,28794807,KAR_S1_A02_R1_IMAG0062.JPG,1,28794807,28794807,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#24,2017-10-13,14:27:26,28794807,28794807,KAR_S1_A02_R1_IMAG0063.JPG,2,28794807,28794807,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#24,2017-10-13,14:27:26,28794807,28794807,KAR_S1_A02_R1_IMAG0064.JPG,3,28794807,28794807,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#26,2017-10-14,07:17:47,28794809,28794809,KAR_S1_A02_R1_IMAG0066.JPG,1,28794809,28794809,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#26,2017-10-14,07:17:47,28794809,28794809,KAR_S1_A02_R1_IMAG0067.JPG,2,28794809,28794809,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#26,2017-10-14,07:17:47,28794809,28794809,KAR_S1_A02_R1_IMAG0068.JPG,3,28794809,28794809,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#27,2017-10-14,15:13:19,28794810,28794810,KAR_S1_A02_R1_IMAG0069.JPG,1,28794810,28794810,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#27,2017-10-14,15:13:19,28794810,28794810,KAR_S1_A02_R1_IMAG0070.JPG,2,28794810,28794810,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#27,2017-10-14,15:13:19,28794810,28794810,KAR_S1_A02_R1_IMAG0071.JPG,3,28794810,28794810,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#30,2017-10-17,17:52:57,28794813,28794813,KAR_S1_A02_R1_IMAG0078.JPG,1,28794813,28794813,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#30,2017-10-17,17:52:57,28794813,28794813,KAR_S1_A02_R1_IMAG0079.JPG,2,28794813,28794813,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#30,2017-10-17,17:52:57,28794813,28794813,KAR_S1_A02_R1_IMAG0080.JPG,3,28794813,28794813,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#31,2017-10-18,06:43:39,28794814,28794814,KAR_S1_A02_R1_IMAG0081.JPG,1,28794814,28794814,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#31,2017-10-18,06:43:39,28794814,28794814,KAR_S1_A02_R1_IMAG0082.JPG,2,28794814,28794814,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#31,2017-10-18,06:43:39,28794814,28794814,KAR_S1_A02_R1_IMAG0083.JPG,3,28794814,28794814,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#41,2017-10-24,10:04:12,28794824,28794824,KAR_S1_A02_R1_IMAG0101.JPG,1,28794824,28794824,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#41,2017-10-24,10:04:12,28794824,28794824,KAR_S1_A02_R1_IMAG0102.JPG,2,28794824,28794824,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#41,2017-10-24,10:04:12,28794824,28794824,KAR_S1_A02_R1_IMAG0103.JPG,3,28794824,28794824,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#42,2017-10-24,14:48:06,28794825,28794825,KAR_S1_A02_R1_IMAG0104.JPG,1,28794825,28794825,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#42,2017-10-24,14:48:06,28794825,28794825,KAR_S1_A02_R1_IMAG0105.JPG,2,28794825,28794825,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#42,2017-10-24,14:48:06,28794825,28794825,KAR_S1_A02_R1_IMAG0106.JPG,3,28794825,28794825,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#43,2017-10-25,14:00:00,28794826,28794826,KAR_S1_A02_R1_IMAG0107.JPG,1,28794826,28794826,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#43,2017-10-25,14:00:00,28794826,28794826,KAR_S1_A02_R1_IMAG0108.JPG,2,28794826,28794826,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#43,2017-10-25,14:00:00,28794826,28794826,KAR_S1_A02_R1_IMAG0109.JPG,3,28794826,28794826,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#53,2017-11-04,14:42:34,28794836,28794836,KAR_S1_A02_R1_IMAG0125.JPG,1,28794836,28794836,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#A02#1#53,2017-11-04,14:42:34,28794836,28794836,KAR_S1_A02_R1_IMAG0126.JPG,2,28794836,28794836,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#A02#1#53,2017-11-04,14:42:34,28794836,28794836,KAR_S1_A02_R1_IMAG0127.JPG,3,28794836,28794836,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#A02#1#54,2017-11-08,17:42:59,28794837,28794837,KAR_S1_A02_R1_IMAG0128.JPG,1,28794837,28794837,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#A02#1#54,2017-11-08,17:42:59,28794837,28794837,KAR_S1_A02_R1_IMAG0129.JPG,2,28794837,28794837,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#A02#1#54,2017-11-08,17:42:59,28794837,28794837,KAR_S1_A02_R1_IMAG0130.JPG,3,28794837,28794837,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#A02#1#56,2017-11-13,09:12:36,28794839,28794839,KAR_S1_A02_R1_IMAG0134.JPG,1,28794839,28794839,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#A02#1#56,2017-11-13,09:12:36,28794839,28794839,KAR_S1_A02_R1_IMAG0135.JPG,2,28794839,28794839,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#A02#1#56,2017-11-13,09:12:36,28794839,28794839,KAR_S1_A02_R1_IMAG0136.JPG,3,28794839,28794839,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#A02#1#63,2017-11-28,13:04:11,28794846,28794846,KAR_S1_A02_R1_IMAG0153.JPG,1,28794846,28794846,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#A02#1#63,2017-11-28,13:04:11,28794846,28794846,KAR_S1_A02_R1_IMAG0154.JPG,2,28794846,28794846,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#A02#1#63,2017-11-28,13:04:11,28794846,28794846,KAR_S1_A02_R1_IMAG0155.JPG,3,28794846,28794846,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#A02#1#68,2017-12-02,13:42:31,28794851,28794851,KAR_S1_A02_R1_IMAG0168.JPG,1,28794851,28794851,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#A02#1#68,2017-12-02,13:42:31,28794851,28794851,KAR_S1_A02_R1_IMAG0169.JPG,2,28794851,28794851,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#A02#1#68,2017-12-02,13:42:31,28794851,28794851,KAR_S1_A02_R1_IMAG0170.JPG,3,28794851,28794851,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#A02#1#71,2017-12-02,14:41:48,28794854,28794854,KAR_S1_A02_R1_IMAG0177.JPG,1,28794854,28794854,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#71,2017-12-02,14:41:48,28794854,28794854,KAR_S1_A02_R1_IMAG0178.JPG,2,28794854,28794854,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#71,2017-12-02,14:41:48,28794854,28794854,KAR_S1_A02_R1_IMAG0179.JPG,3,28794854,28794854,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#73,2017-12-03,11:59:29,28794856,28794856,KAR_S1_A02_R1_IMAG0181.JPG,1,28794856,28794856,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#73,2017-12-03,11:59:29,28794856,28794856,KAR_S1_A02_R1_IMAG0182.JPG,2,28794856,28794856,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#73,2017-12-03,11:59:29,28794856,28794856,KAR_S1_A02_R1_IMAG0183.JPG,3,28794856,28794856,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#74,2017-12-03,14:40:39,28794857,28794857,KAR_S1_A02_R1_IMAG0184.JPG,1,28794857,28794857,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#74,2017-12-03,14:40:39,28794857,28794857,KAR_S1_A02_R1_IMAG0185.JPG,2,28794857,28794857,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#74,2017-12-03,14:40:39,28794857,28794857,KAR_S1_A02_R1_IMAG0186.JPG,3,28794857,28794857,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#76,2017-12-06,14:42:00,28794859,28794859,KAR_S1_A02_R1_IMAG0188.JPG,1,28794859,28794859,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#76,2017-12-06,14:42:00,28794859,28794859,KAR_S1_A02_R1_IMAG0189.JPG,2,28794859,28794859,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#76,2017-12-06,14:42:00,28794859,28794859,KAR_S1_A02_R1_IMAG0190.JPG,3,28794859,28794859,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#77,2017-12-06,15:21:35,28794860,28794860,KAR_S1_A02_R1_IMAG0191.JPG,1,28794860,28794860,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#77,2017-12-06,15:21:35,28794860,28794860,KAR_S1_A02_R1_IMAG0192.JPG,2,28794860,28794860,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#77,2017-12-06,15:21:35,28794860,28794860,KAR_S1_A02_R1_IMAG0193.JPG,3,28794860,28794860,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#78,2017-12-06,15:24:35,28794861,28794861,KAR_S1_A02_R1_IMAG0194.JPG,1,28794861,28794861,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#78,2017-12-06,15:24:35,28794861,28794861,KAR_S1_A02_R1_IMAG0195.JPG,2,28794861,28794861,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#78,2017-12-06,15:24:35,28794861,28794861,KAR_S1_A02_R1_IMAG0196.JPG,3,28794861,28794861,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#79,2017-12-06,15:25:58,28794862,28794862,KAR_S1_A02_R1_IMAG0197.JPG,1,28794862,28794862,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#79,2017-12-06,15:25:58,28794862,28794862,KAR_S1_A02_R1_IMAG0198.JPG,2,28794862,28794862,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#79,2017-12-06,15:25:58,28794862,28794862,KAR_S1_A02_R1_IMAG0199.JPG,3,28794862,28794862,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#80,2017-12-06,15:27:01,28794863,28794863,KAR_S1_A02_R1_IMAG0200.JPG,1,28794863,28794863,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#80,2017-12-06,15:27:01,28794863,28794863,KAR_S1_A02_R1_IMAG0201.JPG,2,28794863,28794863,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#80,2017-12-06,15:27:01,28794863,28794863,KAR_S1_A02_R1_IMAG0202.JPG,3,28794863,28794863,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#81,2017-12-06,15:28:00,28794864,28794864,KAR_S1_A02_R1_IMAG0203.JPG,1,28794864,28794864,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#81,2017-12-06,15:28:00,28794864,28794864,KAR_S1_A02_R1_IMAG0204.JPG,2,28794864,28794864,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#81,2017-12-06,15:28:00,28794864,28794864,KAR_S1_A02_R1_IMAG0205.JPG,3,28794864,28794864,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#82,2017-12-06,15:29:01,28794865,28794865,KAR_S1_A02_R1_IMAG0206.JPG,1,28794865,28794865,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#82,2017-12-06,15:29:01,28794865,28794865,KAR_S1_A02_R1_IMAG0207.JPG,2,28794865,28794865,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#82,2017-12-06,15:29:01,28794865,28794865,KAR_S1_A02_R1_IMAG0208.JPG,3,28794865,28794865,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#83,2017-12-06,15:30:01,28794866,28794866,KAR_S1_A02_R1_IMAG0209.JPG,1,28794866,28794866,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#83,2017-12-06,15:30:01,28794866,28794866,KAR_S1_A02_R1_IMAG0210.JPG,2,28794866,28794866,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#83,2017-12-06,15:30:01,28794866,28794866,KAR_S1_A02_R1_IMAG0211.JPG,3,28794866,28794866,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#84,2017-12-06,15:31:07,28794867,28794867,KAR_S1_A02_R1_IMAG0212.JPG,1,28794867,28794867,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#84,2017-12-06,15:31:07,28794867,28794867,KAR_S1_A02_R1_IMAG0213.JPG,2,28794867,28794867,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#84,2017-12-06,15:31:07,28794867,28794867,KAR_S1_A02_R1_IMAG0214.JPG,3,28794867,28794867,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#85,2017-12-06,15:32:08,28794868,28794868,KAR_S1_A02_R1_IMAG0215.JPG,1,28794868,28794868,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#85,2017-12-06,15:32:08,28794868,28794868,KAR_S1_A02_R1_IMAG0216.JPG,2,28794868,28794868,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#85,2017-12-06,15:32:08,28794868,28794868,KAR_S1_A02_R1_IMAG0217.JPG,3,28794868,28794868,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#86,2017-12-06,15:33:12,28794869,28794869,KAR_S1_A02_R1_IMAG0218.JPG,1,28794869,28794869,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#86,2017-12-06,15:33:12,28794869,28794869,KAR_S1_A02_R1_IMAG0219.JPG,2,28794869,28794869,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#86,2017-12-06,15:33:12,28794869,28794869,KAR_S1_A02_R1_IMAG0220.JPG,3,28794869,28794869,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#87,2017-12-06,15:34:59,28794870,28794870,KAR_S1_A02_R1_IMAG0221.JPG,1,28794870,28794870,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#87,2017-12-06,15:34:59,28794870,28794870,KAR_S1_A02_R1_IMAG0222.JPG,2,28794870,28794870,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#87,2017-12-06,15:34:59,28794870,28794870,KAR_S1_A02_R1_IMAG0223.JPG,3,28794870,28794870,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#88,2017-12-06,15:37:12,28794871,28794871,KAR_S1_A02_R1_IMAG0224.JPG,1,28794871,28794871,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#88,2017-12-06,15:37:12,28794871,28794871,KAR_S1_A02_R1_IMAG0225.JPG,2,28794871,28794871,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#88,2017-12-06,15:37:12,28794871,28794871,KAR_S1_A02_R1_IMAG0226.JPG,3,28794871,28794871,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#89,2017-12-06,15:38:15,28794872,28794872,KAR_S1_A02_R1_IMAG0227.JPG,1,28794872,28794872,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#89,2017-12-06,15:38:15,28794872,28794872,KAR_S1_A02_R1_IMAG0228.JPG,2,28794872,28794872,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#89,2017-12-06,15:38:15,28794872,28794872,KAR_S1_A02_R1_IMAG0229.JPG,3,28794872,28794872,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#90,2017-12-06,15:39:28,28794873,28794873,KAR_S1_A02_R1_IMAG0230.JPG,1,28794873,28794873,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#90,2017-12-06,15:39:28,28794873,28794873,KAR_S1_A02_R1_IMAG0231.JPG,2,28794873,28794873,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#90,2017-12-06,15:39:28,28794873,28794873,KAR_S1_A02_R1_IMAG0232.JPG,3,28794873,28794873,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#91,2017-12-06,15:40:49,28794874,28794874,KAR_S1_A02_R1_IMAG0233.JPG,1,28794874,28794874,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#91,2017-12-06,15:40:49,28794874,28794874,KAR_S1_A02_R1_IMAG0234.JPG,2,28794874,28794874,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#91,2017-12-06,15:40:49,28794874,28794874,KAR_S1_A02_R1_IMAG0235.JPG,3,28794874,28794874,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#92,2017-12-06,15:42:09,28794875,28794875,KAR_S1_A02_R1_IMAG0236.JPG,1,28794875,28794875,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#92,2017-12-06,15:42:09,28794875,28794875,KAR_S1_A02_R1_IMAG0237.JPG,2,28794875,28794875,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#92,2017-12-06,15:42:09,28794875,28794875,KAR_S1_A02_R1_IMAG0238.JPG,3,28794875,28794875,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#93,2017-12-06,15:44:51,28794876,28794876,KAR_S1_A02_R1_IMAG0239.JPG,1,28794876,28794876,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#93,2017-12-06,15:44:51,28794876,28794876,KAR_S1_A02_R1_IMAG0240.JPG,2,28794876,28794876,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#93,2017-12-06,15:44:51,28794876,28794876,KAR_S1_A02_R1_IMAG0241.JPG,3,28794876,28794876,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#94,2017-12-06,15:46:01,28794877,28794877,KAR_S1_A02_R1_IMAG0242.JPG,1,28794877,28794877,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#94,2017-12-06,15:46:01,28794877,28794877,KAR_S1_A02_R1_IMAG0243.JPG,2,28794877,28794877,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#94,2017-12-06,15:46:01,28794877,28794877,KAR_S1_A02_R1_IMAG0244.JPG,3,28794877,28794877,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#95,2017-12-06,15:47:02,28794878,28794878,KAR_S1_A02_R1_IMAG0245.JPG,1,28794878,28794878,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#95,2017-12-06,15:47:02,28794878,28794878,KAR_S1_A02_R1_IMAG0246.JPG,2,28794878,28794878,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#95,2017-12-06,15:47:02,28794878,28794878,KAR_S1_A02_R1_IMAG0247.JPG,3,28794878,28794878,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#96,2017-12-06,15:48:04,28794879,28794879,KAR_S1_A02_R1_IMAG0248.JPG,1,28794879,28794879,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#96,2017-12-06,15:48:04,28794879,28794879,KAR_S1_A02_R1_IMAG0249.JPG,2,28794879,28794879,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#96,2017-12-06,15:48:04,28794879,28794879,KAR_S1_A02_R1_IMAG0250.JPG,3,28794879,28794879,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#97,2017-12-06,15:49:07,28794880,28794880,KAR_S1_A02_R1_IMAG0251.JPG,1,28794880,28794880,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#97,2017-12-06,15:49:07,28794880,28794880,KAR_S1_A02_R1_IMAG0252.JPG,2,28794880,28794880,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#97,2017-12-06,15:49:07,28794880,28794880,KAR_S1_A02_R1_IMAG0253.JPG,3,28794880,28794880,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#98,2017-12-06,15:50:15,28794881,28794881,KAR_S1_A02_R1_IMAG0254.JPG,1,28794881,28794881,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#98,2017-12-06,15:50:15,28794881,28794881,KAR_S1_A02_R1_IMAG0255.JPG,2,28794881,28794881,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#98,2017-12-06,15:50:15,28794881,28794881,KAR_S1_A02_R1_IMAG0256.JPG,3,28794881,28794881,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#99,2017-12-06,15:52:04,28794882,28794882,KAR_S1_A02_R1_IMAG0257.JPG,1,28794882,28794882,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#99,2017-12-06,15:52:04,28794882,28794882,KAR_S1_A02_R1_IMAG0258.JPG,2,28794882,28794882,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#99,2017-12-06,15:52:04,28794882,28794882,KAR_S1_A02_R1_IMAG0259.JPG,3,28794882,28794882,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#100,2017-12-07,15:02:21,28794883,28794883,KAR_S1_A02_R1_IMAG0260.JPG,1,28794883,28794883,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#100,2017-12-07,15:02:21,28794883,28794883,KAR_S1_A02_R1_IMAG0261.JPG,2,28794883,28794883,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#100,2017-12-07,15:02:21,28794883,28794883,KAR_S1_A02_R1_IMAG0262.JPG,3,28794883,28794883,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#102,2017-12-09,06:13:33,28794885,28794885,KAR_S1_A02_R1_IMAG0264.JPG,1,28794885,28794885,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#102,2017-12-09,06:13:33,28794885,28794885,KAR_S1_A02_R1_IMAG0265.JPG,2,28794885,28794885,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#102,2017-12-09,06:13:33,28794885,28794885,KAR_S1_A02_R1_IMAG0266.JPG,3,28794885,28794885,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#108,2017-12-11,12:17:10,28794891,28794891,KAR_S1_A02_R1_IMAG0276.JPG,1,28794891,28794891,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#108,2017-12-11,12:17:10,28794891,28794891,KAR_S1_A02_R1_IMAG0277.JPG,2,28794891,28794891,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#108,2017-12-11,12:17:10,28794891,28794891,KAR_S1_A02_R1_IMAG0278.JPG,3,28794891,28794891,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#109,2017-12-11,12:18:10,28794892,28794892,KAR_S1_A02_R1_IMAG0279.JPG,1,28794892,28794892,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#109,2017-12-11,12:18:10,28794892,28794892,KAR_S1_A02_R1_IMAG0280.JPG,2,28794892,28794892,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#109,2017-12-11,12:18:10,28794892,28794892,KAR_S1_A02_R1_IMAG0281.JPG,3,28794892,28794892,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#110,2017-12-11,12:23:07,28794893,28794893,KAR_S1_A02_R1_IMAG0282.JPG,1,28794893,28794893,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#110,2017-12-11,12:23:07,28794893,28794893,KAR_S1_A02_R1_IMAG0283.JPG,2,28794893,28794893,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#110,2017-12-11,12:23:07,28794893,28794893,KAR_S1_A02_R1_IMAG0284.JPG,3,28794893,28794893,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#111,2017-12-11,12:27:59,28794894,28794894,KAR_S1_A02_R1_IMAG0285.JPG,1,28794894,28794894,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#111,2017-12-11,12:27:59,28794894,28794894,KAR_S1_A02_R1_IMAG0286.JPG,2,28794894,28794894,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#111,2017-12-11,12:27:59,28794894,28794894,KAR_S1_A02_R1_IMAG0287.JPG,3,28794894,28794894,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#112,2017-12-11,12:30:02,28794895,28794895,KAR_S1_A02_R1_IMAG0288.JPG,1,28794895,28794895,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#112,2017-12-11,12:30:02,28794895,28794895,KAR_S1_A02_R1_IMAG0289.JPG,2,28794895,28794895,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#112,2017-12-11,12:30:02,28794895,28794895,KAR_S1_A02_R1_IMAG0290.JPG,3,28794895,28794895,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#113,2017-12-11,12:31:49,28794896,28794896,KAR_S1_A02_R1_IMAG0291.JPG,1,28794896,28794896,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#113,2017-12-11,12:31:49,28794896,28794896,KAR_S1_A02_R1_IMAG0292.JPG,2,28794896,28794896,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#113,2017-12-11,12:31:49,28794896,28794896,KAR_S1_A02_R1_IMAG0293.JPG,3,28794896,28794896,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#114,2017-12-11,12:34:20,28794897,28794897,KAR_S1_A02_R1_IMAG0294.JPG,1,28794897,28794897,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#114,2017-12-11,12:34:20,28794897,28794897,KAR_S1_A02_R1_IMAG0295.JPG,2,28794897,28794897,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#114,2017-12-11,12:34:20,28794897,28794897,KAR_S1_A02_R1_IMAG0296.JPG,3,28794897,28794897,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#115,2017-12-11,12:37:12,28794898,28794898,KAR_S1_A02_R1_IMAG0297.JPG,1,28794898,28794898,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#115,2017-12-11,12:37:12,28794898,28794898,KAR_S1_A02_R1_IMAG0298.JPG,2,28794898,28794898,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#115,2017-12-11,12:37:12,28794898,28794898,KAR_S1_A02_R1_IMAG0299.JPG,3,28794898,28794898,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#116,2017-12-11,12:44:12,28794899,28794899,KAR_S1_A02_R1_IMAG0300.JPG,1,28794899,28794899,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#116,2017-12-11,12:44:12,28794899,28794899,KAR_S1_A02_R1_IMAG0301.JPG,2,28794899,28794899,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#116,2017-12-11,12:44:12,28794899,28794899,KAR_S1_A02_R1_IMAG0302.JPG,3,28794899,28794899,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#117,2017-12-11,12:51:30,28794900,28794900,KAR_S1_A02_R1_IMAG0303.JPG,1,28794900,28794900,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#117,2017-12-11,12:51:30,28794900,28794900,KAR_S1_A02_R1_IMAG0304.JPG,2,28794900,28794900,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#117,2017-12-11,12:51:30,28794900,28794900,KAR_S1_A02_R1_IMAG0305.JPG,3,28794900,28794900,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#118,2017-12-11,12:52:30,28794901,28794901,KAR_S1_A02_R1_IMAG0306.JPG,1,28794901,28794901,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#118,2017-12-11,12:52:30,28794901,28794901,KAR_S1_A02_R1_IMAG0307.JPG,2,28794901,28794901,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#118,2017-12-11,12:52:30,28794901,28794901,KAR_S1_A02_R1_IMAG0308.JPG,3,28794901,28794901,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#120,2017-12-17,16:34:46,28794903,28794903,KAR_S1_A02_R1_IMAG0312.JPG,1,28794903,28794903,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#120,2017-12-17,16:34:46,28794903,28794903,KAR_S1_A02_R1_IMAG0313.JPG,2,28794903,28794903,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#120,2017-12-17,16:34:46,28794903,28794903,KAR_S1_A02_R1_IMAG0314.JPG,3,28794903,28794903,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#121,2017-12-17,16:35:47,28794904,28794904,KAR_S1_A02_R1_IMAG0315.JPG,1,28794904,28794904,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#121,2017-12-17,16:35:47,28794904,28794904,KAR_S1_A02_R1_IMAG0316.JPG,2,28794904,28794904,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#121,2017-12-17,16:35:47,28794904,28794904,KAR_S1_A02_R1_IMAG0317.JPG,3,28794904,28794904,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#122,2017-12-17,16:37:02,28794905,28794905,KAR_S1_A02_R1_IMAG0318.JPG,1,28794905,28794905,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#122,2017-12-17,16:37:02,28794905,28794905,KAR_S1_A02_R1_IMAG0319.JPG,2,28794905,28794905,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#122,2017-12-17,16:37:02,28794905,28794905,KAR_S1_A02_R1_IMAG0320.JPG,3,28794905,28794905,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#123,2017-12-17,16:39:14,28794906,28794906,KAR_S1_A02_R1_IMAG0321.JPG,1,28794906,28794906,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#123,2017-12-17,16:39:14,28794906,28794906,KAR_S1_A02_R1_IMAG0322.JPG,2,28794906,28794906,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#123,2017-12-17,16:39:14,28794906,28794906,KAR_S1_A02_R1_IMAG0323.JPG,3,28794906,28794906,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#124,2017-12-17,16:41:11,28794907,28794907,KAR_S1_A02_R1_IMAG0324.JPG,1,28794907,28794907,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#124,2017-12-17,16:41:11,28794907,28794907,KAR_S1_A02_R1_IMAG0325.JPG,2,28794907,28794907,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#124,2017-12-17,16:41:11,28794907,28794907,KAR_S1_A02_R1_IMAG0326.JPG,3,28794907,28794907,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#125,2017-12-23,07:21:25,28794908,28794908,KAR_S1_A02_R1_IMAG0327.JPG,1,28794908,28794908,ostrich,animalia,chordata,aves,struthioniformes,struthionidae,struthio,struthio camelus,ostrich
+KAR_S1#A02#1#125,2017-12-23,07:21:25,28794908,28794908,KAR_S1_A02_R1_IMAG0328.JPG,2,28794908,28794908,ostrich,animalia,chordata,aves,struthioniformes,struthionidae,struthio,struthio camelus,ostrich
+KAR_S1#A02#1#125,2017-12-23,07:21:25,28794908,28794908,KAR_S1_A02_R1_IMAG0329.JPG,3,28794908,28794908,ostrich,animalia,chordata,aves,struthioniformes,struthionidae,struthio,struthio camelus,ostrich
+KAR_S1#A02#1#126,2017-12-26,13:34:04,28794909,28794909,KAR_S1_A02_R1_IMAG0330.JPG,1,28794909,28794909,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#126,2017-12-26,13:34:04,28794909,28794909,KAR_S1_A02_R1_IMAG0331.JPG,2,28794909,28794909,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#126,2017-12-26,13:34:04,28794909,28794909,KAR_S1_A02_R1_IMAG0332.JPG,3,28794909,28794909,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#127,2017-12-26,14:00:22,28794910,28794910,KAR_S1_A02_R1_IMAG0333.JPG,1,28794910,28794910,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#127,2017-12-26,14:00:22,28794910,28794910,KAR_S1_A02_R1_IMAG0334.JPG,2,28794910,28794910,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#127,2017-12-26,14:00:22,28794910,28794910,KAR_S1_A02_R1_IMAG0335.JPG,3,28794910,28794910,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#128,2017-12-26,14:01:22,28794911,28794911,KAR_S1_A02_R1_IMAG0336.JPG,1,28794911,28794911,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#128,2017-12-26,14:01:22,28794911,28794911,KAR_S1_A02_R1_IMAG0337.JPG,2,28794911,28794911,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#128,2017-12-26,14:01:22,28794911,28794911,KAR_S1_A02_R1_IMAG0338.JPG,3,28794911,28794911,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#129,2017-12-26,14:05:10,28794912,28794912,KAR_S1_A02_R1_IMAG0339.JPG,1,28794912,28794912,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#129,2017-12-26,14:05:10,28794912,28794912,KAR_S1_A02_R1_IMAG0340.JPG,2,28794912,28794912,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#129,2017-12-26,14:05:10,28794912,28794912,KAR_S1_A02_R1_IMAG0341.JPG,3,28794912,28794912,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#130,2017-12-26,14:24:26,28794913,28794913,KAR_S1_A02_R1_IMAG0342.JPG,1,28794913,28794913,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#130,2017-12-26,14:24:26,28794913,28794913,KAR_S1_A02_R1_IMAG0343.JPG,2,28794913,28794913,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#130,2017-12-26,14:24:26,28794913,28794913,KAR_S1_A02_R1_IMAG0344.JPG,3,28794913,28794913,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#131,2017-12-26,15:01:07,28794914,28794914,KAR_S1_A02_R1_IMAG0345.JPG,1,28794914,28794914,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#131,2017-12-26,15:01:07,28794914,28794914,KAR_S1_A02_R1_IMAG0346.JPG,2,28794914,28794914,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#131,2017-12-26,15:01:07,28794914,28794914,KAR_S1_A02_R1_IMAG0347.JPG,3,28794914,28794914,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#132,2017-12-27,14:09:50,28794915,28794915,KAR_S1_A02_R1_IMAG0348.JPG,1,28794915,28794915,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#132,2017-12-27,14:09:50,28794915,28794915,KAR_S1_A02_R1_IMAG0349.JPG,2,28794915,28794915,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#132,2017-12-27,14:09:50,28794915,28794915,KAR_S1_A02_R1_IMAG0350.JPG,3,28794915,28794915,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#134,2017-12-29,08:40:51,28794917,28794917,KAR_S1_A02_R1_IMAG0354.JPG,1,28794917,28794917,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#134,2017-12-29,08:40:51,28794917,28794917,KAR_S1_A02_R1_IMAG0355.JPG,2,28794917,28794917,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#134,2017-12-29,08:40:51,28794917,28794917,KAR_S1_A02_R1_IMAG0356.JPG,3,28794917,28794917,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#135,2017-12-29,11:40:44,28794918,28794918,KAR_S1_A02_R1_IMAG0357.JPG,1,28794918,28794918,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#135,2017-12-29,11:40:44,28794918,28794918,KAR_S1_A02_R1_IMAG0358.JPG,2,28794918,28794918,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#135,2017-12-29,11:40:44,28794918,28794918,KAR_S1_A02_R1_IMAG0359.JPG,3,28794918,28794918,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#136,2017-12-29,13:52:53,28794919,28794919,KAR_S1_A02_R1_IMAG0360.JPG,1,28794919,28794919,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#136,2017-12-29,13:52:53,28794919,28794919,KAR_S1_A02_R1_IMAG0361.JPG,2,28794919,28794919,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#136,2017-12-29,13:52:53,28794919,28794919,KAR_S1_A02_R1_IMAG0362.JPG,3,28794919,28794919,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#139,2017-12-30,13:11:07,28794922,28794922,KAR_S1_A02_R1_IMAG0369.JPG,1,28794922,28794922,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#139,2017-12-30,13:11:07,28794922,28794922,KAR_S1_A02_R1_IMAG0370.JPG,2,28794922,28794922,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#139,2017-12-30,13:11:07,28794922,28794922,KAR_S1_A02_R1_IMAG0371.JPG,3,28794922,28794922,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#141,2017-12-30,13:52:14,28794924,28794924,KAR_S1_A02_R1_IMAG0375.JPG,1,28794924,28794924,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#141,2017-12-30,13:52:14,28794924,28794924,KAR_S1_A02_R1_IMAG0376.JPG,2,28794924,28794924,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#141,2017-12-30,13:52:14,28794924,28794924,KAR_S1_A02_R1_IMAG0377.JPG,3,28794924,28794924,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#142,2017-12-30,18:04:41,28794925,28794925,KAR_S1_A02_R1_IMAG0378.JPG,1,28794925,28794925,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#142,2017-12-30,18:04:41,28794925,28794925,KAR_S1_A02_R1_IMAG0379.JPG,2,28794925,28794925,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#142,2017-12-30,18:04:41,28794925,28794925,KAR_S1_A02_R1_IMAG0380.JPG,3,28794925,28794925,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#144,2018-01-01,07:08:28,28794927,28794927,KAR_S1_A02_R1_IMAG0382.JPG,1,28794927,28794927,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#144,2018-01-01,07:08:28,28794927,28794927,KAR_S1_A02_R1_IMAG0383.JPG,2,28794927,28794927,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#144,2018-01-01,07:08:28,28794927,28794927,KAR_S1_A02_R1_IMAG0384.JPG,3,28794927,28794927,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#146,2018-01-03,09:22:25,28794929,28794929,KAR_S1_A02_R1_IMAG0386.JPG,1,28794929,28794929,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#146,2018-01-03,09:22:25,28794929,28794929,KAR_S1_A02_R1_IMAG0387.JPG,2,28794929,28794929,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#146,2018-01-03,09:22:25,28794929,28794929,KAR_S1_A02_R1_IMAG0388.JPG,3,28794929,28794929,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#148,2018-01-05,10:04:34,28794931,28794931,KAR_S1_A02_R1_IMAG0392.JPG,1,28794931,28794931,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#148,2018-01-05,10:04:34,28794931,28794931,KAR_S1_A02_R1_IMAG0393.JPG,2,28794931,28794931,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#148,2018-01-05,10:04:34,28794931,28794931,KAR_S1_A02_R1_IMAG0394.JPG,3,28794931,28794931,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#149,2018-01-05,13:31:42,28794932,28794932,KAR_S1_A02_R1_IMAG0395.JPG,1,28794932,28794932,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#149,2018-01-05,13:31:42,28794932,28794932,KAR_S1_A02_R1_IMAG0396.JPG,2,28794932,28794932,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#149,2018-01-05,13:31:42,28794932,28794932,KAR_S1_A02_R1_IMAG0397.JPG,3,28794932,28794932,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#150,2018-01-05,13:33:05,28794933,28794933,KAR_S1_A02_R1_IMAG0398.JPG,1,28794933,28794933,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#150,2018-01-05,13:33:05,28794933,28794933,KAR_S1_A02_R1_IMAG0399.JPG,2,28794933,28794933,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#150,2018-01-05,13:33:05,28794933,28794933,KAR_S1_A02_R1_IMAG0400.JPG,3,28794933,28794933,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#151,2018-01-05,14:11:37,28794934,28794934,KAR_S1_A02_R1_IMAG0401.JPG,1,28794934,28794934,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#151,2018-01-05,14:11:37,28794934,28794934,KAR_S1_A02_R1_IMAG0402.JPG,2,28794934,28794934,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#151,2018-01-05,14:11:37,28794934,28794934,KAR_S1_A02_R1_IMAG0403.JPG,3,28794934,28794934,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#152,2018-01-05,14:15:34,28794935,28794935,KAR_S1_A02_R1_IMAG0404.JPG,1,28794935,28794935,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#152,2018-01-05,14:15:34,28794935,28794935,KAR_S1_A02_R1_IMAG0405.JPG,2,28794935,28794935,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#152,2018-01-05,14:15:34,28794935,28794935,KAR_S1_A02_R1_IMAG0406.JPG,3,28794935,28794935,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#153,2018-01-05,14:18:52,28794936,28794936,KAR_S1_A02_R1_IMAG0407.JPG,1,28794936,28794936,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#153,2018-01-05,14:18:52,28794936,28794936,KAR_S1_A02_R1_IMAG0408.JPG,2,28794936,28794936,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#153,2018-01-05,14:18:52,28794936,28794936,KAR_S1_A02_R1_IMAG0409.JPG,3,28794936,28794936,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#155,2018-01-06,17:23:38,28794938,28794938,KAR_S1_A02_R1_IMAG0411.JPG,1,28794938,28794938,ostrich,animalia,chordata,aves,struthioniformes,struthionidae,struthio,struthio camelus,ostrich
+KAR_S1#A02#1#155,2018-01-06,17:23:38,28794938,28794938,KAR_S1_A02_R1_IMAG0412.JPG,2,28794938,28794938,ostrich,animalia,chordata,aves,struthioniformes,struthionidae,struthio,struthio camelus,ostrich
+KAR_S1#A02#1#155,2018-01-06,17:23:38,28794938,28794938,KAR_S1_A02_R1_IMAG0413.JPG,3,28794938,28794938,ostrich,animalia,chordata,aves,struthioniformes,struthionidae,struthio,struthio camelus,ostrich
+KAR_S1#A02#1#156,2018-01-07,07:41:53,28794939,28794939,KAR_S1_A02_R1_IMAG0414.JPG,1,28794939,28794939,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#156,2018-01-07,07:41:53,28794939,28794939,KAR_S1_A02_R1_IMAG0415.JPG,2,28794939,28794939,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#156,2018-01-07,07:41:53,28794939,28794939,KAR_S1_A02_R1_IMAG0416.JPG,3,28794939,28794939,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#157,2018-01-07,07:58:34,28794940,28794940,KAR_S1_A02_R1_IMAG0417.JPG,1,28794940,28794940,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#157,2018-01-07,07:58:34,28794940,28794940,KAR_S1_A02_R1_IMAG0418.JPG,2,28794940,28794940,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#157,2018-01-07,07:58:34,28794940,28794940,KAR_S1_A02_R1_IMAG0419.JPG,3,28794940,28794940,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#158,2018-01-07,07:59:35,28794941,28794941,KAR_S1_A02_R1_IMAG0420.JPG,1,28794941,28794941,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#158,2018-01-07,07:59:35,28794941,28794941,KAR_S1_A02_R1_IMAG0421.JPG,2,28794941,28794941,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#158,2018-01-07,07:59:35,28794941,28794941,KAR_S1_A02_R1_IMAG0422.JPG,3,28794941,28794941,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#159,2018-01-07,08:39:45,28794942,28794942,KAR_S1_A02_R1_IMAG0423.JPG,1,28794942,28794942,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#159,2018-01-07,08:39:45,28794942,28794942,KAR_S1_A02_R1_IMAG0424.JPG,2,28794942,28794942,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#159,2018-01-07,08:39:45,28794942,28794942,KAR_S1_A02_R1_IMAG0425.JPG,3,28794942,28794942,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#160,2018-01-08,08:37:11,28794943,28794943,KAR_S1_A02_R1_IMAG0426.JPG,1,28794943,28794943,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#160,2018-01-08,08:37:11,28794943,28794943,KAR_S1_A02_R1_IMAG0427.JPG,2,28794943,28794943,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#160,2018-01-08,08:37:11,28794943,28794943,KAR_S1_A02_R1_IMAG0428.JPG,3,28794943,28794943,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#161,2018-01-08,09:12:53,28794944,28794944,KAR_S1_A02_R1_IMAG0429.JPG,1,28794944,28794944,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#161,2018-01-08,09:12:53,28794944,28794944,KAR_S1_A02_R1_IMAG0430.JPG,2,28794944,28794944,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#161,2018-01-08,09:12:53,28794944,28794944,KAR_S1_A02_R1_IMAG0431.JPG,3,28794944,28794944,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#162,2018-01-08,09:37:33,28794945,28794945,KAR_S1_A02_R1_IMAG0432.JPG,1,28794945,28794945,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#162,2018-01-08,09:37:33,28794945,28794945,KAR_S1_A02_R1_IMAG0433.JPG,2,28794945,28794945,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#162,2018-01-08,09:37:33,28794945,28794945,KAR_S1_A02_R1_IMAG0434.JPG,3,28794945,28794945,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#163,2018-01-08,09:39:38,28794946,28794946,KAR_S1_A02_R1_IMAG0435.JPG,1,28794946,28794946,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#163,2018-01-08,09:39:38,28794946,28794946,KAR_S1_A02_R1_IMAG0436.JPG,2,28794946,28794946,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#163,2018-01-08,09:39:38,28794946,28794946,KAR_S1_A02_R1_IMAG0437.JPG,3,28794946,28794946,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#164,2018-01-09,11:50:39,28794947,28794947,KAR_S1_A02_R1_IMAG0438.JPG,1,28794947,28794947,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#164,2018-01-09,11:50:39,28794947,28794947,KAR_S1_A02_R1_IMAG0439.JPG,2,28794947,28794947,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#164,2018-01-09,11:50:39,28794947,28794947,KAR_S1_A02_R1_IMAG0440.JPG,3,28794947,28794947,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#165,2018-01-10,06:03:27,28794948,28794948,KAR_S1_A02_R1_IMAG0441.JPG,1,28794948,28794948,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#165,2018-01-10,06:03:27,28794948,28794948,KAR_S1_A02_R1_IMAG0442.JPG,2,28794948,28794948,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#165,2018-01-10,06:03:27,28794948,28794948,KAR_S1_A02_R1_IMAG0443.JPG,3,28794948,28794948,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#166,2018-01-10,11:22:59,28794949,28794949,KAR_S1_A02_R1_IMAG0444.JPG,1,28794949,28794949,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#166,2018-01-10,11:22:59,28794949,28794949,KAR_S1_A02_R1_IMAG0445.JPG,2,28794949,28794949,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#166,2018-01-10,11:22:59,28794949,28794949,KAR_S1_A02_R1_IMAG0446.JPG,3,28794949,28794949,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#167,2018-01-10,15:32:53,28794950,28794950,KAR_S1_A02_R1_IMAG0447.JPG,1,28794950,28794950,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#167,2018-01-10,15:32:53,28794950,28794950,KAR_S1_A02_R1_IMAG0448.JPG,2,28794950,28794950,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#167,2018-01-10,15:32:53,28794950,28794950,KAR_S1_A02_R1_IMAG0449.JPG,3,28794950,28794950,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#168,2018-01-10,15:33:53,28794951,28794951,KAR_S1_A02_R1_IMAG0450.JPG,1,28794951,28794951,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#168,2018-01-10,15:33:53,28794951,28794951,KAR_S1_A02_R1_IMAG0451.JPG,2,28794951,28794951,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#168,2018-01-10,15:33:53,28794951,28794951,KAR_S1_A02_R1_IMAG0452.JPG,3,28794951,28794951,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#169,2018-01-10,15:35:00,28794952,28794952,KAR_S1_A02_R1_IMAG0453.JPG,1,28794952,28794952,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#169,2018-01-10,15:35:00,28794952,28794952,KAR_S1_A02_R1_IMAG0454.JPG,2,28794952,28794952,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#169,2018-01-10,15:35:00,28794952,28794952,KAR_S1_A02_R1_IMAG0455.JPG,3,28794952,28794952,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#170,2018-01-10,15:36:33,28794953,28794953,KAR_S1_A02_R1_IMAG0456.JPG,1,28794953,28794953,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#170,2018-01-10,15:36:33,28794953,28794953,KAR_S1_A02_R1_IMAG0457.JPG,2,28794953,28794953,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#170,2018-01-10,15:36:33,28794953,28794953,KAR_S1_A02_R1_IMAG0458.JPG,3,28794953,28794953,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#172,2018-01-11,05:25:16,28794955,28794955,KAR_S1_A02_R1_IMAG0460.JPG,1,28794955,28794955,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#172,2018-01-11,05:25:16,28794955,28794955,KAR_S1_A02_R1_IMAG0461.JPG,2,28794955,28794955,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#172,2018-01-11,05:25:16,28794955,28794955,KAR_S1_A02_R1_IMAG0462.JPG,3,28794955,28794955,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#173,2018-01-11,10:30:47,28794956,28794956,KAR_S1_A02_R1_IMAG0463.JPG,1,28794956,28794956,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#173,2018-01-11,10:30:47,28794956,28794956,KAR_S1_A02_R1_IMAG0464.JPG,2,28794956,28794956,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#173,2018-01-11,10:30:47,28794956,28794956,KAR_S1_A02_R1_IMAG0465.JPG,3,28794956,28794956,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#175,2018-01-13,09:29:27,28794958,28794958,KAR_S1_A02_R1_IMAG0467.JPG,1,28794958,28794958,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#175,2018-01-13,09:29:27,28794958,28794958,KAR_S1_A02_R1_IMAG0468.JPG,2,28794958,28794958,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#175,2018-01-13,09:29:27,28794958,28794958,KAR_S1_A02_R1_IMAG0469.JPG,3,28794958,28794958,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#176,2018-01-13,14:47:18,28794959,28794959,KAR_S1_A02_R1_IMAG0470.JPG,1,28794959,28794959,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#176,2018-01-13,14:47:18,28794959,28794959,KAR_S1_A02_R1_IMAG0471.JPG,2,28794959,28794959,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#176,2018-01-13,14:47:18,28794959,28794959,KAR_S1_A02_R1_IMAG0472.JPG,3,28794959,28794959,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#177,2018-01-13,15:09:30,28794960,28794960,KAR_S1_A02_R1_IMAG0473.JPG,1,28794960,28794960,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#177,2018-01-13,15:09:30,28794960,28794960,KAR_S1_A02_R1_IMAG0474.JPG,2,28794960,28794960,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#177,2018-01-13,15:09:30,28794960,28794960,KAR_S1_A02_R1_IMAG0475.JPG,3,28794960,28794960,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#178,2018-01-13,15:14:02,28794961,28794961,KAR_S1_A02_R1_IMAG0476.JPG,1,28794961,28794961,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#178,2018-01-13,15:14:02,28794961,28794961,KAR_S1_A02_R1_IMAG0477.JPG,2,28794961,28794961,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#178,2018-01-13,15:14:02,28794961,28794961,KAR_S1_A02_R1_IMAG0478.JPG,3,28794961,28794961,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#179,2018-01-13,15:15:10,28794962,28794962,KAR_S1_A02_R1_IMAG0479.JPG,1,28794962,28794962,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#179,2018-01-13,15:15:10,28794962,28794962,KAR_S1_A02_R1_IMAG0480.JPG,2,28794962,28794962,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#179,2018-01-13,15:15:10,28794962,28794962,KAR_S1_A02_R1_IMAG0481.JPG,3,28794962,28794962,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#180,2018-01-13,15:16:28,28794963,28794963,KAR_S1_A02_R1_IMAG0482.JPG,1,28794963,28794963,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#180,2018-01-13,15:16:28,28794963,28794963,KAR_S1_A02_R1_IMAG0483.JPG,2,28794963,28794963,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#180,2018-01-13,15:16:28,28794963,28794963,KAR_S1_A02_R1_IMAG0484.JPG,3,28794963,28794963,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#181,2018-01-13,15:17:28,28794964,28794964,KAR_S1_A02_R1_IMAG0485.JPG,1,28794964,28794964,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#181,2018-01-13,15:17:28,28794964,28794964,KAR_S1_A02_R1_IMAG0486.JPG,2,28794964,28794964,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#181,2018-01-13,15:17:28,28794964,28794964,KAR_S1_A02_R1_IMAG0487.JPG,3,28794964,28794964,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#182,2018-01-13,15:19:18,28794965,28794965,KAR_S1_A02_R1_IMAG0488.JPG,1,28794965,28794965,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#182,2018-01-13,15:19:18,28794965,28794965,KAR_S1_A02_R1_IMAG0489.JPG,2,28794965,28794965,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#182,2018-01-13,15:19:18,28794965,28794965,KAR_S1_A02_R1_IMAG0490.JPG,3,28794965,28794965,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#183,2018-01-13,15:29:16,28794966,28794966,KAR_S1_A02_R1_IMAG0491.JPG,1,28794966,28794966,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#183,2018-01-13,15:29:16,28794966,28794966,KAR_S1_A02_R1_IMAG0492.JPG,2,28794966,28794966,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#183,2018-01-13,15:29:16,28794966,28794966,KAR_S1_A02_R1_IMAG0493.JPG,3,28794966,28794966,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#184,2018-01-13,15:32:13,28794967,28794967,KAR_S1_A02_R1_IMAG0494.JPG,1,28794967,28794967,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#184,2018-01-13,15:32:13,28794967,28794967,KAR_S1_A02_R1_IMAG0495.JPG,2,28794967,28794967,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#184,2018-01-13,15:32:13,28794967,28794967,KAR_S1_A02_R1_IMAG0496.JPG,3,28794967,28794967,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#185,2018-01-13,15:33:27,28794968,28794968,KAR_S1_A02_R1_IMAG0497.JPG,1,28794968,28794968,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#185,2018-01-13,15:33:27,28794968,28794968,KAR_S1_A02_R1_IMAG0498.JPG,2,28794968,28794968,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#185,2018-01-13,15:33:27,28794968,28794968,KAR_S1_A02_R1_IMAG0499.JPG,3,28794968,28794968,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#186,2018-01-13,15:50:24,28794969,28794969,KAR_S1_A02_R1_IMAG0500.JPG,1,28794969,28794969,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#186,2018-01-13,15:50:24,28794969,28794969,KAR_S1_A02_R1_IMAG0501.JPG,2,28794969,28794969,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#186,2018-01-13,15:50:24,28794969,28794969,KAR_S1_A02_R1_IMAG0502.JPG,3,28794969,28794969,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#187,2018-01-14,17:51:22,28794970,28794970,KAR_S1_A02_R1_IMAG0503.JPG,1,28794970,28794970,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#187,2018-01-14,17:51:22,28794970,28794970,KAR_S1_A02_R1_IMAG0504.JPG,2,28794970,28794970,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#187,2018-01-14,17:51:22,28794970,28794970,KAR_S1_A02_R1_IMAG0505.JPG,3,28794970,28794970,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#188,2018-01-14,17:52:40,28794971,28794971,KAR_S1_A02_R1_IMAG0506.JPG,1,28794971,28794971,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#188,2018-01-14,17:52:40,28794971,28794971,KAR_S1_A02_R1_IMAG0507.JPG,2,28794971,28794971,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#188,2018-01-14,17:52:40,28794971,28794971,KAR_S1_A02_R1_IMAG0508.JPG,3,28794971,28794971,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#189,2018-01-14,18:00:32,28794972,28794972,KAR_S1_A02_R1_IMAG0509.JPG,1,28794972,28794972,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#189,2018-01-14,18:00:32,28794972,28794972,KAR_S1_A02_R1_IMAG0510.JPG,2,28794972,28794972,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#189,2018-01-14,18:00:32,28794972,28794972,KAR_S1_A02_R1_IMAG0511.JPG,3,28794972,28794972,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#190,2018-01-14,18:02:35,28794973,28794973,KAR_S1_A02_R1_IMAG0512.JPG,1,28794973,28794973,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#190,2018-01-14,18:02:35,28794973,28794973,KAR_S1_A02_R1_IMAG0513.JPG,2,28794973,28794973,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#190,2018-01-14,18:02:35,28794973,28794973,KAR_S1_A02_R1_IMAG0514.JPG,3,28794973,28794973,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#191,2018-01-14,18:03:40,28794974,28794974,KAR_S1_A02_R1_IMAG0515.JPG,1,28794974,28794974,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#191,2018-01-14,18:03:40,28794974,28794974,KAR_S1_A02_R1_IMAG0516.JPG,2,28794974,28794974,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#191,2018-01-14,18:03:40,28794974,28794974,KAR_S1_A02_R1_IMAG0517.JPG,3,28794974,28794974,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#192,2018-01-14,18:04:48,28794975,28794975,KAR_S1_A02_R1_IMAG0518.JPG,1,28794975,28794975,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#192,2018-01-14,18:04:48,28794975,28794975,KAR_S1_A02_R1_IMAG0519.JPG,2,28794975,28794975,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#192,2018-01-14,18:04:48,28794975,28794975,KAR_S1_A02_R1_IMAG0520.JPG,3,28794975,28794975,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#A02#1#195,2018-01-25,17:23:11,28794978,28794978,KAR_S1_A02_R1_IMAG0523.JPG,1,28794978,28794978,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#195,2018-01-25,17:23:11,28794978,28794978,KAR_S1_A02_R1_IMAG0524.JPG,2,28794978,28794978,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#195,2018-01-25,17:23:11,28794978,28794978,KAR_S1_A02_R1_IMAG0525.JPG,3,28794978,28794978,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#196,2018-01-26,12:54:53,28794979,28794979,KAR_S1_A02_R1_IMAG0526.JPG,1,28794979,28794979,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#196,2018-01-26,12:54:53,28794979,28794979,KAR_S1_A02_R1_IMAG0527.JPG,2,28794979,28794979,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#196,2018-01-26,12:54:53,28794979,28794979,KAR_S1_A02_R1_IMAG0528.JPG,3,28794979,28794979,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#197,2018-01-26,13:16:59,28794980,28794980,KAR_S1_A02_R1_IMAG0529.JPG,1,28794980,28794980,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#197,2018-01-26,13:16:59,28794980,28794980,KAR_S1_A02_R1_IMAG0530.JPG,2,28794980,28794980,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#197,2018-01-26,13:16:59,28794980,28794980,KAR_S1_A02_R1_IMAG0531.JPG,3,28794980,28794980,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#198,2018-01-26,15:33:59,28794981,28794981,KAR_S1_A02_R1_IMAG0532.JPG,1,28794981,28794981,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#198,2018-01-26,15:33:59,28794981,28794981,KAR_S1_A02_R1_IMAG0533.JPG,2,28794981,28794981,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#198,2018-01-26,15:33:59,28794981,28794981,KAR_S1_A02_R1_IMAG0534.JPG,3,28794981,28794981,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#199,2018-01-28,09:45:41,28794982,28794982,KAR_S1_A02_R1_IMAG0535.JPG,1,28794982,28794982,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#199,2018-01-28,09:45:41,28794982,28794982,KAR_S1_A02_R1_IMAG0536.JPG,2,28794982,28794982,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#199,2018-01-28,09:45:41,28794982,28794982,KAR_S1_A02_R1_IMAG0537.JPG,3,28794982,28794982,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#200,2018-01-28,09:48:07,28794983,28794983,KAR_S1_A02_R1_IMAG0538.JPG,1,28794983,28794983,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#200,2018-01-28,09:48:07,28794983,28794983,KAR_S1_A02_R1_IMAG0539.JPG,2,28794983,28794983,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#200,2018-01-28,09:48:07,28794983,28794983,KAR_S1_A02_R1_IMAG0540.JPG,3,28794983,28794983,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#204,2018-01-29,10:06:31,28794987,28794987,KAR_S1_A02_R1_IMAG0550.JPG,1,28794987,28794987,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#204,2018-01-29,10:06:31,28794987,28794987,KAR_S1_A02_R1_IMAG0551.JPG,2,28794987,28794987,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#204,2018-01-29,10:06:31,28794987,28794987,KAR_S1_A02_R1_IMAG0552.JPG,3,28794987,28794987,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#205,2018-01-29,10:31:10,28794988,28794988,KAR_S1_A02_R1_IMAG0553.JPG,1,28794988,28794988,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#205,2018-01-29,10:31:10,28794988,28794988,KAR_S1_A02_R1_IMAG0554.JPG,2,28794988,28794988,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#205,2018-01-29,10:31:10,28794988,28794988,KAR_S1_A02_R1_IMAG0555.JPG,3,28794988,28794988,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#207,2018-01-30,06:07:29,28794990,28794990,KAR_S1_A02_R1_IMAG0557.JPG,1,28794990,28794990,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#207,2018-01-30,06:07:29,28794990,28794990,KAR_S1_A02_R1_IMAG0558.JPG,2,28794990,28794990,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#207,2018-01-30,06:07:29,28794990,28794990,KAR_S1_A02_R1_IMAG0559.JPG,3,28794990,28794990,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#208,2018-02-01,12:57:31,28794991,28794991,KAR_S1_A02_R1_IMAG0560.JPG,1,28794991,28794991,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#208,2018-02-01,12:57:31,28794991,28794991,KAR_S1_A02_R1_IMAG0561.JPG,2,28794991,28794991,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#208,2018-02-01,12:57:31,28794991,28794991,KAR_S1_A02_R1_IMAG0562.JPG,3,28794991,28794991,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#210,2018-02-02,06:43:02,28794993,28794993,KAR_S1_A02_R1_IMAG0566.JPG,1,28794993,28794993,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#210,2018-02-02,06:43:02,28794993,28794993,KAR_S1_A02_R1_IMAG0567.JPG,2,28794993,28794993,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#210,2018-02-02,06:43:02,28794993,28794993,KAR_S1_A02_R1_IMAG0568.JPG,3,28794993,28794993,zebramountain,animalia,chordata,mammalia,perissodactyla,equidae,equus,equus zebra,mountain zebra
+KAR_S1#A02#1#212,2018-02-02,15:23:23,28794995,28794995,KAR_S1_A02_R1_IMAG0572.JPG,1,28794995,28794995,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#212,2018-02-02,15:23:23,28794995,28794995,KAR_S1_A02_R1_IMAG0573.JPG,2,28794995,28794995,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#212,2018-02-02,15:23:23,28794995,28794995,KAR_S1_A02_R1_IMAG0574.JPG,3,28794995,28794995,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#A02#1#213,2018-02-03,16:32:06,28794996,28794996,KAR_S1_A02_R1_IMAG0575.JPG,1,28794996,28794996,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#A02#1#213,2018-02-03,16:32:06,28794996,28794996,KAR_S1_A02_R1_IMAG0576.JPG,2,28794996,28794996,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#A02#1#213,2018-02-03,16:32:06,28794996,28794996,KAR_S1_A02_R1_IMAG0577.JPG,3,28794996,28794996,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#A02#1#215,2018-02-04,06:45:21,28794998,28794998,KAR_S1_A02_R1_IMAG0581.JPG,1,28794998,28794998,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#215,2018-02-04,06:45:21,28794998,28794998,KAR_S1_A02_R1_IMAG0582.JPG,2,28794998,28794998,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#A02#1#215,2018-02-04,06:45:21,28794998,28794998,KAR_S1_A02_R1_IMAG0583.JPG,3,28794998,28794998,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B01#1#12,2017-10-05,18:25:04,28795014,28795014,KAR_S1_B01_R1_IMAG0034.JPG,1,28795014,28795014,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B01#1#12,2017-10-05,18:25:04,28795014,28795014,KAR_S1_B01_R1_IMAG0035.JPG,2,28795014,28795014,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B01#1#12,2017-10-05,18:25:04,28795014,28795014,KAR_S1_B01_R1_IMAG0036.JPG,3,28795014,28795014,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B01#1#13,2017-10-07,06:22:08,28795015,28795015,KAR_S1_B01_R1_IMAG0037.JPG,1,28795015,28795015,bustardkori,animalia,chordata,aves,otidiformes,otididae,ardeotis,ardeotis kori,kori bustard
+KAR_S1#B01#1#13,2017-10-07,06:22:08,28795015,28795015,KAR_S1_B01_R1_IMAG0038.JPG,2,28795015,28795015,bustardkori,animalia,chordata,aves,otidiformes,otididae,ardeotis,ardeotis kori,kori bustard
+KAR_S1#B01#1#13,2017-10-07,06:22:08,28795015,28795015,KAR_S1_B01_R1_IMAG0039.JPG,3,28795015,28795015,bustardkori,animalia,chordata,aves,otidiformes,otididae,ardeotis,ardeotis kori,kori bustard
+KAR_S1#B01#1#14,2017-10-10,11:50:28,28795016,28795016,KAR_S1_B01_R1_IMAG0040.JPG,1,28795016,28795016,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#14,2017-10-10,11:50:28,28795016,28795016,KAR_S1_B01_R1_IMAG0041.JPG,2,28795016,28795016,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#14,2017-10-10,11:50:28,28795016,28795016,KAR_S1_B01_R1_IMAG0042.JPG,3,28795016,28795016,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#30,2017-10-12,08:40:16,28795032,28795032,KAR_S1_B01_R1_IMAG0082.JPG,1,28795032,28795032,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#30,2017-10-12,08:40:16,28795032,28795032,KAR_S1_B01_R1_IMAG0083.JPG,2,28795032,28795032,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#30,2017-10-12,08:40:16,28795032,28795032,KAR_S1_B01_R1_IMAG0084.JPG,3,28795032,28795032,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#31,2017-10-12,08:42:23,28795033,28795033,KAR_S1_B01_R1_IMAG0085.JPG,1,28795033,28795033,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#31,2017-10-12,08:42:23,28795033,28795033,KAR_S1_B01_R1_IMAG0086.JPG,2,28795033,28795033,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#31,2017-10-12,08:42:23,28795033,28795033,KAR_S1_B01_R1_IMAG0087.JPG,3,28795033,28795033,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#32,2017-10-12,09:55:53,28795034,28795034,KAR_S1_B01_R1_IMAG0088.JPG,1,28795034,28795034,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#32,2017-10-12,09:55:53,28795034,28795034,KAR_S1_B01_R1_IMAG0089.JPG,2,28795034,28795034,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#32,2017-10-12,09:55:53,28795034,28795034,KAR_S1_B01_R1_IMAG0090.JPG,3,28795034,28795034,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#33,2017-10-12,09:56:53,28795035,28795035,KAR_S1_B01_R1_IMAG0091.JPG,1,28795035,28795035,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#33,2017-10-12,09:56:53,28795035,28795035,KAR_S1_B01_R1_IMAG0092.JPG,2,28795035,28795035,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#33,2017-10-12,09:56:53,28795035,28795035,KAR_S1_B01_R1_IMAG0093.JPG,3,28795035,28795035,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#42,2017-10-13,11:47:49,28795044,28795044,KAR_S1_B01_R1_IMAG0108.JPG,1,28795044,28795044,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#42,2017-10-13,11:47:49,28795044,28795044,KAR_S1_B01_R1_IMAG0109.JPG,2,28795044,28795044,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#42,2017-10-13,11:47:49,28795044,28795044,KAR_S1_B01_R1_IMAG0110.JPG,3,28795044,28795044,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#714,2017-10-17,10:42:32,28795786,28795786,KAR_S1_B01_R1_IMAG1598.JPG,1,28795786,28795786,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#714,2017-10-17,10:42:32,28795786,28795786,KAR_S1_B01_R1_IMAG1599.JPG,2,28795786,28795786,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#714,2017-10-17,10:42:32,28795786,28795786,KAR_S1_B01_R1_IMAG1600.JPG,3,28795786,28795786,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#715,2017-10-17,10:44:24,28795787,28795787,KAR_S1_B01_R1_IMAG1601.JPG,1,28795787,28795787,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#715,2017-10-17,10:44:24,28795787,28795787,KAR_S1_B01_R1_IMAG1602.JPG,2,28795787,28795787,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#715,2017-10-17,10:44:24,28795787,28795787,KAR_S1_B01_R1_IMAG1603.JPG,3,28795787,28795787,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#871,2017-10-17,18:28:56,28795999,28795999,KAR_S1_B01_R1_IMAG2069.JPG,1,28795999,28795999,bustardkori,animalia,chordata,aves,otidiformes,otididae,ardeotis,ardeotis kori,kori bustard
+KAR_S1#B01#1#871,2017-10-17,18:28:56,28795999,28795999,KAR_S1_B01_R1_IMAG2070.JPG,2,28795999,28795999,bustardkori,animalia,chordata,aves,otidiformes,otididae,ardeotis,ardeotis kori,kori bustard
+KAR_S1#B01#1#871,2017-10-17,18:28:56,28795999,28795999,KAR_S1_B01_R1_IMAG2071.JPG,3,28795999,28795999,bustardkori,animalia,chordata,aves,otidiformes,otididae,ardeotis,ardeotis kori,kori bustard
+KAR_S1#B01#1#975,2017-10-18,08:19:15,28796123,28796123,KAR_S1_B01_R1_IMAG2253.JPG,1,28796123,28796123,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#975,2017-10-18,08:19:15,28796123,28796123,KAR_S1_B01_R1_IMAG2254.JPG,2,28796123,28796123,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#975,2017-10-18,08:19:15,28796123,28796123,KAR_S1_B01_R1_IMAG2255.JPG,3,28796123,28796123,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#989,2017-10-18,09:04:01,28796141,28796141,KAR_S1_B01_R1_IMAG2295.JPG,1,28796141,28796141,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#989,2017-10-18,09:04:01,28796141,28796141,KAR_S1_B01_R1_IMAG2296.JPG,2,28796141,28796141,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#989,2017-10-18,09:04:01,28796141,28796141,KAR_S1_B01_R1_IMAG2297.JPG,3,28796141,28796141,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#991,2017-10-18,09:16:23,28796144,28796144,KAR_S1_B01_R1_IMAG2301.JPG,1,28796144,28796144,duiker,animalia,chordata,mammalia,artiodactyla,bovidae,cephalophus,,duiker
+KAR_S1#B01#1#991,2017-10-18,09:16:23,28796144,28796144,KAR_S1_B01_R1_IMAG2302.JPG,2,28796144,28796144,duiker,animalia,chordata,mammalia,artiodactyla,bovidae,cephalophus,,duiker
+KAR_S1#B01#1#991,2017-10-18,09:16:23,28796144,28796144,KAR_S1_B01_R1_IMAG2303.JPG,3,28796144,28796144,duiker,animalia,chordata,mammalia,artiodactyla,bovidae,cephalophus,,duiker
+KAR_S1#B01#1#1003,2017-10-18,10:27:36,28796161,28796161,KAR_S1_B01_R1_IMAG2337.JPG,1,28796161,28796161,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1003,2017-10-18,10:27:36,28796161,28796161,KAR_S1_B01_R1_IMAG2338.JPG,2,28796161,28796161,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1003,2017-10-18,10:27:36,28796161,28796161,KAR_S1_B01_R1_IMAG2339.JPG,3,28796161,28796161,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1004,2017-10-18,10:28:59,28796162,28796162,KAR_S1_B01_R1_IMAG2340.JPG,1,28796162,28796162,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1004,2017-10-18,10:28:59,28796162,28796162,KAR_S1_B01_R1_IMAG2341.JPG,2,28796162,28796162,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1004,2017-10-18,10:28:59,28796162,28796162,KAR_S1_B01_R1_IMAG2342.JPG,3,28796162,28796162,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1005,2017-10-18,10:30:20,28796164,28796164,KAR_S1_B01_R1_IMAG2343.JPG,1,28796164,28796164,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1005,2017-10-18,10:30:20,28796164,28796164,KAR_S1_B01_R1_IMAG2344.JPG,2,28796164,28796164,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1005,2017-10-18,10:30:20,28796164,28796164,KAR_S1_B01_R1_IMAG2345.JPG,3,28796164,28796164,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1063,2017-10-18,12:38:37,28796248,28796248,KAR_S1_B01_R1_IMAG2517.JPG,1,28796248,28796248,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B01#1#1063,2017-10-18,12:38:37,28796248,28796248,KAR_S1_B01_R1_IMAG2518.JPG,2,28796248,28796248,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B01#1#1063,2017-10-18,12:38:37,28796248,28796248,KAR_S1_B01_R1_IMAG2519.JPG,3,28796248,28796248,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B01#1#1064,2017-10-18,12:39:38,28796249,28796249,KAR_S1_B01_R1_IMAG2520.JPG,1,28796249,28796249,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B01#1#1064,2017-10-18,12:39:38,28796249,28796249,KAR_S1_B01_R1_IMAG2521.JPG,2,28796249,28796249,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B01#1#1064,2017-10-18,12:39:38,28796249,28796249,KAR_S1_B01_R1_IMAG2522.JPG,3,28796249,28796249,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B01#1#1074,2017-10-18,12:59:14,28796263,28796263,KAR_S1_B01_R1_IMAG2550.JPG,1,28796263,28796263,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1074,2017-10-18,12:59:14,28796263,28796263,KAR_S1_B01_R1_IMAG2551.JPG,2,28796263,28796263,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1074,2017-10-18,12:59:14,28796263,28796263,KAR_S1_B01_R1_IMAG2552.JPG,3,28796263,28796263,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1321,2017-10-20,09:24:03,28796593,28796593,KAR_S1_B01_R1_IMAG3251.JPG,1,28796593,28796593,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B01#1#1321,2017-10-20,09:24:03,28796593,28796593,KAR_S1_B01_R1_IMAG3252.JPG,2,28796593,28796593,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B01#1#1321,2017-10-20,09:24:03,28796593,28796593,KAR_S1_B01_R1_IMAG3253.JPG,3,28796593,28796593,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B01#1#1323,2017-10-20,09:47:54,28796596,28796596,KAR_S1_B01_R1_IMAG3257.JPG,1,28796596,28796596,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1323,2017-10-20,09:47:54,28796596,28796596,KAR_S1_B01_R1_IMAG3258.JPG,2,28796596,28796596,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1323,2017-10-20,09:47:54,28796596,28796596,KAR_S1_B01_R1_IMAG3259.JPG,3,28796596,28796596,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1324,2017-10-20,09:49:39,28796597,28796597,KAR_S1_B01_R1_IMAG3260.JPG,1,28796597,28796597,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1324,2017-10-20,09:49:39,28796597,28796597,KAR_S1_B01_R1_IMAG3261.JPG,2,28796597,28796597,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1324,2017-10-20,09:49:39,28796597,28796597,KAR_S1_B01_R1_IMAG3262.JPG,3,28796597,28796597,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1326,2017-10-20,10:28:28,28796600,28796600,KAR_S1_B01_R1_IMAG3266.JPG,1,28796600,28796600,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1326,2017-10-20,10:28:28,28796600,28796600,KAR_S1_B01_R1_IMAG3267.JPG,2,28796600,28796600,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1326,2017-10-20,10:28:28,28796600,28796600,KAR_S1_B01_R1_IMAG3268.JPG,3,28796600,28796600,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1570,2017-10-23,07:18:40,28796908,28796908,KAR_S1_B01_R1_IMAG3834.JPG,1,28796908,28796908,jackalblackbacked,animalia,chordata,mammalia,carnivora,canidae,lupulella,lupulella mesomelas,black-backed jackal
+KAR_S1#B01#1#1570,2017-10-23,07:18:40,28796908,28796908,KAR_S1_B01_R1_IMAG3835.JPG,2,28796908,28796908,jackalblackbacked,animalia,chordata,mammalia,carnivora,canidae,lupulella,lupulella mesomelas,black-backed jackal
+KAR_S1#B01#1#1570,2017-10-23,07:18:40,28796908,28796908,KAR_S1_B01_R1_IMAG3836.JPG,3,28796908,28796908,jackalblackbacked,animalia,chordata,mammalia,carnivora,canidae,lupulella,lupulella mesomelas,black-backed jackal
+KAR_S1#B01#1#1573,2017-10-23,10:48:53,28796912,28796912,KAR_S1_B01_R1_IMAG3843.JPG,1,28796912,28796912,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1573,2017-10-23,10:48:53,28796912,28796912,KAR_S1_B01_R1_IMAG3844.JPG,2,28796912,28796912,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1573,2017-10-23,10:48:53,28796912,28796912,KAR_S1_B01_R1_IMAG3845.JPG,3,28796912,28796912,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1574,2017-10-23,11:00:46,28796914,28796914,KAR_S1_B01_R1_IMAG3846.JPG,1,28796914,28796914,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1574,2017-10-23,11:00:46,28796914,28796914,KAR_S1_B01_R1_IMAG3847.JPG,2,28796914,28796914,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1574,2017-10-23,11:00:46,28796914,28796914,KAR_S1_B01_R1_IMAG3848.JPG,3,28796914,28796914,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1789,2017-10-24,05:36:09,28798126,28798126,KAR_S1_B01_R1_IMAG4271.JPG,1,28798126,28798126,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#B01#1#1789,2017-10-24,05:36:09,28798126,28798126,KAR_S1_B01_R1_IMAG4272.JPG,2,28798126,28798126,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#B01#1#1789,2017-10-24,05:36:09,28798126,28798126,KAR_S1_B01_R1_IMAG4273.JPG,3,28798126,28798126,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#B01#1#1855,2017-10-24,08:45:46,28798365,28798365,KAR_S1_B01_R1_IMAG4469.JPG,1,28798365,28798365,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#B01#1#1855,2017-10-24,08:45:46,28798365,28798365,KAR_S1_B01_R1_IMAG4470.JPG,2,28798365,28798365,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#B01#1#1855,2017-10-24,08:45:46,28798365,28798365,KAR_S1_B01_R1_IMAG4471.JPG,3,28798365,28798365,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#B01#1#1913,2017-10-24,11:23:36,28798575,28798575,KAR_S1_B01_R1_IMAG4643.JPG,1,28798575,28798575,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1913,2017-10-24,11:23:36,28798575,28798575,KAR_S1_B01_R1_IMAG4644.JPG,2,28798575,28798575,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#1913,2017-10-24,11:23:36,28798575,28798575,KAR_S1_B01_R1_IMAG4645.JPG,3,28798575,28798575,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2009,2017-10-26,08:46:04,28798904,28798904,KAR_S1_B01_R1_IMAG4901.JPG,1,28798904,28798904,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2009,2017-10-26,08:46:04,28798904,28798904,KAR_S1_B01_R1_IMAG4902.JPG,2,28798904,28798904,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2009,2017-10-26,08:46:04,28798904,28798904,KAR_S1_B01_R1_IMAG4903.JPG,3,28798904,28798904,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2010,2017-10-26,09:09:13,28798908,28798908,KAR_S1_B01_R1_IMAG4904.JPG,1,28798908,28798908,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B01#1#2010,2017-10-26,09:09:13,28798908,28798908,KAR_S1_B01_R1_IMAG4905.JPG,2,28798908,28798908,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B01#1#2010,2017-10-26,09:09:13,28798908,28798908,KAR_S1_B01_R1_IMAG4906.JPG,3,28798908,28798908,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B01#1#2011,2017-10-26,11:07:57,28798912,28798912,KAR_S1_B01_R1_IMAG4907.JPG,1,28798912,28798912,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2011,2017-10-26,11:07:57,28798912,28798912,KAR_S1_B01_R1_IMAG4908.JPG,2,28798912,28798912,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2011,2017-10-26,11:07:57,28798912,28798912,KAR_S1_B01_R1_IMAG4909.JPG,3,28798912,28798912,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2012,2017-10-26,11:09:27,28798916,28798916,KAR_S1_B01_R1_IMAG4910.JPG,1,28798916,28798916,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2012,2017-10-26,11:09:27,28798916,28798916,KAR_S1_B01_R1_IMAG4911.JPG,2,28798916,28798916,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2012,2017-10-26,11:09:27,28798916,28798916,KAR_S1_B01_R1_IMAG4912.JPG,3,28798916,28798916,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2013,2017-10-26,11:17:38,28798920,28798920,KAR_S1_B01_R1_IMAG4913.JPG,1,28798920,28798920,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2013,2017-10-26,11:17:38,28798920,28798920,KAR_S1_B01_R1_IMAG4914.JPG,2,28798920,28798920,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2013,2017-10-26,11:17:38,28798920,28798920,KAR_S1_B01_R1_IMAG4915.JPG,3,28798920,28798920,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2014,2017-10-26,11:20:38,28798923,28798923,KAR_S1_B01_R1_IMAG4916.JPG,1,28798923,28798923,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2014,2017-10-26,11:20:38,28798923,28798923,KAR_S1_B01_R1_IMAG4917.JPG,2,28798923,28798923,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2014,2017-10-26,11:20:38,28798923,28798923,KAR_S1_B01_R1_IMAG4918.JPG,3,28798923,28798923,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2023,2017-10-26,12:45:55,28798958,28798958,KAR_S1_B01_R1_IMAG4943.JPG,1,28798958,28798958,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2023,2017-10-26,12:45:55,28798958,28798958,KAR_S1_B01_R1_IMAG4944.JPG,2,28798958,28798958,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2023,2017-10-26,12:45:55,28798958,28798958,KAR_S1_B01_R1_IMAG4945.JPG,3,28798958,28798958,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2030,2017-10-26,14:18:40,28798980,28798980,KAR_S1_B01_R1_IMAG4964.JPG,1,28798980,28798980,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2030,2017-10-26,14:18:40,28798980,28798980,KAR_S1_B01_R1_IMAG4965.JPG,2,28798980,28798980,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2030,2017-10-26,14:18:40,28798980,28798980,KAR_S1_B01_R1_IMAG4966.JPG,3,28798980,28798980,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2031,2017-10-26,14:19:44,28798983,28798983,KAR_S1_B01_R1_IMAG4967.JPG,1,28798983,28798983,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2031,2017-10-26,14:19:44,28798983,28798983,KAR_S1_B01_R1_IMAG4968.JPG,2,28798983,28798983,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2031,2017-10-26,14:19:44,28798983,28798983,KAR_S1_B01_R1_IMAG4969.JPG,3,28798983,28798983,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2069,2017-10-26,17:40:59,28799115,28799115,KAR_S1_B01_R1_IMAG5081.JPG,1,28799115,28799115,monkeyvervet,animalia,chordata,mammalia,primates,cercopithecidae,chlorocebus,chlorocebus pygerythrus,vervet monkey
+KAR_S1#B01#1#2069,2017-10-26,17:40:59,28799115,28799115,KAR_S1_B01_R1_IMAG5082.JPG,2,28799115,28799115,monkeyvervet,animalia,chordata,mammalia,primates,cercopithecidae,chlorocebus,chlorocebus pygerythrus,vervet monkey
+KAR_S1#B01#1#2069,2017-10-26,17:40:59,28799115,28799115,KAR_S1_B01_R1_IMAG5083.JPG,3,28799115,28799115,monkeyvervet,animalia,chordata,mammalia,primates,cercopithecidae,chlorocebus,chlorocebus pygerythrus,vervet monkey
+KAR_S1#B01#1#2072,2017-10-27,06:50:37,28799122,28799122,KAR_S1_B01_R1_IMAG5086.JPG,1,28799122,28799122,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2072,2017-10-27,06:50:37,28799122,28799122,KAR_S1_B01_R1_IMAG5087.JPG,2,28799122,28799122,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2072,2017-10-27,06:50:37,28799122,28799122,KAR_S1_B01_R1_IMAG5088.JPG,3,28799122,28799122,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2127,2017-10-29,05:48:22,28799318,28799318,KAR_S1_B01_R1_IMAG5231.JPG,1,28799318,28799318,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2127,2017-10-29,05:48:22,28799318,28799318,KAR_S1_B01_R1_IMAG5232.JPG,2,28799318,28799318,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2127,2017-10-29,05:48:22,28799318,28799318,KAR_S1_B01_R1_IMAG5233.JPG,3,28799318,28799318,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2174,2017-10-29,13:03:37,28799505,28799505,KAR_S1_B01_R1_IMAG5372.JPG,1,28799505,28799505,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#B01#1#2174,2017-10-29,13:03:37,28799505,28799505,KAR_S1_B01_R1_IMAG5373.JPG,2,28799505,28799505,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#B01#1#2174,2017-10-29,13:03:37,28799505,28799505,KAR_S1_B01_R1_IMAG5374.JPG,3,28799505,28799505,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#B01#1#2382,2017-10-30,08:24:55,28800170,28800170,KAR_S1_B01_R1_IMAG5864.JPG,1,28800170,28800170,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2382,2017-10-30,08:24:55,28800170,28800170,KAR_S1_B01_R1_IMAG5865.JPG,2,28800170,28800170,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2382,2017-10-30,08:24:55,28800170,28800170,KAR_S1_B01_R1_IMAG5866.JPG,3,28800170,28800170,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2651,2017-10-31,17:58:03,28801126,28801126,KAR_S1_B01_R1_IMAG6603.JPG,1,28801126,28801126,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B01#1#2651,2017-10-31,17:58:03,28801126,28801126,KAR_S1_B01_R1_IMAG6604.JPG,2,28801126,28801126,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B01#1#2651,2017-10-31,17:58:03,28801126,28801126,KAR_S1_B01_R1_IMAG6605.JPG,3,28801126,28801126,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B01#1#2668,2017-11-01,05:35:23,28801161,28801161,KAR_S1_B01_R1_IMAG6622.JPG,1,28801161,28801161,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B01#1#2668,2017-11-01,05:35:23,28801161,28801161,KAR_S1_B01_R1_IMAG6623.JPG,2,28801161,28801161,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B01#1#2668,2017-11-01,05:35:23,28801161,28801161,KAR_S1_B01_R1_IMAG6624.JPG,3,28801161,28801161,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B01#1#2669,2017-11-01,05:43:57,28801162,28801162,KAR_S1_B01_R1_IMAG6625.JPG,1,28801162,28801162,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2669,2017-11-01,05:43:57,28801162,28801162,KAR_S1_B01_R1_IMAG6626.JPG,2,28801162,28801162,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2669,2017-11-01,05:43:57,28801162,28801162,KAR_S1_B01_R1_IMAG6627.JPG,3,28801162,28801162,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2670,2017-11-01,06:05:42,28801163,28801163,KAR_S1_B01_R1_IMAG6628.JPG,1,28801163,28801163,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2670,2017-11-01,06:05:42,28801163,28801163,KAR_S1_B01_R1_IMAG6629.JPG,2,28801163,28801163,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2670,2017-11-01,06:05:42,28801163,28801163,KAR_S1_B01_R1_IMAG6630.JPG,3,28801163,28801163,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2671,2017-11-01,06:16:05,28801164,28801164,KAR_S1_B01_R1_IMAG6631.JPG,1,28801164,28801164,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2671,2017-11-01,06:16:05,28801164,28801164,KAR_S1_B01_R1_IMAG6632.JPG,2,28801164,28801164,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2671,2017-11-01,06:16:05,28801164,28801164,KAR_S1_B01_R1_IMAG6633.JPG,3,28801164,28801164,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2675,2017-11-01,06:28:13,28801168,28801168,KAR_S1_B01_R1_IMAG6643.JPG,1,28801168,28801168,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2675,2017-11-01,06:28:13,28801168,28801168,KAR_S1_B01_R1_IMAG6644.JPG,2,28801168,28801168,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2675,2017-11-01,06:28:13,28801168,28801168,KAR_S1_B01_R1_IMAG6645.JPG,3,28801168,28801168,hare,animalia,chordata,mammalia,lagomorpha,leporidae,lepus,,hare
+KAR_S1#B01#1#2705,2017-11-01,10:49:45,28801198,28801198,KAR_S1_B01_R1_IMAG6733.JPG,1,28801198,28801198,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2705,2017-11-01,10:49:45,28801198,28801198,KAR_S1_B01_R1_IMAG6734.JPG,2,28801198,28801198,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2705,2017-11-01,10:49:45,28801198,28801198,KAR_S1_B01_R1_IMAG6735.JPG,3,28801198,28801198,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2706,2017-11-01,10:50:58,28801199,28801199,KAR_S1_B01_R1_IMAG6736.JPG,1,28801199,28801199,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2706,2017-11-01,10:50:58,28801199,28801199,KAR_S1_B01_R1_IMAG6737.JPG,2,28801199,28801199,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2706,2017-11-01,10:50:58,28801199,28801199,KAR_S1_B01_R1_IMAG6738.JPG,3,28801199,28801199,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B01#1#2769,2017-11-01,14:58:07,28801543,28801543,KAR_S1_B01_R1_IMAG6925.JPG,1,28801543,28801543,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#B01#1#2769,2017-11-01,14:58:07,28801543,28801543,KAR_S1_B01_R1_IMAG6926.JPG,2,28801543,28801543,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#B01#1#2769,2017-11-01,14:58:07,28801543,28801543,KAR_S1_B01_R1_IMAG6927.JPG,3,28801543,28801543,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#B02#1#16,2017-10-06,12:31:48,28801623,28801623,KAR_S1_B02_R1_IMAG0044.JPG,1,28801623,28801623,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#16,2017-10-06,12:31:48,28801623,28801623,KAR_S1_B02_R1_IMAG0045.JPG,2,28801623,28801623,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#16,2017-10-06,12:31:48,28801623,28801623,KAR_S1_B02_R1_IMAG0046.JPG,3,28801623,28801623,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#17,2017-10-06,12:32:53,28801627,28801627,KAR_S1_B02_R1_IMAG0047.JPG,1,28801627,28801627,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#17,2017-10-06,12:32:53,28801627,28801627,KAR_S1_B02_R1_IMAG0048.JPG,2,28801627,28801627,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#17,2017-10-06,12:32:53,28801627,28801627,KAR_S1_B02_R1_IMAG0049.JPG,3,28801627,28801627,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#18,2017-10-06,12:34:13,28801630,28801630,KAR_S1_B02_R1_IMAG0050.JPG,1,28801630,28801630,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#18,2017-10-06,12:34:13,28801630,28801630,KAR_S1_B02_R1_IMAG0051.JPG,2,28801630,28801630,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#18,2017-10-06,12:34:13,28801630,28801630,KAR_S1_B02_R1_IMAG0052.JPG,3,28801630,28801630,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#19,2017-10-06,12:35:59,28801634,28801634,KAR_S1_B02_R1_IMAG0053.JPG,1,28801634,28801634,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#19,2017-10-06,12:35:59,28801634,28801634,KAR_S1_B02_R1_IMAG0054.JPG,2,28801634,28801634,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#19,2017-10-06,12:35:59,28801634,28801634,KAR_S1_B02_R1_IMAG0055.JPG,3,28801634,28801634,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#20,2017-10-06,12:38:10,28801638,28801638,KAR_S1_B02_R1_IMAG0056.JPG,1,28801638,28801638,wildebeestblue,animalia,chordata,mammalia,artiodactyla,bovidae,connochaetes,connochaetes taurinus,blue wildebeest
+KAR_S1#B02#1#20,2017-10-06,12:38:10,28801638,28801638,KAR_S1_B02_R1_IMAG0057.JPG,2,28801638,28801638,wildebeestblue,animalia,chordata,mammalia,artiodactyla,bovidae,connochaetes,connochaetes taurinus,blue wildebeest
+KAR_S1#B02#1#20,2017-10-06,12:38:10,28801638,28801638,KAR_S1_B02_R1_IMAG0058.JPG,3,28801638,28801638,wildebeestblue,animalia,chordata,mammalia,artiodactyla,bovidae,connochaetes,connochaetes taurinus,blue wildebeest
+KAR_S1#B02#1#21,2017-10-06,12:39:10,28801642,28801642,KAR_S1_B02_R1_IMAG0059.JPG,1,28801642,28801642,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#21,2017-10-06,12:39:10,28801642,28801642,KAR_S1_B02_R1_IMAG0060.JPG,2,28801642,28801642,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#21,2017-10-06,12:39:10,28801642,28801642,KAR_S1_B02_R1_IMAG0061.JPG,3,28801642,28801642,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#23,2017-10-06,14:12:07,28801650,28801650,KAR_S1_B02_R1_IMAG0065.JPG,1,28801650,28801650,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#B02#1#23,2017-10-06,14:12:07,28801650,28801650,KAR_S1_B02_R1_IMAG0066.JPG,2,28801650,28801650,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#B02#1#23,2017-10-06,14:12:07,28801650,28801650,KAR_S1_B02_R1_IMAG0067.JPG,3,28801650,28801650,birdother,animalia,chordata,aves,,,,,bird
+KAR_S1#B02#1#24,2017-10-06,14:34:18,28801654,28801654,KAR_S1_B02_R1_IMAG0068.JPG,1,28801654,28801654,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#24,2017-10-06,14:34:18,28801654,28801654,KAR_S1_B02_R1_IMAG0069.JPG,2,28801654,28801654,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#24,2017-10-06,14:34:18,28801654,28801654,KAR_S1_B02_R1_IMAG0070.JPG,3,28801654,28801654,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#27,2017-10-13,07:16:47,28801663,28801663,KAR_S1_B02_R1_IMAG0073.JPG,1,28801663,28801663,jackalblackbacked,animalia,chordata,mammalia,carnivora,canidae,lupulella,lupulella mesomelas,black-backed jackal
+KAR_S1#B02#1#27,2017-10-13,07:16:47,28801663,28801663,KAR_S1_B02_R1_IMAG0074.JPG,2,28801663,28801663,jackalblackbacked,animalia,chordata,mammalia,carnivora,canidae,lupulella,lupulella mesomelas,black-backed jackal
+KAR_S1#B02#1#27,2017-10-13,07:16:47,28801663,28801663,KAR_S1_B02_R1_IMAG0075.JPG,3,28801663,28801663,jackalblackbacked,animalia,chordata,mammalia,carnivora,canidae,lupulella,lupulella mesomelas,black-backed jackal
+KAR_S1#B02#1#30,2017-10-14,09:14:18,28801671,28801671,KAR_S1_B02_R1_IMAG0078.JPG,1,28801671,28801671,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#30,2017-10-14,09:14:18,28801671,28801671,KAR_S1_B02_R1_IMAG0079.JPG,2,28801671,28801671,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#30,2017-10-14,09:14:18,28801671,28801671,KAR_S1_B02_R1_IMAG0080.JPG,3,28801671,28801671,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#31,2017-10-17,06:20:02,28801675,28801675,KAR_S1_B02_R1_IMAG0081.JPG,1,28801675,28801675,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#31,2017-10-17,06:20:02,28801675,28801675,KAR_S1_B02_R1_IMAG0082.JPG,2,28801675,28801675,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#31,2017-10-17,06:20:02,28801675,28801675,KAR_S1_B02_R1_IMAG0083.JPG,3,28801675,28801675,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#34,2017-10-20,12:55:12,28801683,28801683,KAR_S1_B02_R1_IMAG0086.JPG,1,28801683,28801683,jackalblackbacked,animalia,chordata,mammalia,carnivora,canidae,lupulella,lupulella mesomelas,black-backed jackal
+KAR_S1#B02#1#34,2017-10-20,12:55:12,28801683,28801683,KAR_S1_B02_R1_IMAG0087.JPG,2,28801683,28801683,jackalblackbacked,animalia,chordata,mammalia,carnivora,canidae,lupulella,lupulella mesomelas,black-backed jackal
+KAR_S1#B02#1#34,2017-10-20,12:55:12,28801683,28801683,KAR_S1_B02_R1_IMAG0088.JPG,3,28801683,28801683,jackalblackbacked,animalia,chordata,mammalia,carnivora,canidae,lupulella,lupulella mesomelas,black-backed jackal
+KAR_S1#B02#1#35,2017-10-20,12:56:15,28801687,28801687,KAR_S1_B02_R1_IMAG0089.JPG,1,28801687,28801687,jackalblackbacked,animalia,chordata,mammalia,carnivora,canidae,lupulella,lupulella mesomelas,black-backed jackal
+KAR_S1#B02#1#35,2017-10-20,12:56:15,28801687,28801687,KAR_S1_B02_R1_IMAG0090.JPG,2,28801687,28801687,jackalblackbacked,animalia,chordata,mammalia,carnivora,canidae,lupulella,lupulella mesomelas,black-backed jackal
+KAR_S1#B02#1#35,2017-10-20,12:56:15,28801687,28801687,KAR_S1_B02_R1_IMAG0091.JPG,3,28801687,28801687,jackalblackbacked,animalia,chordata,mammalia,carnivora,canidae,lupulella,lupulella mesomelas,black-backed jackal
+KAR_S1#B02#1#39,2017-10-28,14:18:14,28801698,28801698,KAR_S1_B02_R1_IMAG0097.JPG,1,28801698,28801698,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B02#1#39,2017-10-28,14:18:14,28801698,28801698,KAR_S1_B02_R1_IMAG0098.JPG,2,28801698,28801698,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B02#1#39,2017-10-28,14:18:14,28801698,28801698,KAR_S1_B02_R1_IMAG0099.JPG,3,28801698,28801698,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B02#1#40,2017-10-28,14:19:49,28801702,28801702,KAR_S1_B02_R1_IMAG0100.JPG,1,28801702,28801702,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#40,2017-10-28,14:19:49,28801702,28801702,KAR_S1_B02_R1_IMAG0101.JPG,2,28801702,28801702,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#40,2017-10-28,14:19:49,28801702,28801702,KAR_S1_B02_R1_IMAG0102.JPG,3,28801702,28801702,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#41,2017-10-28,14:20:50,28801706,28801706,KAR_S1_B02_R1_IMAG0103.JPG,1,28801706,28801706,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#41,2017-10-28,14:20:50,28801706,28801706,KAR_S1_B02_R1_IMAG0104.JPG,2,28801706,28801706,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#41,2017-10-28,14:20:50,28801706,28801706,KAR_S1_B02_R1_IMAG0105.JPG,3,28801706,28801706,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#42,2017-10-28,14:21:57,28801709,28801709,KAR_S1_B02_R1_IMAG0106.JPG,1,28801709,28801709,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#42,2017-10-28,14:21:57,28801709,28801709,KAR_S1_B02_R1_IMAG0107.JPG,2,28801709,28801709,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#42,2017-10-28,14:21:57,28801709,28801709,KAR_S1_B02_R1_IMAG0108.JPG,3,28801709,28801709,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#43,2017-10-28,14:23:21,28801713,28801713,KAR_S1_B02_R1_IMAG0109.JPG,1,28801713,28801713,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#43,2017-10-28,14:23:21,28801713,28801713,KAR_S1_B02_R1_IMAG0110.JPG,2,28801713,28801713,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#43,2017-10-28,14:23:21,28801713,28801713,KAR_S1_B02_R1_IMAG0111.JPG,3,28801713,28801713,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#44,2017-10-28,14:25:00,28801717,28801717,KAR_S1_B02_R1_IMAG0112.JPG,1,28801717,28801717,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#44,2017-10-28,14:25:00,28801717,28801717,KAR_S1_B02_R1_IMAG0113.JPG,2,28801717,28801717,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#44,2017-10-28,14:25:00,28801717,28801717,KAR_S1_B02_R1_IMAG0114.JPG,3,28801717,28801717,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#45,2017-10-28,14:26:03,28801718,28801718,KAR_S1_B02_R1_IMAG0115.JPG,1,28801718,28801718,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#45,2017-10-28,14:26:03,28801718,28801718,KAR_S1_B02_R1_IMAG0116.JPG,2,28801718,28801718,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#45,2017-10-28,14:26:03,28801718,28801718,KAR_S1_B02_R1_IMAG0117.JPG,3,28801718,28801718,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#46,2017-10-28,14:41:32,28801722,28801722,KAR_S1_B02_R1_IMAG0118.JPG,1,28801722,28801722,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#46,2017-10-28,14:41:32,28801722,28801722,KAR_S1_B02_R1_IMAG0119.JPG,2,28801722,28801722,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#46,2017-10-28,14:41:32,28801722,28801722,KAR_S1_B02_R1_IMAG0120.JPG,3,28801722,28801722,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#47,2017-10-28,15:05:33,28801726,28801726,KAR_S1_B02_R1_IMAG0121.JPG,1,28801726,28801726,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#47,2017-10-28,15:05:33,28801726,28801726,KAR_S1_B02_R1_IMAG0122.JPG,2,28801726,28801726,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#47,2017-10-28,15:05:33,28801726,28801726,KAR_S1_B02_R1_IMAG0123.JPG,3,28801726,28801726,springbok,animalia,chordata,mammalia,artiodactyla,bovidae,antidorcas,antidorcas marsupialis,springbok
+KAR_S1#B02#1#55,2017-11-13,06:52:17,28801744,28801744,KAR_S1_B02_R1_IMAG0133.JPG,1,28801744,28801744,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#55,2017-11-13,06:52:17,28801744,28801744,KAR_S1_B02_R1_IMAG0134.JPG,2,28801744,28801744,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#55,2017-11-13,06:52:17,28801744,28801744,KAR_S1_B02_R1_IMAG0135.JPG,3,28801744,28801744,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#56,2017-11-17,06:08:50,28801749,28801749,KAR_S1_B02_R1_IMAG0136.JPG,1,28801749,28801749,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#56,2017-11-17,06:08:50,28801749,28801749,KAR_S1_B02_R1_IMAG0137.JPG,2,28801749,28801749,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#56,2017-11-17,06:08:50,28801749,28801749,KAR_S1_B02_R1_IMAG0138.JPG,3,28801749,28801749,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#57,2017-11-17,06:13:59,28801753,28801753,KAR_S1_B02_R1_IMAG0139.JPG,1,28801753,28801753,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#57,2017-11-17,06:13:59,28801753,28801753,KAR_S1_B02_R1_IMAG0140.JPG,2,28801753,28801753,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#57,2017-11-17,06:13:59,28801753,28801753,KAR_S1_B02_R1_IMAG0141.JPG,3,28801753,28801753,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#58,2017-11-17,06:25:26,28801758,28801758,KAR_S1_B02_R1_IMAG0142.JPG,1,28801758,28801758,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#58,2017-11-17,06:25:26,28801758,28801758,KAR_S1_B02_R1_IMAG0143.JPG,2,28801758,28801758,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#58,2017-11-17,06:25:26,28801758,28801758,KAR_S1_B02_R1_IMAG0144.JPG,3,28801758,28801758,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#59,2017-11-17,06:35:42,28801761,28801761,KAR_S1_B02_R1_IMAG0145.JPG,1,28801761,28801761,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#59,2017-11-17,06:35:42,28801761,28801761,KAR_S1_B02_R1_IMAG0146.JPG,2,28801761,28801761,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#59,2017-11-17,06:35:42,28801761,28801761,KAR_S1_B02_R1_IMAG0147.JPG,3,28801761,28801761,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#60,2017-11-17,11:43:11,28801765,28801765,KAR_S1_B02_R1_IMAG0148.JPG,1,28801765,28801765,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#60,2017-11-17,11:43:11,28801765,28801765,KAR_S1_B02_R1_IMAG0149.JPG,2,28801765,28801765,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#60,2017-11-17,11:43:11,28801765,28801765,KAR_S1_B02_R1_IMAG0150.JPG,3,28801765,28801765,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#61,2017-11-17,12:40:19,28801768,28801768,KAR_S1_B02_R1_IMAG0151.JPG,1,28801768,28801768,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#61,2017-11-17,12:40:19,28801768,28801768,KAR_S1_B02_R1_IMAG0152.JPG,2,28801768,28801768,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#61,2017-11-17,12:40:19,28801768,28801768,KAR_S1_B02_R1_IMAG0153.JPG,3,28801768,28801768,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#62,2017-11-19,16:36:56,28801772,28801772,KAR_S1_B02_R1_IMAG0154.JPG,1,28801772,28801772,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#62,2017-11-19,16:36:56,28801772,28801772,KAR_S1_B02_R1_IMAG0155.JPG,2,28801772,28801772,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#62,2017-11-19,16:36:56,28801772,28801772,KAR_S1_B02_R1_IMAG0156.JPG,3,28801772,28801772,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#63,2017-11-19,16:51:17,28801777,28801777,KAR_S1_B02_R1_IMAG0157.JPG,1,28801777,28801777,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#63,2017-11-19,16:51:17,28801777,28801777,KAR_S1_B02_R1_IMAG0158.JPG,2,28801777,28801777,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#63,2017-11-19,16:51:17,28801777,28801777,KAR_S1_B02_R1_IMAG0159.JPG,3,28801777,28801777,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#64,2017-11-19,17:07:12,28801781,28801781,KAR_S1_B02_R1_IMAG0160.JPG,1,28801781,28801781,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#64,2017-11-19,17:07:12,28801781,28801781,KAR_S1_B02_R1_IMAG0161.JPG,2,28801781,28801781,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#64,2017-11-19,17:07:12,28801781,28801781,KAR_S1_B02_R1_IMAG0162.JPG,3,28801781,28801781,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#66,2017-11-22,06:22:15,28801787,28801787,KAR_S1_B02_R1_IMAG0164.JPG,1,28801787,28801787,jackalblackbacked,animalia,chordata,mammalia,carnivora,canidae,lupulella,lupulella mesomelas,black-backed jackal
+KAR_S1#B02#1#66,2017-11-22,06:22:15,28801787,28801787,KAR_S1_B02_R1_IMAG0165.JPG,2,28801787,28801787,jackalblackbacked,animalia,chordata,mammalia,carnivora,canidae,lupulella,lupulella mesomelas,black-backed jackal
+KAR_S1#B02#1#66,2017-11-22,06:22:15,28801787,28801787,KAR_S1_B02_R1_IMAG0166.JPG,3,28801787,28801787,jackalblackbacked,animalia,chordata,mammalia,carnivora,canidae,lupulella,lupulella mesomelas,black-backed jackal
+KAR_S1#B02#1#67,2017-11-24,11:07:14,28801791,28801791,KAR_S1_B02_R1_IMAG0167.JPG,1,28801791,28801791,lionmale,animalia,chordata,mammalia,carnivora,felidae,panthera,panthera leo,male lion
+KAR_S1#B02#1#67,2017-11-24,11:07:14,28801791,28801791,KAR_S1_B02_R1_IMAG0168.JPG,2,28801791,28801791,lionmale,animalia,chordata,mammalia,carnivora,felidae,panthera,panthera leo,male lion
+KAR_S1#B02#1#67,2017-11-24,11:07:14,28801791,28801791,KAR_S1_B02_R1_IMAG0169.JPG,3,28801791,28801791,lionmale,animalia,chordata,mammalia,carnivora,felidae,panthera,panthera leo,male lion
+KAR_S1#B02#1#68,2017-11-24,11:29:00,28801795,28801795,KAR_S1_B02_R1_IMAG0170.JPG,1,28801795,28801795,lionmale,animalia,chordata,mammalia,carnivora,felidae,panthera,panthera leo,male lion
+KAR_S1#B02#1#68,2017-11-24,11:29:00,28801795,28801795,KAR_S1_B02_R1_IMAG0171.JPG,2,28801795,28801795,lionmale,animalia,chordata,mammalia,carnivora,felidae,panthera,panthera leo,male lion
+KAR_S1#B02#1#68,2017-11-24,11:29:00,28801795,28801795,KAR_S1_B02_R1_IMAG0172.JPG,3,28801795,28801795,lionmale,animalia,chordata,mammalia,carnivora,felidae,panthera,panthera leo,male lion
+KAR_S1#B02#1#69,2017-11-26,16:40:15,28801799,28801799,KAR_S1_B02_R1_IMAG0173.JPG,1,28801799,28801799,tortoise,animalia,chordata,reptilia,testudines,testudinidae,,,tortoises
+KAR_S1#B02#1#69,2017-11-26,16:40:15,28801799,28801799,KAR_S1_B02_R1_IMAG0174.JPG,2,28801799,28801799,tortoise,animalia,chordata,reptilia,testudines,testudinidae,,,tortoises
+KAR_S1#B02#1#69,2017-11-26,16:40:15,28801799,28801799,KAR_S1_B02_R1_IMAG0175.JPG,3,28801799,28801799,tortoise,animalia,chordata,reptilia,testudines,testudinidae,,,tortoises
+KAR_S1#B02#1#70,2017-12-01,05:40:37,28801804,28801804,KAR_S1_B02_R1_IMAG0176.JPG,1,28801804,28801804,steenbok,animalia,chordata,mammalia,artiodactyla,bovidae,raphicerus,raphicerus campestris,steenbok
+KAR_S1#B02#1#70,2017-12-01,05:40:37,28801804,28801804,KAR_S1_B02_R1_IMAG0177.JPG,2,28801804,28801804,steenbok,animalia,chordata,mammalia,artiodactyla,bovidae,raphicerus,raphicerus campestris,steenbok
+KAR_S1#B02#1#70,2017-12-01,05:40:37,28801804,28801804,KAR_S1_B02_R1_IMAG0178.JPG,3,28801804,28801804,steenbok,animalia,chordata,mammalia,artiodactyla,bovidae,raphicerus,raphicerus campestris,steenbok
+KAR_S1#B02#1#74,2017-12-05,06:37:05,28801810,28801810,KAR_S1_B02_R1_IMAG0182.JPG,1,28801810,28801810,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#74,2017-12-05,06:37:05,28801810,28801810,KAR_S1_B02_R1_IMAG0183.JPG,2,28801810,28801810,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#74,2017-12-05,06:37:05,28801810,28801810,KAR_S1_B02_R1_IMAG0184.JPG,3,28801810,28801810,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#75,2017-12-05,11:29:03,28801815,28801815,KAR_S1_B02_R1_IMAG0185.JPG,1,28801815,28801815,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#75,2017-12-05,11:29:03,28801815,28801815,KAR_S1_B02_R1_IMAG0186.JPG,2,28801815,28801815,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#75,2017-12-05,11:29:03,28801815,28801815,KAR_S1_B02_R1_IMAG0187.JPG,3,28801815,28801815,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#76,2017-12-05,16:56:21,28801819,28801819,KAR_S1_B02_R1_IMAG0188.JPG,1,28801819,28801819,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#76,2017-12-05,16:56:21,28801819,28801819,KAR_S1_B02_R1_IMAG0189.JPG,2,28801819,28801819,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#76,2017-12-05,16:56:21,28801819,28801819,KAR_S1_B02_R1_IMAG0190.JPG,3,28801819,28801819,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#78,2017-12-06,06:58:20,28801824,28801824,KAR_S1_B02_R1_IMAG0192.JPG,1,28801824,28801824,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B02#1#78,2017-12-06,06:58:20,28801824,28801824,KAR_S1_B02_R1_IMAG0193.JPG,2,28801824,28801824,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B02#1#78,2017-12-06,06:58:20,28801824,28801824,KAR_S1_B02_R1_IMAG0194.JPG,3,28801824,28801824,kudu,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus strepsiceros,greater kudu
+KAR_S1#B02#1#81,2017-12-07,10:23:12,28801832,28801832,KAR_S1_B02_R1_IMAG0197.JPG,1,28801832,28801832,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#81,2017-12-07,10:23:12,28801832,28801832,KAR_S1_B02_R1_IMAG0198.JPG,2,28801832,28801832,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#81,2017-12-07,10:23:12,28801832,28801832,KAR_S1_B02_R1_IMAG0199.JPG,3,28801832,28801832,gemsbokoryx,animalia,chordata,mammalia,artiodactyla,bovidae,oryx,oryx gazella,gemsbok
+KAR_S1#B02#1#83,2017-12-10,06:45:52,28801840,28801840,KAR_S1_B02_R1_IMAG0203.JPG,1,28801840,28801840,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#83,2017-12-10,06:45:52,28801840,28801840,KAR_S1_B02_R1_IMAG0204.JPG,2,28801840,28801840,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#83,2017-12-10,06:45:52,28801840,28801840,KAR_S1_B02_R1_IMAG0205.JPG,3,28801840,28801840,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#84,2017-12-10,06:47:09,28801841,28801841,KAR_S1_B02_R1_IMAG0206.JPG,1,28801841,28801841,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#84,2017-12-10,06:47:09,28801841,28801841,KAR_S1_B02_R1_IMAG0207.JPG,2,28801841,28801841,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#84,2017-12-10,06:47:09,28801841,28801841,KAR_S1_B02_R1_IMAG0208.JPG,3,28801841,28801841,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#85,2017-12-10,06:49:47,28801845,28801845,KAR_S1_B02_R1_IMAG0209.JPG,1,28801845,28801845,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#85,2017-12-10,06:49:47,28801845,28801845,KAR_S1_B02_R1_IMAG0210.JPG,2,28801845,28801845,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#85,2017-12-10,06:49:47,28801845,28801845,KAR_S1_B02_R1_IMAG0211.JPG,3,28801845,28801845,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#86,2017-12-10,06:51:59,28801850,28801850,KAR_S1_B02_R1_IMAG0212.JPG,1,28801850,28801850,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#86,2017-12-10,06:51:59,28801850,28801850,KAR_S1_B02_R1_IMAG0213.JPG,2,28801850,28801850,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#86,2017-12-10,06:51:59,28801850,28801850,KAR_S1_B02_R1_IMAG0214.JPG,3,28801850,28801850,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#87,2017-12-10,06:53:33,28801853,28801853,KAR_S1_B02_R1_IMAG0215.JPG,1,28801853,28801853,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#87,2017-12-10,06:53:33,28801853,28801853,KAR_S1_B02_R1_IMAG0216.JPG,2,28801853,28801853,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#87,2017-12-10,06:53:33,28801853,28801853,KAR_S1_B02_R1_IMAG0217.JPG,3,28801853,28801853,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#88,2017-12-10,06:55:22,28801857,28801857,KAR_S1_B02_R1_IMAG0218.JPG,1,28801857,28801857,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#88,2017-12-10,06:55:22,28801857,28801857,KAR_S1_B02_R1_IMAG0219.JPG,2,28801857,28801857,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#88,2017-12-10,06:55:22,28801857,28801857,KAR_S1_B02_R1_IMAG0220.JPG,3,28801857,28801857,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#89,2017-12-10,06:56:32,28801860,28801860,KAR_S1_B02_R1_IMAG0221.JPG,1,28801860,28801860,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#89,2017-12-10,06:56:32,28801860,28801860,KAR_S1_B02_R1_IMAG0222.JPG,2,28801860,28801860,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#89,2017-12-10,06:56:32,28801860,28801860,KAR_S1_B02_R1_IMAG0223.JPG,3,28801860,28801860,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#90,2017-12-10,06:58:31,28801864,28801864,KAR_S1_B02_R1_IMAG0224.JPG,1,28801864,28801864,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#90,2017-12-10,06:58:31,28801864,28801864,KAR_S1_B02_R1_IMAG0225.JPG,2,28801864,28801864,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#90,2017-12-10,06:58:31,28801864,28801864,KAR_S1_B02_R1_IMAG0226.JPG,3,28801864,28801864,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#91,2017-12-10,06:59:44,28801867,28801867,KAR_S1_B02_R1_IMAG0227.JPG,1,28801867,28801867,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#91,2017-12-10,06:59:44,28801867,28801867,KAR_S1_B02_R1_IMAG0228.JPG,2,28801867,28801867,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#91,2017-12-10,06:59:44,28801867,28801867,KAR_S1_B02_R1_IMAG0229.JPG,3,28801867,28801867,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#92,2017-12-10,07:00:54,28801872,28801872,KAR_S1_B02_R1_IMAG0230.JPG,1,28801872,28801872,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#92,2017-12-10,07:00:54,28801872,28801872,KAR_S1_B02_R1_IMAG0231.JPG,2,28801872,28801872,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#92,2017-12-10,07:00:54,28801872,28801872,KAR_S1_B02_R1_IMAG0232.JPG,3,28801872,28801872,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#93,2017-12-10,07:06:01,28801875,28801875,KAR_S1_B02_R1_IMAG0233.JPG,1,28801875,28801875,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#93,2017-12-10,07:06:01,28801875,28801875,KAR_S1_B02_R1_IMAG0234.JPG,2,28801875,28801875,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#93,2017-12-10,07:06:01,28801875,28801875,KAR_S1_B02_R1_IMAG0235.JPG,3,28801875,28801875,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#94,2017-12-10,11:31:31,28801876,28801876,KAR_S1_B02_R1_IMAG0236.JPG,1,28801876,28801876,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#94,2017-12-10,11:31:31,28801876,28801876,KAR_S1_B02_R1_IMAG0237.JPG,2,28801876,28801876,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#94,2017-12-10,11:31:31,28801876,28801876,KAR_S1_B02_R1_IMAG0238.JPG,3,28801876,28801876,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#95,2017-12-10,11:36:58,28801878,28801878,KAR_S1_B02_R1_IMAG0239.JPG,1,28801878,28801878,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#95,2017-12-10,11:36:58,28801878,28801878,KAR_S1_B02_R1_IMAG0240.JPG,2,28801878,28801878,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#95,2017-12-10,11:36:58,28801878,28801878,KAR_S1_B02_R1_IMAG0241.JPG,3,28801878,28801878,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#96,2017-12-10,13:00:07,28801882,28801882,KAR_S1_B02_R1_IMAG0242.JPG,1,28801882,28801882,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#96,2017-12-10,13:00:07,28801882,28801882,KAR_S1_B02_R1_IMAG0243.JPG,2,28801882,28801882,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#96,2017-12-10,13:00:07,28801882,28801882,KAR_S1_B02_R1_IMAG0244.JPG,3,28801882,28801882,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#97,2017-12-10,13:31:01,28801886,28801886,KAR_S1_B02_R1_IMAG0245.JPG,1,28801886,28801886,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#97,2017-12-10,13:31:01,28801886,28801886,KAR_S1_B02_R1_IMAG0246.JPG,2,28801886,28801886,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#97,2017-12-10,13:31:01,28801886,28801886,KAR_S1_B02_R1_IMAG0247.JPG,3,28801886,28801886,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#99,2017-12-10,13:54:46,28801893,28801893,KAR_S1_B02_R1_IMAG0251.JPG,1,28801893,28801893,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#99,2017-12-10,13:54:46,28801893,28801893,KAR_S1_B02_R1_IMAG0252.JPG,2,28801893,28801893,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#99,2017-12-10,13:54:46,28801893,28801893,KAR_S1_B02_R1_IMAG0253.JPG,3,28801893,28801893,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#100,2017-12-10,13:56:18,28801897,28801897,KAR_S1_B02_R1_IMAG0254.JPG,1,28801897,28801897,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#100,2017-12-10,13:56:18,28801897,28801897,KAR_S1_B02_R1_IMAG0255.JPG,2,28801897,28801897,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#100,2017-12-10,13:56:18,28801897,28801897,KAR_S1_B02_R1_IMAG0256.JPG,3,28801897,28801897,hartebeestred,animalia,chordata,mammalia,artiodactyla,bovidae,alcelaphus,alcelaphus buselaphus,red hartebeest
+KAR_S1#B02#1#102,2017-12-11,18:55:58,28801905,28801905,KAR_S1_B02_R1_IMAG0260.JPG,1,28801905,28801905,ostrich,animalia,chordata,aves,struthioniformes,struthionidae,struthio,struthio camelus,ostrich
+KAR_S1#B02#1#102,2017-12-11,18:55:58,28801905,28801905,KAR_S1_B02_R1_IMAG0261.JPG,2,28801905,28801905,ostrich,animalia,chordata,aves,struthioniformes,struthionidae,struthio,struthio camelus,ostrich
+KAR_S1#B02#1#102,2017-12-11,18:55:58,28801905,28801905,KAR_S1_B02_R1_IMAG0262.JPG,3,28801905,28801905,ostrich,animalia,chordata,aves,struthioniformes,struthionidae,struthio,struthio camelus,ostrich
+KAR_S1#B02#1#104,2017-12-12,19:22:08,28801910,28801910,KAR_S1_B02_R1_IMAG0264.JPG,1,28801910,28801910,ostrich,animalia,chordata,aves,struthioniformes,struthionidae,struthio,struthio camelus,ostrich
+KAR_S1#B02#1#104,2017-12-12,19:22:08,28801910,28801910,KAR_S1_B02_R1_IMAG0265.JPG,2,28801910,28801910,ostrich,animalia,chordata,aves,struthioniformes,struthionidae,struthio,struthio camelus,ostrich
+KAR_S1#B02#1#104,2017-12-12,19:22:08,28801910,28801910,KAR_S1_B02_R1_IMAG0266.JPG,3,28801910,28801910,ostrich,animalia,chordata,aves,struthioniformes,struthionidae,struthio,struthio camelus,ostrich
+KAR_S1#B02#1#112,2017-12-18,07:28:20,28801939,28801939,KAR_S1_B02_R1_IMAG0284.JPG,1,28801939,28801939,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#112,2017-12-18,07:28:20,28801939,28801939,KAR_S1_B02_R1_IMAG0285.JPG,2,28801939,28801939,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#112,2017-12-18,07:28:20,28801939,28801939,KAR_S1_B02_R1_IMAG0286.JPG,3,28801939,28801939,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#113,2017-12-19,08:53:31,28801943,28801943,KAR_S1_B02_R1_IMAG0287.JPG,1,28801943,28801943,steenbok,animalia,chordata,mammalia,artiodactyla,bovidae,raphicerus,raphicerus campestris,steenbok
+KAR_S1#B02#1#113,2017-12-19,08:53:31,28801943,28801943,KAR_S1_B02_R1_IMAG0288.JPG,2,28801943,28801943,steenbok,animalia,chordata,mammalia,artiodactyla,bovidae,raphicerus,raphicerus campestris,steenbok
+KAR_S1#B02#1#113,2017-12-19,08:53:31,28801943,28801943,KAR_S1_B02_R1_IMAG0289.JPG,3,28801943,28801943,steenbok,animalia,chordata,mammalia,artiodactyla,bovidae,raphicerus,raphicerus campestris,steenbok
+KAR_S1#B02#1#114,2017-12-20,07:04:52,28801947,28801947,KAR_S1_B02_R1_IMAG0290.JPG,1,28801947,28801947,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#114,2017-12-20,07:04:52,28801947,28801947,KAR_S1_B02_R1_IMAG0291.JPG,2,28801947,28801947,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#114,2017-12-20,07:04:52,28801947,28801947,KAR_S1_B02_R1_IMAG0292.JPG,3,28801947,28801947,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#115,2017-12-22,08:50:52,28801951,28801951,KAR_S1_B02_R1_IMAG0293.JPG,1,28801951,28801951,steenbok,animalia,chordata,mammalia,artiodactyla,bovidae,raphicerus,raphicerus campestris,steenbok
+KAR_S1#B02#1#115,2017-12-22,08:50:52,28801951,28801951,KAR_S1_B02_R1_IMAG0294.JPG,2,28801951,28801951,steenbok,animalia,chordata,mammalia,artiodactyla,bovidae,raphicerus,raphicerus campestris,steenbok
+KAR_S1#B02#1#115,2017-12-22,08:50:52,28801951,28801951,KAR_S1_B02_R1_IMAG0295.JPG,3,28801951,28801951,steenbok,animalia,chordata,mammalia,artiodactyla,bovidae,raphicerus,raphicerus campestris,steenbok
+KAR_S1#B02#1#116,2017-12-23,19:34:22,28801955,28801955,KAR_S1_B02_R1_IMAG0296.JPG,1,28801955,28801955,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#116,2017-12-23,19:34:22,28801955,28801955,KAR_S1_B02_R1_IMAG0297.JPG,2,28801955,28801955,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#116,2017-12-23,19:34:22,28801955,28801955,KAR_S1_B02_R1_IMAG0298.JPG,3,28801955,28801955,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#117,2017-12-23,19:35:40,28801959,28801959,KAR_S1_B02_R1_IMAG0299.JPG,1,28801959,28801959,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#117,2017-12-23,19:35:40,28801959,28801959,KAR_S1_B02_R1_IMAG0300.JPG,2,28801959,28801959,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#117,2017-12-23,19:35:40,28801959,28801959,KAR_S1_B02_R1_IMAG0301.JPG,3,28801959,28801959,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#118,2017-12-24,05:32:04,28801962,28801962,KAR_S1_B02_R1_IMAG0302.JPG,1,28801962,28801962,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#118,2017-12-24,05:32:04,28801962,28801962,KAR_S1_B02_R1_IMAG0303.JPG,2,28801962,28801962,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#118,2017-12-24,05:32:04,28801962,28801962,KAR_S1_B02_R1_IMAG0304.JPG,3,28801962,28801962,baboon,animalia,chordata,mammalia,primates,cercopithecidae,papio,,baboon
+KAR_S1#B02#1#119,2017-12-24,07:51:08,28801966,28801966,KAR_S1_B02_R1_IMAG0305.JPG,1,28801966,28801966,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#B02#1#119,2017-12-24,07:51:08,28801966,28801966,KAR_S1_B02_R1_IMAG0306.JPG,2,28801966,28801966,eland,animalia,chordata,mammalia,artiodactyla,bovidae,tragelaphus,tragelaphus oryx,eland
+KAR_S1#A02#1#12,2017-10-06,10:52:58,28794795,28794795,KAR_S1_A02_R1_IMAG0030.JPG,1,28794795,28794795,blank,,,,,,,,
+KAR_S1#A02#1#12,2017-10-06,10:52:58,28794795,28794795,KAR_S1_A02_R1_IMAG0031.JPG,2,28794795,28794795,blank,,,,,,,,
+KAR_S1#A02#1#12,2017-10-06,10:52:58,28794795,28794795,KAR_S1_A02_R1_IMAG0032.JPG,3,28794795,28794795,blank,,,,,,,,
+KAR_S1#A02#1#28,2017-10-14,15:16:57,28794811,28794811,KAR_S1_A02_R1_IMAG0072.JPG,1,28794811,28794811,blank,,,,,,,,
+KAR_S1#A02#1#28,2017-10-14,15:16:57,28794811,28794811,KAR_S1_A02_R1_IMAG0073.JPG,2,28794811,28794811,blank,,,,,,,,
+KAR_S1#A02#1#28,2017-10-14,15:16:57,28794811,28794811,KAR_S1_A02_R1_IMAG0074.JPG,3,28794811,28794811,blank,,,,,,,,
+KAR_S1#A02#1#29,2017-10-16,17:07:39,28794812,28794812,KAR_S1_A02_R1_IMAG0075.JPG,1,28794812,28794812,blank,,,,,,,,
+KAR_S1#A02#1#29,2017-10-16,17:07:39,28794812,28794812,KAR_S1_A02_R1_IMAG0076.JPG,2,28794812,28794812,blank,,,,,,,,
+KAR_S1#A02#1#29,2017-10-16,17:07:39,28794812,28794812,KAR_S1_A02_R1_IMAG0077.JPG,3,28794812,28794812,blank,,,,,,,,
+KAR_S1#A02#1#34,2017-10-21,06:24:36,28794817,28794817,KAR_S1_A02_R1_IMAG0086.JPG,1,28794817,28794817,blank,,,,,,,,
+KAR_S1#A02#1#34,2017-10-21,06:24:36,28794817,28794817,KAR_S1_A02_R1_IMAG0087.JPG,2,28794817,28794817,blank,,,,,,,,
+KAR_S1#A02#1#34,2017-10-21,06:24:36,28794817,28794817,KAR_S1_A02_R1_IMAG0088.JPG,3,28794817,28794817,blank,,,,,,,,
+KAR_S1#A02#1#38,2017-10-22,13:19:42,28794821,28794821,KAR_S1_A02_R1_IMAG0092.JPG,1,28794821,28794821,blank,,,,,,,,
+KAR_S1#A02#1#38,2017-10-22,13:19:42,28794821,28794821,KAR_S1_A02_R1_IMAG0093.JPG,2,28794821,28794821,blank,,,,,,,,
+KAR_S1#A02#1#38,2017-10-22,13:19:42,28794821,28794821,KAR_S1_A02_R1_IMAG0094.JPG,3,28794821,28794821,blank,,,,,,,,
+KAR_S1#A02#1#39,2017-10-22,13:23:53,28794822,28794822,KAR_S1_A02_R1_IMAG0095.JPG,1,28794822,28794822,blank,,,,,,,,
+KAR_S1#A02#1#39,2017-10-22,13:23:53,28794822,28794822,KAR_S1_A02_R1_IMAG0096.JPG,2,28794822,28794822,blank,,,,,,,,
+KAR_S1#A02#1#39,2017-10-22,13:23:53,28794822,28794822,KAR_S1_A02_R1_IMAG0097.JPG,3,28794822,28794822,blank,,,,,,,,
+KAR_S1#A02#1#40,2017-10-23,16:56:03,28794823,28794823,KAR_S1_A02_R1_IMAG0098.JPG,1,28794823,28794823,blank,,,,,,,,
+KAR_S1#A02#1#40,2017-10-23,16:56:03,28794823,28794823,KAR_S1_A02_R1_IMAG0099.JPG,2,28794823,28794823,blank,,,,,,,,
+KAR_S1#A02#1#40,2017-10-23,16:56:03,28794823,28794823,KAR_S1_A02_R1_IMAG0100.JPG,3,28794823,28794823,blank,,,,,,,,
+KAR_S1#A02#1#44,2017-10-25,16:26:33,28794827,28794827,KAR_S1_A02_R1_IMAG0110.JPG,1,28794827,28794827,blank,,,,,,,,
+KAR_S1#A02#1#44,2017-10-25,16:26:33,28794827,28794827,KAR_S1_A02_R1_IMAG0111.JPG,2,28794827,28794827,blank,,,,,,,,
+KAR_S1#A02#1#44,2017-10-25,16:26:33,28794827,28794827,KAR_S1_A02_R1_IMAG0112.JPG,3,28794827,28794827,blank,,,,,,,,
+KAR_S1#A02#1#45,2017-10-27,09:49:21,28794828,28794828,KAR_S1_A02_R1_IMAG0113.JPG,1,28794828,28794828,blank,,,,,,,,
+KAR_S1#A02#1#45,2017-10-27,09:49:21,28794828,28794828,KAR_S1_A02_R1_IMAG0114.JPG,2,28794828,28794828,blank,,,,,,,,
+KAR_S1#A02#1#45,2017-10-27,09:49:21,28794828,28794828,KAR_S1_A02_R1_IMAG0115.JPG,3,28794828,28794828,blank,,,,,,,,
+KAR_S1#A02#1#46,2017-10-27,15:39:17,28794829,28794829,KAR_S1_A02_R1_IMAG0116.JPG,1,28794829,28794829,blank,,,,,,,,
+KAR_S1#A02#1#46,2017-10-27,15:39:17,28794829,28794829,KAR_S1_A02_R1_IMAG0117.JPG,2,28794829,28794829,blank,,,,,,,,
+KAR_S1#A02#1#46,2017-10-27,15:39:17,28794829,28794829,KAR_S1_A02_R1_IMAG0118.JPG,3,28794829,28794829,blank,,,,,,,,
+KAR_S1#A02#1#55,2017-11-09,18:13:15,28794838,28794838,KAR_S1_A02_R1_IMAG0131.JPG,1,28794838,28794838,blank,,,,,,,,
+KAR_S1#A02#1#55,2017-11-09,18:13:15,28794838,28794838,KAR_S1_A02_R1_IMAG0132.JPG,2,28794838,28794838,blank,,,,,,,,
+KAR_S1#A02#1#55,2017-11-09,18:13:15,28794838,28794838,KAR_S1_A02_R1_IMAG0133.JPG,3,28794838,28794838,blank,,,,,,,,
+KAR_S1#A02#1#57,2017-11-18,08:56:27,28794840,28794840,KAR_S1_A02_R1_IMAG0137.JPG,1,28794840,28794840,blank,,,,,,,,
+KAR_S1#A02#1#57,2017-11-18,08:56:27,28794840,28794840,KAR_S1_A02_R1_IMAG0138.JPG,2,28794840,28794840,blank,,,,,,,,
+KAR_S1#A02#1#57,2017-11-18,08:56:27,28794840,28794840,KAR_S1_A02_R1_IMAG0139.JPG,3,28794840,28794840,blank,,,,,,,,
+KAR_S1#A02#1#58,2017-11-18,12:08:23,28794841,28794841,KAR_S1_A02_R1_IMAG0140.JPG,1,28794841,28794841,blank,,,,,,,,
+KAR_S1#A02#1#58,2017-11-18,12:08:23,28794841,28794841,KAR_S1_A02_R1_IMAG0141.JPG,2,28794841,28794841,blank,,,,,,,,
+KAR_S1#A02#1#58,2017-11-18,12:08:23,28794841,28794841,KAR_S1_A02_R1_IMAG0142.JPG,3,28794841,28794841,blank,,,,,,,,
+KAR_S1#A02#1#60,2017-11-20,17:38:19,28794843,28794843,KAR_S1_A02_R1_IMAG0144.JPG,1,28794843,28794843,blank,,,,,,,,
+KAR_S1#A02#1#60,2017-11-20,17:38:19,28794843,28794843,KAR_S1_A02_R1_IMAG0145.JPG,2,28794843,28794843,blank,,,,,,,,
+KAR_S1#A02#1#60,2017-11-20,17:38:19,28794843,28794843,KAR_S1_A02_R1_IMAG0146.JPG,3,28794843,28794843,blank,,,,,,,,
+KAR_S1#A02#1#61,2017-11-22,08:33:05,28794844,28794844,KAR_S1_A02_R1_IMAG0147.JPG,1,28794844,28794844,blank,,,,,,,,
+KAR_S1#A02#1#61,2017-11-22,08:33:05,28794844,28794844,KAR_S1_A02_R1_IMAG0148.JPG,2,28794844,28794844,blank,,,,,,,,
+KAR_S1#A02#1#61,2017-11-22,08:33:05,28794844,28794844,KAR_S1_A02_R1_IMAG0149.JPG,3,28794844,28794844,blank,,,,,,,,
+KAR_S1#A02#1#62,2017-11-26,14:11:31,28794845,28794845,KAR_S1_A02_R1_IMAG0150.JPG,1,28794845,28794845,blank,,,,,,,,
+KAR_S1#A02#1#62,2017-11-26,14:11:31,28794845,28794845,KAR_S1_A02_R1_IMAG0151.JPG,2,28794845,28794845,blank,,,,,,,,
+KAR_S1#A02#1#62,2017-11-26,14:11:31,28794845,28794845,KAR_S1_A02_R1_IMAG0152.JPG,3,28794845,28794845,blank,,,,,,,,
+KAR_S1#A02#1#64,2017-11-29,15:02:50,28794847,28794847,KAR_S1_A02_R1_IMAG0156.JPG,1,28794847,28794847,blank,,,,,,,,
+KAR_S1#A02#1#64,2017-11-29,15:02:50,28794847,28794847,KAR_S1_A02_R1_IMAG0157.JPG,2,28794847,28794847,blank,,,,,,,,
+KAR_S1#A02#1#64,2017-11-29,15:02:50,28794847,28794847,KAR_S1_A02_R1_IMAG0158.JPG,3,28794847,28794847,blank,,,,,,,,
+KAR_S1#A02#1#65,2017-11-30,13:28:01,28794848,28794848,KAR_S1_A02_R1_IMAG0159.JPG,1,28794848,28794848,blank,,,,,,,,
+KAR_S1#A02#1#65,2017-11-30,13:28:01,28794848,28794848,KAR_S1_A02_R1_IMAG0160.JPG,2,28794848,28794848,blank,,,,,,,,
+KAR_S1#A02#1#65,2017-11-30,13:28:01,28794848,28794848,KAR_S1_A02_R1_IMAG0161.JPG,3,28794848,28794848,blank,,,,,,,,
+KAR_S1#A02#1#66,2017-11-30,13:30:37,28794849,28794849,KAR_S1_A02_R1_IMAG0162.JPG,1,28794849,28794849,blank,,,,,,,,
+KAR_S1#A02#1#66,2017-11-30,13:30:37,28794849,28794849,KAR_S1_A02_R1_IMAG0163.JPG,2,28794849,28794849,blank,,,,,,,,
+KAR_S1#A02#1#66,2017-11-30,13:30:37,28794849,28794849,KAR_S1_A02_R1_IMAG0164.JPG,3,28794849,28794849,blank,,,,,,,,
+KAR_S1#A02#1#67,2017-12-01,13:51:38,28794850,28794850,KAR_S1_A02_R1_IMAG0165.JPG,1,28794850,28794850,blank,,,,,,,,
+KAR_S1#A02#1#67,2017-12-01,13:51:38,28794850,28794850,KAR_S1_A02_R1_IMAG0166.JPG,2,28794850,28794850,blank,,,,,,,,
+KAR_S1#A02#1#67,2017-12-01,13:51:38,28794850,28794850,KAR_S1_A02_R1_IMAG0167.JPG,3,28794850,28794850,blank,,,,,,,,
+KAR_S1#A02#1#69,2017-12-02,14:39:48,28794852,28794852,KAR_S1_A02_R1_IMAG0171.JPG,1,28794852,28794852,blank,,,,,,,,
+KAR_S1#A02#1#69,2017-12-02,14:39:48,28794852,28794852,KAR_S1_A02_R1_IMAG0172.JPG,2,28794852,28794852,blank,,,,,,,,
+KAR_S1#A02#1#69,2017-12-02,14:39:48,28794852,28794852,KAR_S1_A02_R1_IMAG0173.JPG,3,28794852,28794852,blank,,,,,,,,
+KAR_S1#A02#1#70,2017-12-02,14:40:48,28794853,28794853,KAR_S1_A02_R1_IMAG0174.JPG,1,28794853,28794853,blank,,,,,,,,
+KAR_S1#A02#1#70,2017-12-02,14:40:48,28794853,28794853,KAR_S1_A02_R1_IMAG0175.JPG,2,28794853,28794853,blank,,,,,,,,
+KAR_S1#A02#1#70,2017-12-02,14:40:48,28794853,28794853,KAR_S1_A02_R1_IMAG0176.JPG,3,28794853,28794853,blank,,,,,,,,
+KAR_S1#A02#1#103,2017-12-09,18:25:24,28794886,28794886,KAR_S1_A02_R1_IMAG0267.JPG,1,28794886,28794886,blank,,,,,,,,
+KAR_S1#A02#1#103,2017-12-09,18:25:24,28794886,28794886,KAR_S1_A02_R1_IMAG0268.JPG,2,28794886,28794886,blank,,,,,,,,
+KAR_S1#A02#1#103,2017-12-09,18:25:24,28794886,28794886,KAR_S1_A02_R1_IMAG0269.JPG,3,28794886,28794886,blank,,,,,,,,
+KAR_S1#A02#1#107,2017-12-10,12:33:46,28794890,28794890,KAR_S1_A02_R1_IMAG0273.JPG,1,28794890,28794890,blank,,,,,,,,
+KAR_S1#A02#1#107,2017-12-10,12:33:46,28794890,28794890,KAR_S1_A02_R1_IMAG0274.JPG,2,28794890,28794890,blank,,,,,,,,
+KAR_S1#A02#1#107,2017-12-10,12:33:46,28794890,28794890,KAR_S1_A02_R1_IMAG0275.JPG,3,28794890,28794890,blank,,,,,,,,
+KAR_S1#A02#1#119,2017-12-16,16:09:43,28794902,28794902,KAR_S1_A02_R1_IMAG0309.JPG,1,28794902,28794902,blank,,,,,,,,
+KAR_S1#A02#1#119,2017-12-16,16:09:43,28794902,28794902,KAR_S1_A02_R1_IMAG0310.JPG,2,28794902,28794902,blank,,,,,,,,
+KAR_S1#A02#1#119,2017-12-16,16:09:43,28794902,28794902,KAR_S1_A02_R1_IMAG0311.JPG,3,28794902,28794902,blank,,,,,,,,
+KAR_S1#A02#1#133,2017-12-27,14:10:50,28794916,28794916,KAR_S1_A02_R1_IMAG0351.JPG,1,28794916,28794916,blank,,,,,,,,
+KAR_S1#A02#1#133,2017-12-27,14:10:50,28794916,28794916,KAR_S1_A02_R1_IMAG0352.JPG,2,28794916,28794916,blank,,,,,,,,
+KAR_S1#A02#1#133,2017-12-27,14:10:50,28794916,28794916,KAR_S1_A02_R1_IMAG0353.JPG,3,28794916,28794916,blank,,,,,,,,
+KAR_S1#A02#1#137,2017-12-29,13:54:14,28794920,28794920,KAR_S1_A02_R1_IMAG0363.JPG,1,28794920,28794920,blank,,,,,,,,
+KAR_S1#A02#1#137,2017-12-29,13:54:14,28794920,28794920,KAR_S1_A02_R1_IMAG0364.JPG,2,28794920,28794920,blank,,,,,,,,
+KAR_S1#A02#1#137,2017-12-29,13:54:14,28794920,28794920,KAR_S1_A02_R1_IMAG0365.JPG,3,28794920,28794920,blank,,,,,,,,
+KAR_S1#A02#1#138,2017-12-29,13:55:22,28794921,28794921,KAR_S1_A02_R1_IMAG0366.JPG,1,28794921,28794921,blank,,,,,,,,
+KAR_S1#A02#1#138,2017-12-29,13:55:22,28794921,28794921,KAR_S1_A02_R1_IMAG0367.JPG,2,28794921,28794921,blank,,,,,,,,
+KAR_S1#A02#1#138,2017-12-29,13:55:22,28794921,28794921,KAR_S1_A02_R1_IMAG0368.JPG,3,28794921,28794921,blank,,,,,,,,
+KAR_S1#A02#1#140,2017-12-30,13:29:05,28794923,28794923,KAR_S1_A02_R1_IMAG0372.JPG,1,28794923,28794923,blank,,,,,,,,
+KAR_S1#A02#1#140,2017-12-30,13:29:05,28794923,28794923,KAR_S1_A02_R1_IMAG0373.JPG,2,28794923,28794923,blank,,,,,,,,
+KAR_S1#A02#1#140,2017-12-30,13:29:05,28794923,28794923,KAR_S1_A02_R1_IMAG0374.JPG,3,28794923,28794923,blank,,,,,,,,
+KAR_S1#A02#1#147,2018-01-04,16:27:06,28794930,28794930,KAR_S1_A02_R1_IMAG0389.JPG,1,28794930,28794930,blank,,,,,,,,
+KAR_S1#A02#1#147,2018-01-04,16:27:06,28794930,28794930,KAR_S1_A02_R1_IMAG0390.JPG,2,28794930,28794930,blank,,,,,,,,
+KAR_S1#A02#1#147,2018-01-04,16:27:06,28794930,28794930,KAR_S1_A02_R1_IMAG0391.JPG,3,28794930,28794930,blank,,,,,,,,
+KAR_S1#A02#1#201,2018-01-28,17:19:32,28794984,28794984,KAR_S1_A02_R1_IMAG0541.JPG,1,28794984,28794984,blank,,,,,,,,
+KAR_S1#A02#1#201,2018-01-28,17:19:32,28794984,28794984,KAR_S1_A02_R1_IMAG0542.JPG,2,28794984,28794984,blank,,,,,,,,
+KAR_S1#A02#1#201,2018-01-28,17:19:32,28794984,28794984,KAR_S1_A02_R1_IMAG0543.JPG,3,28794984,28794984,blank,,,,,,,,
+KAR_S1#A02#1#202,2018-01-28,17:27:50,28794985,28794985,KAR_S1_A02_R1_IMAG0544.JPG,1,28794985,28794985,blank,,,,,,,,
+KAR_S1#A02#1#202,2018-01-28,17:27:50,28794985,28794985,KAR_S1_A02_R1_IMAG0545.JPG,2,28794985,28794985,blank,,,,,,,,
+KAR_S1#A02#1#202,2018-01-28,17:27:50,28794985,28794985,KAR_S1_A02_R1_IMAG0546.JPG,3,28794985,28794985,blank,,,,,,,,
+KAR_S1#A02#1#203,2018-01-28,17:30:16,28794986,28794986,KAR_S1_A02_R1_IMAG0547.JPG,1,28794986,28794986,blank,,,,,,,,
+KAR_S1#A02#1#203,2018-01-28,17:30:16,28794986,28794986,KAR_S1_A02_R1_IMAG0548.JPG,2,28794986,28794986,blank,,,,,,,,
+KAR_S1#A02#1#203,2018-01-28,17:30:16,28794986,28794986,KAR_S1_A02_R1_IMAG0549.JPG,3,28794986,28794986,blank,,,,,,,,
+KAR_S1#A02#1#209,2018-02-01,14:39:31,28794992,28794992,KAR_S1_A02_R1_IMAG0563.JPG,1,28794992,28794992,blank,,,,,,,,
+KAR_S1#A02#1#209,2018-02-01,14:39:31,28794992,28794992,KAR_S1_A02_R1_IMAG0564.JPG,2,28794992,28794992,blank,,,,,,,,
+KAR_S1#A02#1#209,2018-02-01,14:39:31,28794992,28794992,KAR_S1_A02_R1_IMAG0565.JPG,3,28794992,28794992,blank,,,,,,,,
+KAR_S1#A02#1#211,2018-02-02,11:54:41,28794994,28794994,KAR_S1_A02_R1_IMAG0569.JPG,1,28794994,28794994,blank,,,,,,,,
+KAR_S1#A02#1#211,2018-02-02,11:54:41,28794994,28794994,KAR_S1_A02_R1_IMAG0570.JPG,2,28794994,28794994,blank,,,,,,,,
+KAR_S1#A02#1#211,2018-02-02,11:54:41,28794994,28794994,KAR_S1_A02_R1_IMAG0571.JPG,3,28794994,28794994,blank,,,,,,,,
+KAR_S1#A02#1#214,2018-02-03,17:52:46,28794997,28794997,KAR_S1_A02_R1_IMAG0578.JPG,1,28794997,28794997,blank,,,,,,,,
+KAR_S1#A02#1#214,2018-02-03,17:52:46,28794997,28794997,KAR_S1_A02_R1_IMAG0579.JPG,2,28794997,28794997,blank,,,,,,,,
+KAR_S1#A02#1#214,2018-02-03,17:52:46,28794997,28794997,KAR_S1_A02_R1_IMAG0580.JPG,3,28794997,28794997,blank,,,,,,,,
+KAR_S1#B01#1#1,2017-10-04,12:04:14,28795003,28795003,KAR_S1_B01_R1_IMAG0001.JPG,1,28795003,28795003,blank,,,,,,,,
+KAR_S1#B01#1#1,2017-10-04,12:04:14,28795003,28795003,KAR_S1_B01_R1_IMAG0002.JPG,2,28795003,28795003,blank,,,,,,,,
+KAR_S1#B01#1#1,2017-10-04,12:04:14,28795003,28795003,KAR_S1_B01_R1_IMAG0003.JPG,3,28795003,28795003,blank,,,,,,,,
+KAR_S1#B01#1#3,2017-10-04,12:07:05,28795005,28795005,KAR_S1_B01_R1_IMAG0007.JPG,1,28795005,28795005,blank,,,,,,,,
+KAR_S1#B01#1#3,2017-10-04,12:07:05,28795005,28795005,KAR_S1_B01_R1_IMAG0008.JPG,2,28795005,28795005,blank,,,,,,,,
+KAR_S1#B01#1#3,2017-10-04,12:07:05,28795005,28795005,KAR_S1_B01_R1_IMAG0009.JPG,3,28795005,28795005,blank,,,,,,,,
+KAR_S1#B01#1#8,2017-10-04,12:12:31,28795010,28795010,KAR_S1_B01_R1_IMAG0022.JPG,1,28795010,28795010,blank,,,,,,,,
+KAR_S1#B01#1#8,2017-10-04,12:12:31,28795010,28795010,KAR_S1_B01_R1_IMAG0023.JPG,2,28795010,28795010,blank,,,,,,,,
+KAR_S1#B01#1#8,2017-10-04,12:12:31,28795010,28795010,KAR_S1_B01_R1_IMAG0024.JPG,3,28795010,28795010,blank,,,,,,,,
+KAR_S1#B01#1#15,2017-10-10,11:55:01,28795017,28795017,KAR_S1_B01_R1_IMAG0043.JPG,1,28795017,28795017,blank,,,,,,,,
+KAR_S1#B01#1#15,2017-10-10,11:55:01,28795017,28795017,KAR_S1_B01_R1_IMAG0044.JPG,2,28795017,28795017,blank,,,,,,,,
+KAR_S1#B01#1#15,2017-10-10,11:55:01,28795017,28795017,KAR_S1_B01_R1_IMAG0045.JPG,3,28795017,28795017,blank,,,,,,,,
+KAR_S1#B01#1#16,2017-10-11,12:58:32,28795018,28795018,KAR_S1_B01_R1_IMAG0046.JPG,1,28795018,28795018,blank,,,,,,,,
+KAR_S1#B01#1#16,2017-10-11,12:58:32,28795018,28795018,KAR_S1_B01_R1_IMAG0047.JPG,2,28795018,28795018,blank,,,,,,,,
+KAR_S1#B01#1#16,2017-10-11,12:58:32,28795018,28795018,KAR_S1_B01_R1_IMAG0048.JPG,3,28795018,28795018,blank,,,,,,,,
+KAR_S1#B01#1#17,2017-10-11,13:14:40,28795019,28795019,KAR_S1_B01_R1_IMAG0049.JPG,1,28795019,28795019,blank,,,,,,,,
+KAR_S1#B01#1#17,2017-10-11,13:14:40,28795019,28795019,KAR_S1_B01_R1_IMAG0050.JPG,2,28795019,28795019,blank,,,,,,,,
+KAR_S1#B01#1#17,2017-10-11,13:14:40,28795019,28795019,KAR_S1_B01_R1_IMAG0051.JPG,3,28795019,28795019,blank,,,,,,,,
+KAR_S1#B01#1#18,2017-10-11,13:23:27,28795020,28795020,KAR_S1_B01_R1_IMAG0052.JPG,1,28795020,28795020,blank,,,,,,,,
+KAR_S1#B01#1#18,2017-10-11,13:23:27,28795020,28795020,KAR_S1_B01_R1_IMAG0053.JPG,2,28795020,28795020,blank,,,,,,,,
+KAR_S1#B01#1#18,2017-10-11,13:23:27,28795020,28795020,KAR_S1_B01_R1_IMAG0054.JPG,3,28795020,28795020,blank,,,,,,,,
+KAR_S1#B01#1#19,2017-10-11,13:40:04,28795021,28795021,KAR_S1_B01_R1_IMAG0055.JPG,1,28795021,28795021,blank,,,,,,,,
+KAR_S1#B01#1#19,2017-10-11,13:40:04,28795021,28795021,KAR_S1_B01_R1_IMAG0056.JPG,2,28795021,28795021,blank,,,,,,,,
+KAR_S1#B01#1#19,2017-10-11,13:40:04,28795021,28795021,KAR_S1_B01_R1_IMAG0057.JPG,3,28795021,28795021,blank,,,,,,,,
+KAR_S1#B01#1#20,2017-10-11,13:46:38,28795022,28795022,KAR_S1_B01_R1_IMAG0058.JPG,1,28795022,28795022,blank,,,,,,,,
+KAR_S1#B01#1#20,2017-10-11,13:46:38,28795022,28795022,KAR_S1_B01_R1_IMAG0059.JPG,2,28795022,28795022,blank,,,,,,,,
+KAR_S1#B01#1#20,2017-10-11,13:46:38,28795022,28795022,KAR_S1_B01_R1_IMAG0060.JPG,3,28795022,28795022,blank,,,,,,,,
+KAR_S1#B01#1#21,2017-10-11,13:53:54,28795023,28795023,KAR_S1_B01_R1_IMAG0061.JPG,1,28795023,28795023,blank,,,,,,,,
+KAR_S1#B01#1#21,2017-10-11,13:53:54,28795023,28795023,KAR_S1_B01_R1_IMAG0062.JPG,2,28795023,28795023,blank,,,,,,,,
+KAR_S1#B01#1#21,2017-10-11,13:53:54,28795023,28795023,KAR_S1_B01_R1_IMAG0063.JPG,3,28795023,28795023,blank,,,,,,,,
+KAR_S1#B01#1#22,2017-10-11,14:01:53,28795024,28795024,KAR_S1_B01_R1_IMAG0064.JPG,1,28795024,28795024,blank,,,,,,,,
+KAR_S1#B01#1#22,2017-10-11,14:01:53,28795024,28795024,KAR_S1_B01_R1_IMAG0065.JPG,2,28795024,28795024,blank,,,,,,,,
+KAR_S1#B01#1#22,2017-10-11,14:01:53,28795024,28795024,KAR_S1_B01_R1_IMAG0066.JPG,3,28795024,28795024,blank,,,,,,,,
+KAR_S1#B01#1#23,2017-10-11,14:56:14,28795025,28795025,KAR_S1_B01_R1_IMAG0067.JPG,1,28795025,28795025,blank,,,,,,,,
+KAR_S1#B01#1#23,2017-10-11,14:56:14,28795025,28795025,KAR_S1_B01_R1_IMAG0068.JPG,2,28795025,28795025,blank,,,,,,,,
+KAR_S1#B01#1#23,2017-10-11,14:56:14,28795025,28795025,KAR_S1_B01_R1_IMAG0069.JPG,3,28795025,28795025,blank,,,,,,,,
+KAR_S1#B01#1#24,2017-10-11,18:09:03,28795026,28795026,KAR_S1_B01_R1_IMAG0070.JPG,1,28795026,28795026,blank,,,,,,,,
+KAR_S1#B01#1#24,2017-10-11,18:09:03,28795026,28795026,KAR_S1_B01_R1_IMAG0071.JPG,2,28795026,28795026,blank,,,,,,,,
+KAR_S1#B01#1#24,2017-10-11,18:09:03,28795026,28795026,KAR_S1_B01_R1_IMAG0072.JPG,3,28795026,28795026,blank,,,,,,,,
+KAR_S1#B01#1#25,2017-10-11,18:26:44,28795027,28795027,KAR_S1_B01_R1_IMAG0073.JPG,1,28795027,28795027,blank,,,,,,,,
+KAR_S1#B01#1#25,2017-10-11,18:26:44,28795027,28795027,KAR_S1_B01_R1_IMAG0074.JPG,2,28795027,28795027,blank,,,,,,,,
+KAR_S1#B01#1#25,2017-10-11,18:26:44,28795027,28795027,KAR_S1_B01_R1_IMAG0075.JPG,3,28795027,28795027,blank,,,,,,,,
+KAR_S1#B01#1#26,2017-10-11,18:30:21,28795028,28795028,KAR_S1_B01_R1_IMAG0076.JPG,1,28795028,28795028,blank,,,,,,,,
+KAR_S1#B01#1#26,2017-10-11,18:30:21,28795028,28795028,KAR_S1_B01_R1_IMAG0077.JPG,2,28795028,28795028,blank,,,,,,,,
+KAR_S1#B01#1#26,2017-10-11,18:30:21,28795028,28795028,KAR_S1_B01_R1_IMAG0078.JPG,3,28795028,28795028,blank,,,,,,,,
+KAR_S1#B01#1#34,2017-10-12,16:08:02,28795036,28795036,KAR_S1_B01_R1_IMAG0094.JPG,1,28795036,28795036,blank,,,,,,,,
+KAR_S1#B01#1#34,2017-10-12,16:08:02,28795036,28795036,KAR_S1_B01_R1_IMAG0095.JPG,2,28795036,28795036,blank,,,,,,,,
+KAR_S1#B01#1#34,2017-10-12,16:08:02,28795036,28795036,KAR_S1_B01_R1_IMAG0096.JPG,3,28795036,28795036,blank,,,,,,,,
+KAR_S1#B01#1#35,2017-10-12,16:18:23,28795037,28795037,KAR_S1_B01_R1_IMAG0097.JPG,1,28795037,28795037,blank,,,,,,,,
+KAR_S1#B01#1#35,2017-10-12,16:18:23,28795037,28795037,KAR_S1_B01_R1_IMAG0098.JPG,2,28795037,28795037,blank,,,,,,,,
+KAR_S1#B01#1#35,2017-10-12,16:18:23,28795037,28795037,KAR_S1_B01_R1_IMAG0099.JPG,3,28795037,28795037,blank,,,,,,,,
+KAR_S1#B01#1#36,2017-10-12,17:46:18,28795038,28795038,KAR_S1_B01_R1_IMAG0100.JPG,1,28795038,28795038,blank,,,,,,,,
+KAR_S1#B01#1#36,2017-10-12,17:46:18,28795038,28795038,KAR_S1_B01_R1_IMAG0101.JPG,2,28795038,28795038,blank,,,,,,,,
+KAR_S1#B01#1#36,2017-10-12,17:46:18,28795038,28795038,KAR_S1_B01_R1_IMAG0102.JPG,3,28795038,28795038,blank,,,,,,,,
+KAR_S1#B01#1#43,2017-10-13,13:15:27,28795045,28795045,KAR_S1_B01_R1_IMAG0111.JPG,1,28795045,28795045,blank,,,,,,,,
+KAR_S1#B01#1#43,2017-10-13,13:15:27,28795045,28795045,KAR_S1_B01_R1_IMAG0112.JPG,2,28795045,28795045,blank,,,,,,,,
+KAR_S1#B01#1#43,2017-10-13,13:15:27,28795045,28795045,KAR_S1_B01_R1_IMAG0113.JPG,3,28795045,28795045,blank,,,,,,,,
+KAR_S1#B01#1#44,2017-10-13,14:14:23,28795046,28795046,KAR_S1_B01_R1_IMAG0114.JPG,1,28795046,28795046,blank,,,,,,,,
+KAR_S1#B01#1#44,2017-10-13,14:14:23,28795046,28795046,KAR_S1_B01_R1_IMAG0115.JPG,2,28795046,28795046,blank,,,,,,,,
+KAR_S1#B01#1#44,2017-10-13,14:14:23,28795046,28795046,KAR_S1_B01_R1_IMAG0116.JPG,3,28795046,28795046,blank,,,,,,,,
+KAR_S1#B01#1#45,2017-10-13,15:19:03,28795047,28795047,KAR_S1_B01_R1_IMAG0117.JPG,1,28795047,28795047,blank,,,,,,,,
+KAR_S1#B01#1#45,2017-10-13,15:19:03,28795047,28795047,KAR_S1_B01_R1_IMAG0118.JPG,2,28795047,28795047,blank,,,,,,,,
+KAR_S1#B01#1#45,2017-10-13,15:19:03,28795047,28795047,KAR_S1_B01_R1_IMAG0119.JPG,3,28795047,28795047,blank,,,,,,,,
+KAR_S1#B01#1#46,2017-10-13,17:10:44,28795048,28795048,KAR_S1_B01_R1_IMAG0120.JPG,1,28795048,28795048,blank,,,,,,,,
+KAR_S1#B01#1#46,2017-10-13,17:10:44,28795048,28795048,KAR_S1_B01_R1_IMAG0121.JPG,2,28795048,28795048,blank,,,,,,,,
+KAR_S1#B01#1#46,2017-10-13,17:10:44,28795048,28795048,KAR_S1_B01_R1_IMAG0122.JPG,3,28795048,28795048,blank,,,,,,,,
+KAR_S1#B01#1#47,2017-10-13,17:36:34,28795049,28795049,KAR_S1_B01_R1_IMAG0123.JPG,1,28795049,28795049,blank,,,,,,,,
+KAR_S1#B01#1#47,2017-10-13,17:36:34,28795049,28795049,KAR_S1_B01_R1_IMAG0124.JPG,2,28795049,28795049,blank,,,,,,,,
+KAR_S1#B01#1#47,2017-10-13,17:36:34,28795049,28795049,KAR_S1_B01_R1_IMAG0125.JPG,3,28795049,28795049,blank,,,,,,,,
+KAR_S1#B01#1#48,2017-10-13,18:12:09,28795050,28795050,KAR_S1_B01_R1_IMAG0126.JPG,1,28795050,28795050,blank,,,,,,,,
+KAR_S1#B01#1#48,2017-10-13,18:12:09,28795050,28795050,KAR_S1_B01_R1_IMAG0127.JPG,2,28795050,28795050,blank,,,,,,,,
+KAR_S1#B01#1#48,2017-10-13,18:12:09,28795050,28795050,KAR_S1_B01_R1_IMAG0128.JPG,3,28795050,28795050,blank,,,,,,,,
+KAR_S1#B01#1#49,2017-10-13,18:16:13,28795051,28795051,KAR_S1_B01_R1_IMAG0129.JPG,1,28795051,28795051,blank,,,,,,,,
+KAR_S1#B01#1#49,2017-10-13,18:16:13,28795051,28795051,KAR_S1_B01_R1_IMAG0130.JPG,2,28795051,28795051,blank,,,,,,,,
+KAR_S1#B01#1#49,2017-10-13,18:16:13,28795051,28795051,KAR_S1_B01_R1_IMAG0131.JPG,3,28795051,28795051,blank,,,,,,,,
+KAR_S1#B01#1#85,2017-10-14,07:15:16,28795087,28795087,KAR_S1_B01_R1_IMAG0167.JPG,1,28795087,28795087,blank,,,,,,,,
+KAR_S1#B01#1#85,2017-10-14,07:15:16,28795087,28795087,KAR_S1_B01_R1_IMAG0168.JPG,2,28795087,28795087,blank,,,,,,,,
+KAR_S1#B01#1#85,2017-10-14,07:15:16,28795087,28795087,KAR_S1_B01_R1_IMAG0169.JPG,3,28795087,28795087,blank,,,,,,,,
+KAR_S1#B01#1#86,2017-10-14,07:46:52,28795088,28795088,KAR_S1_B01_R1_IMAG0170.JPG,1,28795088,28795088,blank,,,,,,,,
+KAR_S1#B01#1#86,2017-10-14,07:46:52,28795088,28795088,KAR_S1_B01_R1_IMAG0171.JPG,2,28795088,28795088,blank,,,,,,,,
+KAR_S1#B01#1#86,2017-10-14,07:46:52,28795088,28795088,KAR_S1_B01_R1_IMAG0172.JPG,3,28795088,28795088,blank,,,,,,,,
+KAR_S1#B01#1#87,2017-10-14,08:47:31,28795089,28795089,KAR_S1_B01_R1_IMAG0173.JPG,1,28795089,28795089,blank,,,,,,,,
+KAR_S1#B01#1#87,2017-10-14,08:47:31,28795089,28795089,KAR_S1_B01_R1_IMAG0174.JPG,2,28795089,28795089,blank,,,,,,,,
+KAR_S1#B01#1#87,2017-10-14,08:47:31,28795089,28795089,KAR_S1_B01_R1_IMAG0175.JPG,3,28795089,28795089,blank,,,,,,,,
+KAR_S1#B01#1#88,2017-10-14,10:09:32,28795090,28795090,KAR_S1_B01_R1_IMAG0176.JPG,1,28795090,28795090,blank,,,,,,,,
+KAR_S1#B01#1#88,2017-10-14,10:09:32,28795090,28795090,KAR_S1_B01_R1_IMAG0177.JPG,2,28795090,28795090,blank,,,,,,,,
+KAR_S1#B01#1#88,2017-10-14,10:09:32,28795090,28795090,KAR_S1_B01_R1_IMAG0178.JPG,3,28795090,28795090,blank,,,,,,,,
+KAR_S1#B01#1#89,2017-10-14,10:20:39,28795091,28795091,KAR_S1_B01_R1_IMAG0179.JPG,1,28795091,28795091,blank,,,,,,,,
+KAR_S1#B01#1#89,2017-10-14,10:20:39,28795091,28795091,KAR_S1_B01_R1_IMAG0180.JPG,2,28795091,28795091,blank,,,,,,,,
+KAR_S1#B01#1#89,2017-10-14,10:20:39,28795091,28795091,KAR_S1_B01_R1_IMAG0181.JPG,3,28795091,28795091,blank,,,,,,,,
+KAR_S1#B01#1#90,2017-10-14,10:38:33,28795092,28795092,KAR_S1_B01_R1_IMAG0182.JPG,1,28795092,28795092,blank,,,,,,,,
+KAR_S1#B01#1#90,2017-10-14,10:38:33,28795092,28795092,KAR_S1_B01_R1_IMAG0183.JPG,2,28795092,28795092,blank,,,,,,,,
+KAR_S1#B01#1#90,2017-10-14,10:38:33,28795092,28795092,KAR_S1_B01_R1_IMAG0184.JPG,3,28795092,28795092,blank,,,,,,,,
+KAR_S1#B01#1#91,2017-10-14,10:48:23,28795093,28795093,KAR_S1_B01_R1_IMAG0185.JPG,1,28795093,28795093,blank,,,,,,,,
+KAR_S1#B01#1#91,2017-10-14,10:48:23,28795093,28795093,KAR_S1_B01_R1_IMAG0186.JPG,2,28795093,28795093,blank,,,,,,,,
+KAR_S1#B01#1#91,2017-10-14,10:48:23,28795093,28795093,KAR_S1_B01_R1_IMAG0187.JPG,3,28795093,28795093,blank,,,,,,,,
+KAR_S1#B01#1#92,2017-10-14,11:25:08,28795094,28795094,KAR_S1_B01_R1_IMAG0188.JPG,1,28795094,28795094,blank,,,,,,,,
+KAR_S1#B01#1#92,2017-10-14,11:25:08,28795094,28795094,KAR_S1_B01_R1_IMAG0189.JPG,2,28795094,28795094,blank,,,,,,,,
+KAR_S1#B01#1#92,2017-10-14,11:25:08,28795094,28795094,KAR_S1_B01_R1_IMAG0190.JPG,3,28795094,28795094,blank,,,,,,,,
+KAR_S1#B01#1#93,2017-10-14,11:27:19,28795095,28795095,KAR_S1_B01_R1_IMAG0191.JPG,1,28795095,28795095,blank,,,,,,,,
+KAR_S1#B01#1#93,2017-10-14,11:27:19,28795095,28795095,KAR_S1_B01_R1_IMAG0192.JPG,2,28795095,28795095,blank,,,,,,,,
+KAR_S1#B01#1#93,2017-10-14,11:27:19,28795095,28795095,KAR_S1_B01_R1_IMAG0193.JPG,3,28795095,28795095,blank,,,,,,,,
+KAR_S1#B01#1#94,2017-10-14,11:29:35,28795096,28795096,KAR_S1_B01_R1_IMAG0194.JPG,1,28795096,28795096,blank,,,,,,,,
+KAR_S1#B01#1#94,2017-10-14,11:29:35,28795096,28795096,KAR_S1_B01_R1_IMAG0195.JPG,2,28795096,28795096,blank,,,,,,,,
+KAR_S1#B01#1#94,2017-10-14,11:29:35,28795096,28795096,KAR_S1_B01_R1_IMAG0196.JPG,3,28795096,28795096,blank,,,,,,,,
+KAR_S1#B01#1#95,2017-10-14,11:30:47,28795097,28795097,KAR_S1_B01_R1_IMAG0197.JPG,1,28795097,28795097,blank,,,,,,,,
+KAR_S1#B01#1#95,2017-10-14,11:30:47,28795097,28795097,KAR_S1_B01_R1_IMAG0198.JPG,2,28795097,28795097,blank,,,,,,,,
+KAR_S1#B01#1#95,2017-10-14,11:30:47,28795097,28795097,KAR_S1_B01_R1_IMAG0199.JPG,3,28795097,28795097,blank,,,,,,,,
+KAR_S1#B01#1#96,2017-10-14,13:01:39,28795098,28795098,KAR_S1_B01_R1_IMAG0200.JPG,1,28795098,28795098,blank,,,,,,,,
+KAR_S1#B01#1#96,2017-10-14,13:01:39,28795098,28795098,KAR_S1_B01_R1_IMAG0201.JPG,2,28795098,28795098,blank,,,,,,,,
