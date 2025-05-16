@@ -57,4 +57,5 @@ Invasive insects cause an estimated \$30 Billion in annual U.S. damages and thre
 - **Confidence Ellipses:** Compare predicted vs. actual spread  
 - **Centroid Error Maps:** Overlay forecast vs. ground truth
 
-
+![](asian_lady_beetle_confidence_ellipses.png)
+![](emerald_ash_borer_confidence_ellipses.png)
