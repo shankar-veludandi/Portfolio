@@ -8,6 +8,27 @@ Instead of standard softmax attention, Cotten4Rec uses a linear cosine similarit
 
 Empirical results show that Cotten4Rec offers substantial efficiency gains over both BERT4Rec and LinRec. It consistently uses 23% less GPU memory than either baseline across benchmark datasets. Cotten4Rec also speeds up training by 4% on Amazon Beauty and 20% on MovieLens-20M when compared to both BERT4Rec and LinRec. The performance tradeoff is that Cotten4Rec's recommendation quality (NDCG@10 and HIT@10) is within 2% of both BERT4Rec and LinRec. Overall, Cotten4Rec provides a practical, scalable alternative for sequential recommendation, delivering near SOTA accuracy with significantly lower resource requirements. It is well-suited for real-world deployments where faster training and reduced memory usage are as critical as recommendation quality.
 
+## Prequisites & Installation
+
+### 1. System Requirements
+- **OS:** Linux or macOS
+- **GPU & CUDA:** NVIDIA GPU with CUDA 12.2 installed
+- **Python:** 3.9
+
+### 2. Clone Repositories 
+```bash
+# Clone Mongaras' Cottention_Transformer repo for fused kernel
+git clone https://github.com/gmongaras/Cottention_Transformer.git
+# Clone this repo for main code and patched kernel
+git clone https://github.com/shankar-veludandi/Portfolio/cotten4rec.git
+```
+
+### 3. Copy the Patched CUDA kernel 
+```bash
+cp Portfolio/cotten4rec/patched_combined_kernel_general.cu \
+   Cottention_Transformer/Cuda_Kernel/combined_kernel_general.cu
+```
+
 ## Acknowledgements
 Inspired by the BERT4Rec (Sun et al., 2019) and Cottention (Mongaras et al., 2024) papers
 
