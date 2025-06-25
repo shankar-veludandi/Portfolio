@@ -4,6 +4,6 @@ A curated collection of computer-vision pipelines solving real-world conservatio
 
 | Project Folder                | Focus Area                                       |
 | ----------------------------- | ------------------------------------------------ |
-| `giraffe-zebra-classifier`         | Giraffe and zebra classification on camera-trap data |
-| `megadetector-classifier`    | Automatic blank-frame detection & filtering      |
-| `invasive-insect-spread-predictor`   | Classification and Spatio-temporal modeling of invasive insect species propagation  |
+| [`giraffe-zebra-classifier`](giraffe-zebra-classifier)         | Giraffe and zebra classification on camera-trap data |
+| [`megadetector-classifier`](megadetector-classifier)    | Automatic blank-frame detection & filtering      |
+| [`invasive-insect-spread-predictor`](invasive-insect-spread-predictor)   | Classification and Spatio-temporal modeling of invasive insect species propagation  |
