@@ -5,13 +5,13 @@ A from-scratch logistic‐regression pipeline tackling binary churn prediction o
 
 ---
 
-## 1. Problem Statement
+## Problem Statement
 
 **Predict whether a customer will churn (yes/no) based on demographic, service, and billing features** using logistic regression learned via gradient descent.
 
 ---
 
-## 2. Approach
+## Approach
 
 1. **Objective Derivation**  
    – Formulated the logistic‐regression likelihood, log‐likelihood, and Negative Log‐Likelihood (NLL) as the optimization target.  
@@ -35,9 +35,9 @@ A from-scratch logistic‐regression pipeline tackling binary churn prediction o
 
 ---
 
-## 3. Results
+## Results
 
-### 3.1 Gradient‐Descent Variants
+### 1. Gradient‐Descent Variants
 
 | Method       | Final Cost | Test Accuracy |
 |-------------:|-----------:|--------------:|
@@ -47,7 +47,7 @@ A from-scratch logistic‐regression pipeline tackling binary churn prediction o
 
 Mini-batch achieves the lowest cost and best accuracy among pure GD variants.
 
-### 3.2 Advanced Optimizers
+### 2. Advanced Optimizers
 
 | Optimizer | Test Accuracy | Precision | Recall | F1-Score |
 |----------:|--------------:|----------:|-------:|---------:|
@@ -58,12 +58,12 @@ Mini-batch achieves the lowest cost and best accuracy among pure GD variants.
 
 RMSProp yields the highest F1 (59.50%), while Momentum converges more smoothly than vanilla SGD.
 
-#### Hyperparameter Tuning (Momentum)
+### 3. Hyperparameter Tuning (Momentum)
 
 - **Best F1:** 59.89%  
 - **Best (learning_rate, βₘ):** (0.001, 0.95)  
 
 ---
 
-## 4. Usage
+## Usage
 Run customer_churn_predictor.ipynb
