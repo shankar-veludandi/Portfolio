@@ -4,7 +4,7 @@ An end-to-end regression pipeline predicting user–movie star ratings on MovieL
 
 ---
 
-## 1. AI/ML Problem
+## 1. Problem Statement
 
 **Regression:** Predict each user’s 1–5 rating for a given movie based solely on **UserID** and **MovieID** features.
 
