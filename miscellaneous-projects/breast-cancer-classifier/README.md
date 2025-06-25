@@ -4,13 +4,13 @@ An end-to-end binary classification workflow using the UCI Breast Cancer dataset
 
 ---
 
-## 1. AI/ML Problem
+## Problem Statement
 
 **Binary classification**: predict whether a tumor is **benign** or **malignant** from 30 numeric features (radius, texture, concavity, etc.).
 
 ---
 
-## 2. Approach & Tasks
+## Approach
 
 ### Task 1: Decision-Tree Complexity  
 - **Goal:** Understand how tree depth, split-size, and leaf-size affect under/overfitting.  
@@ -48,7 +48,7 @@ An end-to-end binary classification workflow using the UCI Breast Cancer dataset
 
 ---
 
-## 3. Results
+## Results
 
 - **Decision Tree** (depth=3): test accuracy ~90–92% but limited by bias/variance trade-off.  
 - **Random Forest**: ≈ 96.5% accuracy, 0.965 F1.  
@@ -57,5 +57,5 @@ An end-to-end binary classification workflow using the UCI Breast Cancer dataset
 
 ---
 
-## 4. Usage
+## Usage
 Run breat_cancer_classifier.ipynb
