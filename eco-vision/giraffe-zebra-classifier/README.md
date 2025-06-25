@@ -1,9 +1,9 @@
 # Wildlife Classifier Pipeline
 
-**Goal:**  
+## Problem Statement  
 Identify zebra and giraffe presence in camera-trap images (multi-label classification).
 
-**Key Steps:**  
+## Approach 
 1. **Data Preparation**:  
    - Stratified 70/15/15 split on {neither, zebra-only, giraffe-only, both}.  
    - Custom PyTorch `CameraTrapsDataset` with resizing, normalization, and augmentations.
@@ -17,7 +17,7 @@ Identify zebra and giraffe presence in camera-trap images (multi-label classific
    - Metrics: per-label accuracy, precision, recall, F1; multi-label subset accuracy.  
    - Visual: confusion heatmap for combined four-label outcomes.
 
-**Results:**  
+## Results  
 - **Final Test Accuracy:** 99.61%  
 - **Test Loss (best model):** 0.0248  
 - **Per-label Metrics (best model):**  
