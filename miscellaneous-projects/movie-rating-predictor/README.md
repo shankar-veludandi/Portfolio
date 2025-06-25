@@ -4,13 +4,13 @@ An end-to-end regression pipeline predicting user–movie star ratings on MovieL
 
 ---
 
-## 1. Problem Statement
+## Problem Statement
 
 **Regression:** Predict each user’s 1–5 rating for a given movie based solely on **UserID** and **MovieID** features.
 
 ---
 
-## 2. Approach
+## Approach
 
 1. **Data & Preprocessing**  
    - Loaded 1,000,209 MovieLens ratings (`UserID`, `MovieID`, `Rating`, `Timestamp`).  
@@ -31,7 +31,7 @@ An end-to-end regression pipeline predicting user–movie star ratings on MovieL
 
 ---
 
-## 3. Results
+## Results
 
 | Model                       | Test MSE   |
 |-----------------------------|-----------:|
@@ -42,5 +42,5 @@ An end-to-end regression pipeline predicting user–movie star ratings on MovieL
 
 ---
 
-## 4. Usage
+## Usage
 Run movie_rating_predictor.ipynb
