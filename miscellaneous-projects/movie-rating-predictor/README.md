@@ -1,4 +1,4 @@
-# Movie Rating Predictor (Neural Network vs. Linear Regression)
+# Movie Rating Predictor
 
 An end-to-end regression pipeline predicting user–movie star ratings on MovieLens data, comparing a simple two-layer neural network against a linear‐regression baseline.
 
