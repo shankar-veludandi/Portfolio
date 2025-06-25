@@ -2,13 +2,13 @@
 
 The classifier is a BioCLIP CustomLabelsClassifier on a balanced invasive vs. native look-a-like species using iNaturalist data. The spread predictor is a hybrid CNN–LSTM model to forecast the geographic propagation of invasive insect species using iNaturalist data.
 
-## 1. Conservation Motivation
+## Conservation Motivation
 
 Invasive insects cause an estimated \$30 Billion in annual U.S. damages and threaten ecosystem health by out-competing native species. Early identification and spread forecasting are critical to prioritize interventions.
 
 ---
 
-## 2. Data Source & Processing
+## Data Source & Processing
 
 - **Data:** 171,545 images of target invasive species and 67,395 of native look-alikes from iNaturalist, filtered to the northeastern U.S.  
 - **Features:**  
@@ -18,7 +18,7 @@ Invasive insects cause an estimated \$30 Billion in annual U.S. damages and thre
 
 ---
 
-## 3. Model Architecture
+## Model Architecture
 
   1. **CNN** encodes spatial grids of sightings  
   2. **LSTM** captures temporal patterns (seasonality)  
@@ -26,7 +26,7 @@ Invasive insects cause an estimated \$30 Billion in annual U.S. damages and thre
 
 ---
 
-## 4. Training & Evaluation
+## Training & Evaluation
 
 - **Loss:** Mean Squared Error  
 - **Early Stopping:** on validation MSE (patience = 5 epochs)  
@@ -37,7 +37,7 @@ Invasive insects cause an estimated \$30 Billion in annual U.S. damages and thre
 
 ---
 
-## 5. Key Results
+## Key Results
 
 | Species                  | # Sightings | Test Loss | Test MAE | Mean Geo Error (km) |
 |--------------------------|------------:|----------:|---------:|--------------------:|
@@ -48,10 +48,16 @@ Invasive insects cause an estimated \$30 Billion in annual U.S. damages and thre
 
 ---
 
-## 6. Visualization
+## Visualization
 
 - **Confidence Ellipses:** Compare predicted vs. actual spread  
 - **Centroid Error Maps:** Overlay forecast vs. ground truth
 
 ![](asian_lady_beetle_confidence_ellipses.png)
 ![](emerald_ash_borer_confidence_ellipses.png)
+
+---
+
+## Usage
+1. Download iNaturalist_metadata.csv and run invasive_insect_classifier.ipynb for the classification task.
+3. Download northeast_native_insects.csv and run invasive_insect_spread_predictor.ipynb for the prediction task.
