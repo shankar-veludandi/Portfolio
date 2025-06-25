@@ -85,3 +85,8 @@ Extract and visualize BERT embeddings; define a custom “dissimilarity” metri
   - Cosine favors semantic siblings (high cat↔lion)  
   - Custom highlights both semantic closeness and magnitude differences  
   - Heatmaps reveal nuanced contrasts between metrics
+
+---
+
+## 4. Usage
+Run sequence_modeling_and_embeddings.ipynb
