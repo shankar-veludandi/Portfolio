@@ -1,20 +1,16 @@
 # Analysis of NBA Franchise Financial Decisions on On-Court Performance
 
-End-to-end analysis from data scraping and cleaning to modeling and evaluation.
-
-## 1. Trade Market Dynamics & Team Success
-
-**Objective**  
+## Objective  
 Investigate whether an NBA franchises’ financial decision making (salary‐cap space, luxury‐tax exemptions, cash, and contract value) predicts next‐season on‐court performance and playoff qualification.
 
-**Data**  
+## Data  
 - **Seasons:** 2012–13 through 2023–24 (10 years)  
 - **Sources:**  
   - NBA advanced metrics via the NBA API (`nba_api`)  
   - Salary & luxury‐tax data scraped from Spotrac  
 - **Panel:** 360 team‐season observations after cleaning & merging
 
-**Methods**  
+## Approach
 1. **Feature Engineering:**  
    - Five utilization ratios (cap, tax, cash, AAV, off-season spend) standardized and lagged by one year  
    - Composite performance index (PC1) via PCA on five efficiency metrics  
@@ -25,10 +21,11 @@ Investigate whether an NBA franchises’ financial decision making (salary‐cap
    - **Regression:** Out-of-sample RMSE (~1.7–1.8) & R²  
    - **Classification:** ROC‐AUC (~0.49, no better than chance)  
 
-**Key Findings**  
+## Results 
 - Only **cap_util** and **cash_util** survived LASSO penalization  
 - All regressors yielded similar RMSE (~1.70)  
 - Playoff classifiers failed to discriminate (AUC ≈ 0.49)  
 - Financial “savvy” alone is a weak predictor of team success
 
-[R Markdown File](https://shankar-veludandi.github.io/ITWS_6600/DataAnalytics_A4_Shankar_Veludandi.html)
+## Usage
+Copy paste and run the code chunks from this [R Markdown file](https://shankar-veludandi.github.io/ITWS_6600/DataAnalytics_A4_Shankar_Veludandi.html)
