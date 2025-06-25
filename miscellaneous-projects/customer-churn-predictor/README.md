@@ -1,4 +1,4 @@
-# Customer Churn Modeling (Logistic Regression from Scratch)
+# Customer Churn Modeling
 
 A from-scratch logistic‐regression pipeline tackling binary churn prediction on the Telco Customer Churn dataset. This project spans theoretical derivation, exploratory data analysis, feature engineering, and an in-depth comparison of gradient-descent variants and advanced optimizers.
 
