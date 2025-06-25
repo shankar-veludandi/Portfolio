@@ -44,11 +44,3 @@ We explore logistic regression and SVM classifiers, combined with two feature‐
 | SVM + L1 (Lasso)                    | 26   | 0.142       | 0.912    |
 
 ★ **Final submission** to Codalab (AUC 0.9101 on the external test set; feature‐selection bal. acc 0.9603).
-
----
-
-## How to reproduce  
-
-1. **Install R dependencies**  
-   ```r
-   install.packages(c("glmnet","e1071","caret","pROC","dplyr","ggplot2","knitr"))
