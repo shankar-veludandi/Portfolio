@@ -27,6 +27,9 @@ Generate “Tiny Shakespeare”–style text one character at a time.
 - **50 epochs:** RNN learns local patterns; LSTM yields more coherent snippets  
 - **500 epochs:** Both produce fluent Shakespeare-like phrases; LSTM captures longer dependencies with fewer nonsensical fragments
 
+**Usage:**
+Run cells 1-9 of sequence_modeling_and_embeddings.ipynb for Task 1
+
 ---
 
 ## 2. Time‐Series Forecasting of Daily Minimum Temperatures
@@ -54,6 +57,9 @@ Predict next‐day minimum temperature in Melbourne from a univariate time serie
 | GRU           | 3.62      |
 
 > Both LSTM and GRU outperform vanilla RNN; LSTM achieves the lowest validation and test RMSE by capturing longer‐range temporal dependencies.
+
+**Usage:**
+Run cells 10-13 of sequence_modeling_and_embeddings.ipynb for Task 2
 
 ---
 
@@ -86,7 +92,5 @@ Extract and visualize BERT embeddings; define a custom “dissimilarity” metri
   - Custom highlights both semantic closeness and magnitude differences  
   - Heatmaps reveal nuanced contrasts between metrics
 
----
-
-## 4. Usage
-Run sequence_modeling_and_embeddings.ipynb
+**Usage:**
+Run cells 14-16 of sequence_modeling_and_embeddings.ipynb for Task 3
