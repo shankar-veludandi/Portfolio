@@ -28,9 +28,7 @@ Characterize the Karoo camera‐trap dataset before modeling.
   - oryx gazella: 219  
   - tragelaphus oryx: 89  
   - antidorcas marsupialis: 78  
-- **Class imbalance & blank‐frame prevalence** were identified as primary challenges.  
-
-![](species_distribution.png)
+- **Class imbalance & blank‐frame prevalence** were identified as primary challenges. View EDA.ipynb for the graph.
 
 ---
 
@@ -45,8 +43,7 @@ Automatically flag “blank” (no animals) vs. “filled” images using the ma
 3. Generate a Precision–Recall curve and pick the decision rule (here the default 0.5 threshold produced strong results).
 
 **Results:**  
-- **Precision–Recall Curve:**  
-  ![](PR_curve.png)  
+- **Precision–Recall Curve:** View megadetector.ipynb for the graph. 
 - **Threshold used:** 0.50  
 - **F1 Score:** 0.9245  
 - **Confusion Matrix (blank vs. filled):**
