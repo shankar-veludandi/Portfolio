@@ -54,3 +54,8 @@ An end-to-end binary classification workflow using the UCI Breast Cancer dataset
 - **Random Forest**: ≈ 96.5% accuracy, 0.965 F1.  
 - **XGBoost**: ≈ 96.8% accuracy, 0.967 F1 — best ensemble.  
 - **Optimized XGBoost**: 97.4% CV accuracy with tuned hyperparameters.
+
+---
+
+## 4. Usage
+Run breat_cancer_classifier.ipynb
