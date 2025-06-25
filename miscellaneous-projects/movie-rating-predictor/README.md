@@ -39,3 +39,8 @@ An end-to-end regression pipeline predicting user–movie star ratings on MovieL
 | **Linear Regression**       | 1.2022     |
 
 > The neural network converged smoothly (train/dev loss ≈1.21 after ~200 epochs) and modestly outperformed linear regression, highlighting that even simple non-linear models can capture subtle user–movie interactions beyond a purely linear fit.
+
+---
+
+## 4. Usage
+Run breat_cancer_classifier.ipynb
