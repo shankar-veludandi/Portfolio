@@ -63,4 +63,7 @@ RMSProp yields the highest F1 (59.50%), while Momentum converges more smoothly t
 - **Best F1:** 59.89%  
 - **Best (learning_rate, βₘ):** (0.001, 0.95)  
 
+---
 
+## 4. Usage
+Run customer_churn_predictor.ipynb
