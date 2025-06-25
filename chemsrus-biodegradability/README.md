@@ -5,8 +5,7 @@ Shankar Veludandi (veluds)
 ---
 
 ## Overview  
-This project tackles the 2024 ChemsRUs “Predicting Biodegradability” challenge on Codalab.  
-We explore logistic regression and SVM classifiers, combined with two feature‐selection methods—RFE and L1‐regularization—to maximize AUC and balanced accuracy on held‐out data.
+This project tackles the 2024 ChemsRUs “Predicting Biodegradability” challenge on Codalab. This is a binary classification task to predict whether each chemical is biodegradable or non-biodegradable. We explore logistic regression and SVM classifiers, combined with two feature‐selection methods—RFE and L1‐regularization—to maximize AUC and balanced accuracy on held‐out data.
 
 ---
 
