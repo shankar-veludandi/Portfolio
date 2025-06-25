@@ -43,4 +43,4 @@ An end-to-end regression pipeline predicting user–movie star ratings on MovieL
 ---
 
 ## 4. Usage
-Run breat_cancer_classifier.ipynb
+Run movie_rating_predictor.ipynb
