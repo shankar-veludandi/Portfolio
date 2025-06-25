@@ -58,4 +58,16 @@ Classify r/AskReddit posts as **high engagement** or **low engagement** based on
 
 ## Usage  
 
+1. **Clone the repo & enter the folder:**  
+   ```bash
+   git clone https://github.com/shankar-veludandi/Portfolio.git
+   cd Portfolio/social-computing/reddit-engagement
+   ```
+2. **Install dependencies:**
+   ```bash
+   pip install praw nltk spacy pandas numpy scikit-learn matplotlib seaborn
+   python -m spacy download en_core_web_sm
+   ```
+3. **Run the classifier:** `python reddit_engagement.py`
 
+   
