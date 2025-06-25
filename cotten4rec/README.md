@@ -8,6 +8,12 @@ Instead of standard softmax attention, Cotten4Rec uses a linear cosine similarit
 
 Empirical results show that Cotten4Rec offers substantial efficiency gains over both BERT4Rec and LinRec. It consistently uses 23% less GPU memory than either baseline across benchmark datasets. Cotten4Rec also speeds up training by 4% on Amazon Beauty and 20% on MovieLens-20M when compared to both BERT4Rec and LinRec. The performance tradeoff is that Cotten4Rec's recommendation quality (NDCG@10 and HIT@10) is within 2% of both BERT4Rec and LinRec. Overall, Cotten4Rec provides a practical, scalable alternative for sequential recommendation, delivering near SOTA accuracy with significantly lower resource requirements. It is well-suited for real-world deployments where faster training and reduced memory usage are as critical as recommendation quality.
 
+## Publication Status
+
+> 🚧 **Under review**  
+> This work has been submitted as a Feature Article to *IEEE Intelligent Systems Magazine* and is currently under review.  
+> You can read the full submitted manuscript here:  [On the Efficiency of Sequentially Aware Recommender Systems: Cotten4Rec](On_the_Efficiency_of_Sequentially_Aware_Recommender_Systems_Cotten4Rec.pdf) 📄
+
 ## Installation & Setup
 These steps will get Cotten4Rec up and running, whether on a local GPU machine or via an HPC cluster.
 
@@ -81,9 +87,6 @@ If you're on an HPC system where you request a GPU node, you can still run noteb
    ```
 
 Now run the Cotten4Rec, BERT4Rec, and LinRec jupyter notebooks across the ML-1M, ML-20M, and Amazon Beauty datasets in your brower!
-
-## Publication
-You can view our feature article submission to the IEEE Intelligent Systems Magazine in On_the_Efficiency_of_Sequentially_Aware_Recommender_Systems_Cotten4Rec.pdf 
 
 ## Acknowledgements
 Based on the [BERT4Rec](https://arxiv.org/abs/1904.06690) (Sun et al., 2019) and [Cottention](https://arxiv.org/abs/2409.18747) (Mongaras et al., 2024) papers
