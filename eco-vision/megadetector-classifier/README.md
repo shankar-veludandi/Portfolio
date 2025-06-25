@@ -1,5 +1,11 @@
+# MegaDetector Blank-Frame Classifier
 
-## 1. Transformer Parameter Derivation
+## Problem Statement
+Automatically distinguish **blank** (no animals) vs. **filled** (at least one animal) camera trap images using MegaDetector detections.
+
+---
+
+## Task 1. Transformer Parameter Derivation
 
 **Goal:**  
 Derive the total number of trainable weights in one encoder block of a multi‐headed self‐attention transformer given:
@@ -15,12 +21,12 @@ Multi-Head Attention + Feed-Forward Network = $4d^2_k + 8d^2_k = 12d^2_k$
 
 ---
 
-## 2. Exploratory Data Analysis
+## Task 2. Exploratory Data Analysis
 
 **Goal:**  
 Characterize the Karoo camera‐trap dataset before modeling.
 
-**Key Findings:**  
+**Results:**  
 - **Total images:** 1 000  
 - **Empty (blank) images:** 218 
 - **Unique species:** 13  
@@ -32,7 +38,7 @@ Characterize the Karoo camera‐trap dataset before modeling.
 
 ---
 
-## 3. Blank‐Frame Classification with MegaDetector
+## Task 3. Blank‐Frame Classification with MegaDetector
 
 **Goal:**  
 Automatically flag “blank” (no animals) vs. “filled” images using the maximum confidence from MegaDetector detections.
@@ -54,3 +60,9 @@ $$
 109 & 673 \\
 \end{pmatrix}
 $$
+
+---
+
+## Usage
+1. Download metadata.csv
+2. Run EDA.ipynb and megadetector_classifier.ipynb
