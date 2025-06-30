@@ -10,7 +10,7 @@ Invasive insects cause an estimated \$30 Billion in annual U.S. damages and thre
 
 ## Data Source & Processing
 
-- **Data:** 171,545 images of target invasive species and 67,395 of native look-alikes from iNaturalist, filtered to the northeastern U.S.  
+- **Data:** 69,590 images of target invasive species and 34,375 of native look-alikes from iNaturalist, filtered to the northeastern U.S.  
 - **Features:**  
   - **Spatial:** latitude, longitude, one-hot region codes  
   - **Temporal:** year, month, day, normalized “time percentile”  
