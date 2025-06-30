@@ -42,7 +42,7 @@ These projects highlight the depth and impact of my ML work:
 
 | Project | Description |
 | ------- | ----------- |
-| [NBA Performance Predictor from Financial Data](./statistical-machine-learning/nba-performance-predictor) | Predict on-court performance from an NBA franchises' financial decision making using regression and classification models. |
+| [NBA Franchise Performance Predictor](./statistical-machine-learning/nba-performance-predictor) | Predict on-court performance from an NBA franchises' financial decision making using regression and classification models. |
 | [Giraffe and Zebra Classifier](./computer-vision/giraffe-zebra-classifier) | Classify zebras and giraffes from camera-trap images using a pretrained ResNet50. 
 | [Breast Cancer Classifier](./statistical-machine-learning/breast-cancer-classifier) | Classify tumors in the Wisconsin dataset using Random Forest and XGBoost. |
 | [Movie Rating Predictor](./statistical-machine-learning/movie-rating-predictor) | Build rating-prediction models on MovieLens data with matrix factorization and regression. |
