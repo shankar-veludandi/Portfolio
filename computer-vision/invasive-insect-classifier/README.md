@@ -9,8 +9,8 @@ Invasive insect species cause an estimated \$30 B in annual U.S. damages and thr
 
 1. **Data**  
    - Two CSVs of image URLs:  
-     - `northeast_invasive_insects.csv` (69 K images of target invasive species)  
-     - `northeast_native_insects.csv` (34 K images of morphologically similar native species)  
+     - `northeast_invasive_insects.csv` (69,590 images of target invasive species)  
+     - `northeast_native_insects.csv` (34,375 images of morphologically similar native species)  
    - Filtered to the northeastern United States.
 
 2. **Model**  
