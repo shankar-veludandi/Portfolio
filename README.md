@@ -10,10 +10,10 @@ These projects highlight the depth and impact of my ML work:
 
 | Project | Description |
 | ------- | ----------- |
-| [Cotten4Rec](./recommender-systems/cotten4rec) | Cosine similarity attention mechanism with fused-kernel optimization for sequence recommendation models, reducing memory overhead and kernel launches for faster inference. |
-| [Invasive Insect Classifier](./computer-vision/invasive-insect-classifier) | Classify invasive insect species from native lookalikes in the northeastern U.S. using BioCLIP. |
-| [Invasive Insect Spread Predictor](./data-analytics/invasive-insect-spread-predictor) | Predict invasive insect species propagation across counties in the northeastern U.S. using a hybrid LSTM-CNN model to integrate geospatial-temporal features. |
-| [Chemical Biodegradability Predictor](./data-analytics/chemical-biodegradability-predictor) | Binary classification of chemical biodegradability via SVM and logistic regression, using RFE to select top molecular descriptors for feature selection. |
+| [Cotten4Rec](./recommender-systems/cotten4rec) | Implemented a novel cosine similarity attention mechanism with fused-kernel optimization for sequence recommendation on ML-1M, ML-20M, and Amazon Beauty. Reduced GPU memory usage by 23% across all datasets and decreased training time by up to 20% on ML-1M compared to SOTA BERT4Rec and LinRec. |
+| [Invasive Insect Classifier](./computer-vision/invasive-insect-classifier) | Utilized BioCLIP CustomLabelsClassifier to distinguish invasive vs. native look-alike insect species. Achieved 95.1% accuracy, 95.2% precision, and 95.14% recall on test images. | 
+| [Invasive Insect Spread Predictor](./data-analytics/invasive-insect-spread-predictor) | Built a hybrid CNN-LSTM geospatial-temporal model forecasting county-level spread. Achieved a mean centroid error of 47 km and an average spread error of 3°. |
+| [Chemical Biodegradability Predictor](./data-analytics/chemical-biodegradability-predictor) | Trained a SVM classifier with RFE-based feature selection on molecular descriptors. Achieved an AUC of 0.91 and a BAC of 0.96. |
 
 ---
 
@@ -21,8 +21,8 @@ These projects highlight the depth and impact of my ML work:
 
 | Project | Description |
 | ------- | ----------- |
-| [Giraffe and Zebra Classifier](./computer-vision/giraffe-zebra-classifier) | Classify zebras and giraffes from camera-trap images using a pretrained ResNet50. 
-| [MegaDetector](./computer-vision/megadetector-classifier) | Blank-frame vs. animal detection in camera-trap images using MegaDetector outputs and precision–recall analysis. |
+| [Giraffe and Zebra Classifier](./computer-vision/giraffe-zebra-classifier) | Fine-tuned a ResNet50 with BCEWithLogitsLoss and AdamW on camera-trap images. Achieved 99.6% accuracy and an F1-score of 0.99 per class.
+| [MegaDetector](./computer-vision/megadetector-classifier) | Applied a 0.5 confidence threshold to MedgaDetector v5 outputs for blank-frame detection on camera-trap images. Achieved an F1-score of 0.92. |
 
 ---
 
@@ -30,9 +30,9 @@ These projects highlight the depth and impact of my ML work:
 
 | Project | Description |
 | ------- | ----------- |
-| [Sequence Modeling and Embeddings](./natural-language-processing/sequence-modeling-and-embeddings) | Compare RNN, LSTM, and Transformer architectures with token embeddings on sequence tasks. |
-| [Reddit Engagement Classifier](./natural-language-processing/reddit-engagement) | Classify r/AskReddit posts as high/low engagement via TF–IDF, sentiment, and temporal features. |
-| [Twitter Profile Gender Predictor](./natural-language-processing/gender-prediction) | Predict user gender from Twitter profile data and text using Naive Bayes classification. |
+| [Sequence Modeling and Embeddings](./natural-language-processing/sequence-modeling-and-embeddings) | Compared RNN, LSTM, and Transformer architectures with token embeddings on sequence tasks. |
+| [Reddit Engagement Classifier](./natural-language-processing/reddit-engagement) | Trained an RBF-kernel SVM on TF–IDF, POS, sentiment & temporal features. Achieved 82% accuracy and F1-scores of 0.81 (low-engagement) and 0.71 (high-engagement). |
+| [Twitter Profile Gender Predictor](./natural-language-processing/gender-prediction) | Utilized Naive Bayes on TF–IDF features from tweets and bios combined with RGB color features. Averaged 65% accuracy, precision, and recall across five-fold cross-validation. |
 
 ---
 
@@ -40,10 +40,10 @@ These projects highlight the depth and impact of my ML work:
 
 | Project | Description |
 | ------- | ----------- |
-| [NBA Franchise Performance Predictor](./data-analytics/nba-performance-predictor) | Predict on-court performance from an NBA franchises' financial decision making using regression and classification models. |
-| [Breast Cancer Classifier](./data-analytics/breast-cancer-classifier) | Classify tumors in the Wisconsin dataset using Random Forest and XGBoost. |
-| [Movie Rating Predictor](./data-analytics/movie-rating-predictor) | Build rating-prediction models on MovieLens data with matrix factorization and regression. |
-| [Customer Churn Predictor](./data-analytics/customer-churn-predictor) | Predict customer churn via feature engineering and classification algorithms. |
+| [Breast Cancer Classifier](./data-analytics/breast-cancer-classifier) | Optimized XGBoost ensemble with five-fold cross-validation on the Wisconsin Breast Cancer dataset. Achieved 97.4% CV accuracy and a 0.967 F1-score. |
+| [Customer Churn Predictor](./data-analytics/customer-churn-predictor) | Implemented logistic regression from scratch with SGD, Momentum, RMSProp, and Adam optimizers on the Telco Customer Churn dataset. RMSProp achieved 69% accuracy and an F1-score of 0.595. |
+| [Movie Rating Predictor](./data-analytics/movie-rating-predictor) | Compared a two-layer neural network to linear regression on MovieLens-1M. The neural network achieved an MSE of 1.19  compared to 1.20 for the linear model. |
+| [NBA Team Performance Predictor](./data-analytics/nba-performance-predictor) | Applied PCA on team performance efficiency metrics and evaluated OLS, Lasso, Random Forest, and logistic models on team financial data. The best regression model achieved an RMSE of 1.70 for point differential and a playoff classifier AUC of 0.49. |
 
 ---
 
@@ -51,7 +51,7 @@ These projects highlight the depth and impact of my ML work:
 
 | Project | Description |
 | ------- | ----------- |
-| [Pacman](./artificial-intelligence/pacman) | UC Berkeley CS188 Pacman projects |
+| [Pacman](./artificial-intelligence/pacman) | Implemented UC Berkeley CS188 algorithms including DFS, BFS, UCS, A*, Minimax/αβ, Expectimax, particle filters, value iteration, and Q-learning for Pacman. |
 
 ---
 
