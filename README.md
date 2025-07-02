@@ -30,7 +30,7 @@ These projects highlight the depth and impact of my ML work:
 
 | Project | Description |
 | ------- | ----------- |
-| [Sequence Modeling and Embeddings](./natural-language-processing/sequence-modeling-and-embeddings) | Compared RNN, LSTM, and Transformer architectures with token embeddings on sequence tasks. |
+| [Sequence Modeling and Embeddings](./natural-language-processing/sequence-modeling-and-embeddings) | (1) Char-level LM: LSTM generated fluent “Tiny Shakespeare” text by 500 epochs. (2) Time-series forecasting: LSTM achieved the lowest RMSE at 2.99 compared to GRU and RNN on next-day temperatures. (3) BERT-embedding visualization: PCA clusters aligned semantically and a custom α-weighted dissimilarity metric revealed nuanced relationships beyond cosine alone. |
 | [Reddit Engagement Classifier](./natural-language-processing/reddit-engagement) | Trained an RBF-kernel SVM on TF–IDF, POS, sentiment & temporal features. Achieved 82% accuracy and F1-scores of 0.81 (low-engagement) and 0.71 (high-engagement). |
 | [Twitter Profile Gender Predictor](./natural-language-processing/gender-prediction) | Utilized Naive Bayes on TF–IDF features from tweets and bios combined with RGB color features. Averaged 65% accuracy, precision, and recall across five-fold cross-validation. |
 
