@@ -1,6 +1,6 @@
-# Invasive Insect Classifier & Spread Predictor
+# Invasive Insect Spread Predictor
 
-The classifier is a BioCLIP CustomLabelsClassifier on a balanced invasive vs. native look-a-like species using iNaturalist data. The spread predictor is a hybrid CNN–LSTM model to forecast the geographic propagation of invasive insect species using iNaturalist data.
+The spread predictor is a hybrid CNN–LSTM model to forecast the geographic propagation of invasive insect species using iNaturalist data.
 
 ## Conservation Motivation
 
